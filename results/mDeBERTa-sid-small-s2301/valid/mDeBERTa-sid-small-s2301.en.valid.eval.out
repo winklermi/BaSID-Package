@@ -1,0 +1,15 @@
+recall:    0.9768211920529801
+precision: 0.9735973597359736
+slot-f1:   0.975206611570248
+intents:   1.0
+fullCor:   0.9466666666666667
+
+unlabeled
+ul_recall:    0.9867549668874173
+ul_precision: 0.9834983498349835
+ul_slot-f1:   0.9851239669421488
+
+loose (partial overlap with same label)
+l_recall:    0.9900662251655629
+l_precision: 0.9867986798679867
+l_slot-f1:   0.9884297520661156
