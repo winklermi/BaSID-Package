@@ -1,0 +1,4058 @@
+Werds	O
+heid	B-weather/attribute
+regna	O
+?	O
+
+Wia	O
+hoaß	B-weather/attribute
+werds	O
+heid	B-weather/attribute
+
+Wia	iss?
+Wia	O
+hoaß	B-weather/attribute
+iss	O
+?	O
+
+Werds	O
+heid	O
+sonnig	B-weather/attribute
+?	O
+
+Is	O
+es	O
+heid	B-weather/attribute
+bewölkt	O
+?	O
+
+Lösch	O
+alle	B-object_name
+meine	I-object_name
+Erinnerungen	I-object_name
+.	O
+
+Weichane	O
+Alarme	O
+hob	O
+i	O
+gsetzt	O
+?	O
+
+I	O
+brauch	O
+an	O
+alarm	O
+füa	O
+5	B-datetime
+nammiddog	I-datetime
+um	O
+mi	O
+dro	O
+zum	O
+erinnern	O
+mei	O
+Medizin	O
+zum	O
+nehma	O
+
+Setz	O
+an	O
+alarm	O
+füa	O
+olle	O
+3	B-datetime
+Minutn	I-datetime
+
+Werds	O
+heid	B-weather/attribute
+stürmen	B-weather/attribute
+?	O
+
+Lösch	O
+den	O
+Alarm	O
+vom	O
+nammiddog	O
+.	O
+
+Werds	O
+nächste	O
+Woch	O
+regna	O
+?	O
+
+Wos	O
+is	O
+de	O
+Vorhersage	O
+füa	O
+nächste	O
+Woch	O
+?	O
+
+Lies	O
+ma	O
+meine	B-object_name
+Erinnerungen	I-object_name
+voa	O
+.	O
+
+Zoag	B-track
+olle	I-track
+Wegga	I-track
+
+Alarm	O
+olle	O
+fünf	B-datetime
+Minutn	I-datetime
+füa	O
+20	B-datetime
+Minutn	I-datetime
+bitte	O
+
+Änder	O
+den	O
+Alarm	O
+vo	O
+moang	O
+in	O
+da	O
+fria	O
+zu	O
+6	B-datetime
+in	I-datetime
+da	I-datetime
+fria	I-datetime
+.	O
+
+Lösch	B-object_name
+alle	I-object_name
+Erinnerungen	I-object_name
+
+Zoag	B-track
+ma	I-track
+meine	I-track
+Wegga	I-track
+
+Lösch	B-artist
+Wegga	I-artist
+
+Stei	B-movie_name
+an	I-movie_name
+Wegga	I-movie_name
+füa	B-datetime
+6	I-datetime
+in	O
+da	O
+fria	B-location
+moang	I-location
+
+Stei	B-movie_name
+an	I-movie_name
+Wegga	I-movie_name
+füa	I-movie_name
+7	B-datetime
+in	O
+da	O
+fria	B-location
+moang	I-location
+
+Stei	B-movie_name
+an	I-movie_name
+Wegga	I-movie_name
+füa	O
+6	B-datetime
+in	O
+da	O
+fria	O
+
+I	B-object_name
+brauch	I-object_name
+a	I-object_name
+Erinnerung	I-object_name
+um	I-object_name
+Lisa	I-object_name
+abzumhoin	I-object_name
+
+Zoag	B-datetime
+alle	O
+Wegga	B-artist
+
+Schoid	O
+alle	B-reference
+Alarme	O
+aus	O
+
+Wos	O
+san	O
+meine	O
+Erinnerungen	O
+?	O
+
+Is	O
+es	O
+hoaß	B-weather/attribute
+draußn	O
+
+Snooze	O
+Wegga	B-artist
+
+Wegga	B-artist
+o	O
+
+Stei	O
+an	O
+Alarm	O
+füa	O
+6	O
+in	O
+da	O
+fria	B-datetime
+am	I-datetime
+Mittwoch	I-datetime
+
+Erinner	O
+mi	O
+meine	O
+Unterrichtspläne	O
+jedn	B-datetime
+Mondog	I-datetime
+bis	I-datetime
+Tagesende	I-datetime
+einzumreicha	O
+
+Wia	O
+hoaß	B-weather/attribute
+werds	O
+heid	O
+wern	O
+
+Lösch	O
+alle	O
+gsetztn	B-artist
+Wegga	I-artist
+.	O
+
+Zoag	B-datetime
+alle	O
+Wegga	B-artist
+
+Werds	O
+heid	O
+sonnig	B-weather/attribute
+?	O
+
+Wia	O
+is	O
+de	O
+Luftfeuchtigkeitsgrad	O
+heid	O
+
+Lösch	B-object_name
+alle	I-object_name
+Erinnerungen	I-object_name
+
+Stei	O
+an	O
+Alarm	O
+füa	O
+fünfzehn	B-datetime
+Minutn	I-datetime
+
+Bitte	O
+stei	O
+mein	O
+Wegga	O
+füa	O
+4	B-datetime
+in	O
+da	O
+fria	O
+den	O
+Samsdog	B-location
+.	O
+
+Mach	B-movie_name
+ma	I-movie_name
+a	I-movie_name
+Erinnerung	I-movie_name
+für	I-movie_name
+de	I-movie_name
+Hausschließung	I-movie_name
+um	O
+10	B-datetime
+in	O
+da	O
+fria	O
+tomorrow	B-datetime
+.	O
+
+Lösch	O
+alle	O
+Wegga	B-artist
+
+Wia	O
+vui	O
+Wegga	B-location
+hob	O
+i	O
+füan	B-location
+Sonddog	I-location
+gsteid	O
+?	O
+
+Zoag	B-track
+olle	I-track
+Wegga	I-track
+
+Werds	O
+heid	O
+sonnig	B-weather/attribute
+?	O
+
+Stei	O
+an	O
+Wegga	B-location
+füa	O
+615	B-datetime
+in	O
+da	O
+fria	B-datetime
+
+Stei	B-party_size_description
+zwoa	O
+Wegga	B-movie_name
+füa	I-movie_name
+moang	I-movie_name
+in	O
+da	O
+fria	B-location
+
+Schoid	O
+alle	O
+Wegga	B-artist
+aus	O
+
+Wia	O
+is	O
+grod	B-weather/attribute
+de	O
+Temperatur	B-weather/attribute
+in	O
+London	B-location
+?	O
+
+Lösch	B-object_name
+mei	I-object_name
+letzde	I-object_name
+Erinnerung	I-object_name
+
+Mach	B-object_name
+a	B-entity_name
+Erinnerung	I-entity_name
+späda	I-entity_name
+zum	O
+Lebensmittellodn	B-playlist
+zum	I-playlist
+geh	I-playlist
+
+Wia	O
+werd	O
+da	O
+Hitzeindex	B-weather/attribute
+heid	O
+sei	O
+?	O
+
+Wia	O
+koid	O
+werds	O
+heid	B-weather/attribute
+?	O
+
+Werds	O
+heid	B-weather/attribute
+schnein	I-weather/attribute
+?	O
+
+Stei	B-restaurant_name
+an	I-restaurant_name
+Wegga	I-restaurant_name
+füa	I-restaurant_name
+5	I-restaurant_name
+in	O
+da	O
+fria	B-datetime
+
+Schoid	O
+an	O
+Alarm	O
+aus	O
+
+Lösch	O
+alle	O
+Wegga	B-artist
+
+Mach	B-object_name
+a	I-object_name
+Erinnerung	I-object_name
+zum	I-object_name
+Schwimma	I-object_name
+um	O
+11	B-datetime
+voamiddog	I-datetime
+moang	I-datetime
+
+Zoag	B-object_name
+meine	I-object_name
+Erinnerungen	I-object_name
+
+Lösch	O
+mein	B-reference
+Alarm	O
+am	O
+Samsdog	O
+
+Iss	O
+koid	O
+draußn	B-weather/attribute
+?	O
+
+Iss	O
+heid	B-weather/attribute
+feicht	B-weather/attribute
+?	O
+
+Stei	O
+an	O
+Alarm	O
+jede	B-recurring_datetime
+Minut	I-recurring_datetime
+füa	O
+11	B-datetime
+Minutn	I-datetime
+
+Zoag	B-object_name
+meine	I-object_name
+Erinnerungen	I-object_name
+
+Werds	O
+heid	O
+windig	B-weather/attribute
+?	O
+
+Lösch	O
+de	B-object_name
+Erinnerungen	I-object_name
+vo	O
+moang	B-object_name
+
+Sog	B-track
+ma	I-track
+de	I-track
+3	I-track
+Dog	I-track
+Vorhersage	I-track
+
+Wia	O
+vui	O
+Inches	B-location
+Regn	B-weather/attribute
+sois	O
+moang	O
+gem	O
+?	O
+
+Erinner	B-object_name
+mi	I-object_name
+an	I-object_name
+de	I-object_name
+Hochzeit	I-object_name
+
+Snooze	O
+alle	O
+Wegga	B-artist
+
+Wann	O
+werds	O
+heid	B-weather/attribute
+regna	O
+?	O
+
+Zoag	B-datetime
+alle	O
+Wegga	B-artist
+
+Schoid	O
+alle	O
+Wegga	B-artist
+aus	O
+
+Werds	O
+heid	B-weather/attribute
+regna	O
+?	O
+
+Zoag	B-album
+alle	I-album
+Erinnerungen	I-album
+füa	O
+moang	O
+
+Lösch	B-track
+mein	I-track
+Wegga	I-track
+füa	I-track
+moang	I-track
+in	O
+da	O
+fria	B-datetime
+
+Wia	O
+hoaß	B-weather/attribute
+iss	O
+?	O
+
+Erinner	B-entity_name
+mi	I-entity_name
+heid	I-entity_name
+aufnacht	O
+Muich	B-track
+zum	O
+kaufa	O
+
+Lösch	B-object_name
+alle	I-object_name
+Erinnerungen	I-object_name
+
+Zoag	B-datetime
+alle	O
+Wegga	B-artist
+
+Lösch	O
+mein	B-reference
+Alarm	O
+füa	O
+moang	O
+in	O
+da	O
+fria	O
+
+Werds	O
+moang	O
+sonnig	B-weather/attribute
+?	O
+
+Lösch	O
+den	O
+Alarm	O
+füa	O
+moang	O
+in	O
+da	O
+fria	O
+
+Zoag	B-track
+alle	I-track
+Erinnerungen	I-track
+füa	O
+moang	O
+in	O
+da	O
+fria	O
+
+Wia	O
+is	O
+de	O
+Luftfeuchtigkeit	O
+heid	O
+?	O
+
+Wann	O
+werds	O
+regna	O
+?	O
+
+Wia	O
+hoaß	B-weather/attribute
+iss	O
+?	O
+
+Zoag	B-object_name
+ma	I-object_name
+meine	I-object_name
+Erinnerungen	I-object_name
+
+Wos	O
+is	O
+de	O
+5	B-object_name
+Dog	I-object_name
+Vorhersage	I-object_name
+?	O
+
+Setz	O
+an	O
+Alarm	O
+füa	O
+6	B-datetime
+in	I-datetime
+da	I-datetime
+fria	I-datetime
+
+Werds	O
+heid	B-weather/attribute
+koid	I-weather/attribute
+?	O
+
+Setz	B-object_name
+a	I-object_name
+Erinnerung	I-object_name
+mei	I-object_name
+Schui	I-object_name
+am	I-object_name
+Monddog	I-object_name
+um	O
+4	B-datetime
+nammiddog	I-datetime
+ozumruafa	I-datetime
+
+Lösch	O
+mei	O
+Erinnerunng	B-object_name
+,	O
+dass	O
+i	O
+an	O
+Patrick	B-artist
+moang	I-artist
+vo	O
+da	O
+Schui	O
+abhoin	O
+muas	O
+.	O
+
+Wia	O
+koid	B-weather/attribute
+werds	I-weather/attribute
+in	O
+da	O
+fria	O
+sei	O
+?	O
+
+Brauch	B-track
+i	I-track
+an	I-track
+Regnschirm	I-track
+moang	I-track
+
+Zoag	B-object_name
+meine	I-object_name
+Erinnerungen	I-object_name
+
+Stopp	O
+den	O
+Wegga	B-track
+füa	B-datetime
+6:00	I-datetime
+in	O
+da	O
+fria	O
+
+Lösch	O
+alle	O
+Wegga	B-artist
+
+Werds	O
+heid	O
+sonnig	B-weather/attribute
+?	O
+
+Wos	O
+san	O
+meine	O
+Erinnerungen	O
+?	O
+
+Lösch	B-artist
+mei	I-artist
+Erinnerung	B-track
+am	I-track
+Papa	I-track
+zum	O
+schreim	O
+
+Stei	B-movie_name
+an	I-movie_name
+Wegga	I-movie_name
+füa	O
+6	B-datetime
+in	O
+da	O
+fria	O
+
+Lösch	B-track
+den	I-track
+Wegga	I-track
+
+Schoid	O
+den	O
+Wegga	B-artist
+aus	O
+
+Erinner	B-track
+mi	I-track
+d	I-track
+Mama	I-track
+um	O
+2	B-datetime
+nammiddog	I-datetime
+ozumruafa	I-datetime
+
+Lösch	O
+alle	O
+Wegga	B-artist
+
+Werds	O
+moang	B-weather/attribute
+hoaß	I-weather/attribute
+
+Iss	O
+heid	O
+koid	O
+draußn	B-weather/attribute
+?	O
+
+Stei	B-movie_name
+an	I-movie_name
+Wegga	I-movie_name
+füa	O
+5	B-datetime
+heid	I-datetime
+aufnacht	O
+
+Werds	O
+des	O
+Wochenende	B-datetime
+regna	O
+?	O
+
+Werds	O
+heid	O
+regna	O
+
+Setz	O
+an	O
+Wegga	B-restaurant_name
+füa	I-restaurant_name
+Monddog	I-restaurant_name
+um	O
+3	B-datetime
+in	I-datetime
+da	I-datetime
+fria	I-datetime
+
+Wegga	B-artist
+o	O
+
+Werds	O
+am	O
+Samsdog	O
+regna	O
+?	O
+
+Stei	O
+an	O
+Alarm	O
+füa	O
+5	B-datetime
+in	I-datetime
+da	I-datetime
+fria	I-datetime
+
+Brauch	O
+i	O
+an	O
+Mantel	B-weather/attribute
+heid	O
+?	O
+
+Schoid	O
+an	O
+Wegga	B-artist
+aus	O
+
+Wos	O
+füa	O
+Wedawarnungen	B-weather/attribute
+hob	O
+i	O
+?	O
+
+Lösch	B-entity_name
+de	I-entity_name
+Erinnerung	I-entity_name
+füa	O
+s	O
+Treffn	B-object_name
+an	I-object_name
+da	I-object_name
+Hüttn	I-object_name
+
+Soi	O
+i	O
+heid	O
+an	O
+Mantel	B-artist
+oziagn	B-service
+
+Schoid	O
+olle	B-artist
+Wegga	I-artist
+aus	O
+.	O
+
+Zoag	B-datetime
+alle	O
+Wegga	B-artist
+
+Mach	O
+an	O
+neia	O
+Wegga	B-location
+füa	O
+Donnasdag	B-location
+um	O
+1	B-datetime
+nammiddog	I-datetime
+.	O
+
+Erinner	O
+mi	O
+nächsten	B-datetime
+Monddog	I-datetime
+zum	O
+Zahnarzt	B-playlist
+zum	I-playlist
+geh	I-playlist
+.	O
+
+Soi	O
+i	O
+heid	O
+an	O
+Regnschirm	O
+mitbringa	O
+
+Wia	O
+isn	O
+s	O
+Weda	B-object_name
+de	I-object_name
+Woch	I-object_name
+?	O
+
+Iss	O
+heid	O
+untam	O
+Gefriefpunkt	O
+?	O
+
+Lösch	B-object_name
+alle	I-object_name
+Erinnerungen	I-object_name
+
+Werds	O
+heid	B-weather/attribute
+regna	O
+?	O
+
+Werds	O
+des	O
+Wochenende	B-datetime
+regna	O
+?	O
+
+Mach	B-object_name
+a	I-object_name
+Erinnerung	I-object_name
+füa	O
+den	O
+Besuch	B-object_name
+meiner	I-object_name
+Mama	I-object_name
+nächste	I-object_name
+Woch	I-object_name
+
+Werds	O
+moang	O
+schnein	O
+?	O
+
+Zoag	B-object_name
+alle	I-object_name
+Erinnerungen	I-object_name
+
+Brauch	O
+i	O
+an	O
+Mantel	B-weather/attribute
+heid	O
+?	O
+
+Werds	O
+am	O
+Donnasdog	B-location
+schnein	O
+
+Erinner	B-entity_name
+mi	I-entity_name
+dro	I-entity_name
+den	I-entity_name
+nammiddog	I-entity_name
+Kaffee	I-entity_name
+im	O
+Starbucks	B-reminder/todo
+zum	I-reminder/todo
+kaufa	I-reminder/todo
+
+Stei	B-movie_name
+an	I-movie_name
+Wegga	I-movie_name
+füa	O
+alle	O
+10	B-datetime
+Minutn	I-datetime
+,	O
+startend	O
+ab	B-datetime
+5:30	I-datetime
+und	O
+endend	O
+um	O
+6	B-datetime
+in	I-datetime
+da	I-datetime
+fria	I-datetime
+.	O
+
+Werds	O
+am	O
+Samsdog	O
+regna	O
+?	O
+
+Stei	O
+an	O
+Wegga	B-movie_name
+füa	O
+7:20	B-datetime
+in	O
+da	O
+fria	B-datetime
+füa	I-datetime
+de	I-datetime
+Schua	I-datetime
+Veröffentlichung	O
+.	O
+
+Werds	O
+in	O
+Bordentown	B-location
+heid	B-datetime
+Stürme	I-datetime
+gem	O
+
+Wia	O
+is	O
+de	O
+aktuelle	B-datetime
+Temperatur	B-weather/attribute
+
+Erinner	B-movie_name
+mi	I-movie_name
+dro	I-movie_name
+Dans	I-movie_name
+Middogessn	I-movie_name
+moang	I-movie_name
+um	B-datetime
+7:30	I-datetime
+in	O
+da	O
+fria	O
+zum	O
+macha	O
+.	O
+
+Stei	B-movie_name
+an	I-movie_name
+Wegga	I-movie_name
+füa	O
+6:30	B-datetime
+moang	I-datetime
+in	O
+da	O
+fria	O
+.	O
+
+Hob	O
+i	O
+irgendweiche	O
+Erinnerungen	O
+gsetzt	O
+?	O
+
+Is	O
+mei	O
+Zahnarzttermin	B-object_name
+in	I-object_name
+meine	I-object_name
+Erinnerungen	I-object_name
+?	O
+
+Wann	O
+heards	O
+auf	O
+zum	O
+regna	O
+?	O
+
+Werds	O
+de	O
+Woch	O
+schnein	O
+?	O
+
+Schoid	O
+an	O
+Wegga	B-artist
+aus	O
+
+I	O
+dad	O
+Half	B-object_name
+a	I-object_name
+Life	I-object_name
+3	B-rating_value
+vo	O
+6	B-best_rating
+gem	O
+
+Spui	O
+bissl	B-track
+Mf	B-artist
+Doom	I-artist
+vo	B-entity_name
+de	I-entity_name
+Sechziga	I-entity_name
+auf	O
+Pandora	B-service
+.	O
+
+Wia	O
+isn	O
+s	O
+Weda	B-movie_name
+in	O
+London	B-location
+?	O
+
+Schoid	O
+an	O
+Wegga	O
+aus	O
+
+Suach	O
+nach	O
+Chasing	B-object_name
+Fortune	I-object_name
+oana	O
+TV	B-object_type
+Serie	I-object_type
+.	O
+
+Spui	O
+shadowplay	B-track
+vo	O
+Dana	B-artist
+auf	O
+Deezer	B-service
+.	O
+
+I	B-party_size_description
+und	I-party_size_description
+Imelda	I-party_size_description
+mechadn	O
+a	O
+Resavierung	O
+in	O
+Missouri	B-location
+um	O
+simme	B-datetime
+in	I-datetime
+da	I-datetime
+fria	I-datetime
+
+Mach	O
+Bob	B-artist
+Klose	I-artist
+auf	O
+la	O
+mejor	B-playlist
+música	I-playlist
+para	I-playlist
+tus	I-playlist
+fiestas	I-playlist
+
+Spui	O
+Luis	B-artist
+Alfonzo	I-artist
+Larrain	I-artist
+vo	O
+1995	B-datetime
+
+Wia	O
+werds	O
+Weda	B-datetime
+in	O
+de	O
+Bahamas	B-location
+in	O
+eifahoib	B-datetime
+Joa	I-datetime
+vo	I-datetime
+jetzad	I-datetime
+
+Wia	O
+werds	O
+Weda	B-movie_name
+in	O
+Arizona	B-location
+am	O
+3.	B-datetime
+Oktoba	I-datetime
+
+Spui	O
+Opernmusi	B-genre
+auf	O
+Google	B-service
+Music	I-service
+
+Suach	B-movie_name
+Vegucated	I-movie_name
+startend	O
+um	O
+null	B-datetime
+Uhr	I-datetime
+
+Gib	O
+dem	O
+aktuellen	B-object_select
+Roman	B-object_type
+a	O
+Bewertung	O
+vo	O
+3	B-rating_value
+vo	O
+6	B-best_rating
+
+I	O
+mechad	O
+des	O
+Album	B-music_item
+zu	O
+funtime	B-playlist
+dazua	O
+doa	O
+.	O
+
+I	O
+brauch	O
+an	O
+Disch	B-restaurant_name
+füa	I-restaurant_name
+4	I-restaurant_name
+in	O
+am	O
+Restaurant	B-restaurant_name
+um	O
+null	B-datetime
+Uhr	I-datetime
+rum	O
+.	O
+
+Find	O
+des	O
+Buidl	B-object_type
+Louder	B-object_name
+Than	I-object_name
+Bombs	I-object_name
+
+Gib	O
+A	B-object_name
+Tale	I-object_name
+of	I-object_name
+Time	I-object_name
+City	I-object_name
+2	B-rating_value
+vo	O
+6	B-best_rating
+Punktn	B-rating_unit
+
+Gib	O
+dem	O
+aktuelln	O
+Buach	B-object_name
+fünf	B-rating_value
+Sterne	B-rating_unit
+dazua	O
+
+Mach	B-artist
+Liad	I-artist
+70s	B-playlist
+smash	I-playlist
+hits	O
+in	B-datetime
+mei	I-datetime
+
+Buach	B-served_dish
+nahe	B-location
+Montana	B-location
+füa	O
+6	B-datetime
+am	I-datetime
+Diensdog	I-datetime
+a	O
+Restaurant	B-restaurant_type
+des	O
+Sri	B-restaurant_name
+Lankisches	I-restaurant_name
+Essn	I-restaurant_name
+serviert	O
+des	O
+hoch	B-sort
+bewerted	O
+is	O
+.	O
+
+Buach	O
+ma	O
+a	O
+Middogessn	B-datetime
+in	O
+Boreas	B-location
+füa	O
+a	O
+Gruppn	O
+vo	O
+8	B-party_size_number
+
+Bitte	O
+mach	O
+a	O
+anders	O
+Liad	B-entity_name
+in	O
+de	B-playlist
+laundry	I-playlist
+playlist	O
+.	O
+
+Wos	O
+is	O
+de	O
+PW	B-location
+Vorhersage	O
+füa	O
+stürmigs	O
+Weda	B-datetime
+
+Wos	O
+is	O
+des	O
+vorhergsogte	O
+Weda	B-entity_name
+für	O
+mein	O
+aktuelln	B-playlist
+Blodz	O
+nächsten	B-datetime
+Monat	I-datetime
+?	O
+
+Buach	B-movie_name
+ma	I-movie_name
+a	I-movie_name
+Resavierung	I-movie_name
+füa	O
+1	B-datetime
+am	I-datetime
+17.	I-datetime
+März	I-datetime
+
+Des	O
+aktuelle	B-object_select
+Album	B-object_type
+griagt	O
+drei	B-rating_value
+vo	O
+6	B-best_rating
+Punkte	B-rating_unit
+
+Mach	B-entity_name
+des	I-entity_name
+Nastya	I-entity_name
+Kamenskih	I-entity_name
+Liad	I-entity_name
+in	O
+mei	O
+The	B-playlist
+Martin	I-playlist
+Garrix	I-playlist
+Show	I-playlist
+playlist	O
+.	O
+
+I	O
+mechad	O
+des	O
+Album	B-object_type
+Since	B-object_name
+I	I-object_name
+Saw	I-object_name
+You	I-object_name
+Last	I-object_name
+hearn	O
+
+Spui	O
+top	B-sort
+Liadl	B-track
+vo	O
+Joseph	B-artist
+Utsler	I-artist
+
+Find	O
+ma	B-object_name
+de	I-object_name
+Zeitn	I-object_name
+füa	O
+Ghost	B-object_name
+World	I-object_name
+.	O
+
+I	O
+mechad	O
+a	O
+Konzert	B-music_item
+vo	O
+Timour	B-artist
+Moutsouraev	I-artist
+hearn	O
+
+Spui	O
+des	O
+Album	B-music_item
+Everybody	B-album
+Happy	I-album
+vo	O
+Lee	B-artist
+Aaron	I-artist
+
+Spui	B-artist
+Fereydoun	I-artist
+Farrokhzad	I-artist
+bests	O
+Liad	B-artist
+
+Bewert	O
+des	O
+aktuelle	B-object_select
+Buach	B-object_name
+mit	O
+drei	B-rating_value
+Sternen	B-rating_unit
+
+Wia	O
+werds	O
+Weda	B-datetime
+in	O
+Meeres-Nationalpark	B-location
+Insel	I-location
+Bastimentos	I-location
+um	O
+zwöif	B-datetime
+Uhr	I-datetime
+sei	O
+?	O
+
+Buach	B-restaurant_name
+an	I-restaurant_name
+Disch	I-restaurant_name
+füa	O
+10	B-datetime
+Leid	I-datetime
+in	O
+am	O
+Restaurant	B-restaurant_name
+des	I-restaurant_name
+Internet	I-restaurant_name
+obiet	O
+.	O
+
+Gib	O
+The	B-object_name
+Tenor	I-object_name
+Wore	I-object_name
+Tapshoes	I-object_name
+fünf	B-rating_value
+Punkte	B-rating_unit
+
+Spui	O
+a	O
+Liad	B-artist
+vo	I-artist
+Houston	I-artist
+auf	O
+Spotify	B-service
+
+Find	O
+ma	O
+a	O
+Kino	B-object_type
+mit	O
+Life	B-object_name
+and	I-object_name
+Death	I-object_name
+
+Spui	O
+Musi	B-entity_name
+vo	O
+da	O
+Playlist	O
+Get	B-playlist
+Your	I-playlist
+Mind	I-playlist
+Right	I-playlist
+
+Buach	B-movie_name
+an	I-movie_name
+Disch	I-movie_name
+heid	I-movie_name
+in	O
+am	O
+Steakhaus	B-restaurant_type
+füa	O
+acht	B-datetime
+des	I-datetime
+Sashimi	I-datetime
+saviert	O
+
+Find	O
+animierte	O
+Filme	B-movie_type
+in	O
+Caribbean	B-location
+Cinemas	I-location
+
+Werds	B-movie_name
+a	I-movie_name
+Gwitter	I-movie_name
+in	O
+da	O
+Nähe	B-location
+gem	O
+
+Spui	O
+boa	O
+Melodien	O
+vo	O
+de	O
+Achtzga	B-artist
+auf	O
+Spotify	B-service
+
+Wo	O
+konn	B-object_type
+i	O
+The	B-object_name
+World	I-object_name
+According	I-object_name
+to	I-object_name
+Paris	I-object_name
+findn	O
+?	O
+
+Sog	O
+ma	O
+wanns	O
+in	O
+China	B-location
+heaßa	O
+werd	O
+
+Wos	O
+san	O
+de	O
+Vorführungszeitn	O
+füas	O
+Caribbean	B-location
+Cinemas	I-location
+?	O
+
+Werd	O
+da	O
+Wind	B-weather/attribute
+an	O
+meim	O
+aktuellen	O
+Ort	O
+zum	O
+Abendessen	B-datetime
+hi	O
+aufhearn	O
+?	O
+
+Find	O
+ma	O
+The	B-movie_name
+Twinkler	I-movie_name
+des	O
+bei	O
+National	B-location
+Amusements	I-location
+in	B-datetime
+2	I-datetime
+Minutn	I-datetime
+spuid	O
+
+I	O
+gib	O
+Hadon	B-object_name
+of	I-object_name
+Ancient	I-object_name
+Opar	I-object_name
+zwoa	B-rating_value
+vo	O
+6	B-best_rating
+Punkte	B-rating_unit
+
+I	O
+mechad	O
+Shawn,	B-party_size_description
+Marguerite	I-party_size_description
+and	I-party_size_description
+Della	I-party_size_description
+zu	O
+am	O
+Blotz	B-restaurant_name
+zum	I-restaurant_name
+Essn	I-restaurant_name
+in	O
+da	O
+Nähe	B-location
+vo	O
+Rwanda	B-location
+bringa	O
+.	O
+
+Spui	B-track
+Musi	I-track
+auf	O
+Lastfm	B-service
+
+Werds	O
+an	O
+da	O
+aktuellen	O
+Position	O
+bis	O
+zum	O
+3.	B-datetime
+März	I-datetime
+schnein	O
+?	O
+
+Find	O
+ma	O
+an	O
+Disch	B-datetime
+füa	I-datetime
+8	I-datetime
+irgendwo	I-datetime
+in	O
+Hollenberg	B-location
+in	O
+nein	B-location
+Wochan	I-location
+
+Spui	O
+a	O
+Liad	B-music_item
+vo	O
+2004	B-datetime
+
+Sog	O
+ma	B-movie_name
+weichane	I-movie_name
+Filme	I-movie_name
+aktuell	B-datetime
+in	O
+AMC	B-location
+Theaters	I-location
+spuin	B-condition_description
+
+Zoag	B-artist
+ma	I-artist
+de	O
+TV	B-object_type
+Serie	I-object_type
+Limit	B-object_name
+of	I-object_name
+Love:	I-object_name
+Umizaru	I-object_name
+
+Zoag	O
+ma	O
+de	O
+Fotografie	B-object_type
+Rock	B-object_name
+You	I-object_name
+Baby	I-object_name
+
+Werd	O
+Tarzan	B-movie_name
+of	I-movie_name
+the	I-movie_name
+Apes	I-movie_name
+in	O
+Cobb	B-location
+Theatres	I-location
+gspuid	O
+
+Mach	B-artist
+Kan	I-artist
+Mikami	I-artist
+auf	O
+Pre-Party	B-playlist
+R&B	I-playlist
+Jams	I-playlist
+
+Werds	O
+an	O
+Schneesturm	O
+an	O
+meina	O
+aktuelln	O
+Position	O
+gem	O
+
+Buach	B-party_size_description
+an	B-party_size_description
+Disch	I-party_size_description
+füa	I-party_size_description
+mi	I-party_size_description
+und	I-party_size_description
+mein	I-party_size_description
+Stiefonkel	I-party_size_description
+in	O
+Malta	B-location
+in	O
+na	O
+cafeteria	B-restaurant_type
+
+Spui	O
+de	O
+beliebteste	B-sort
+zwanzga	B-cuisine
+Platte	B-music_item
+vo	O
+Leland	B-artist
+Sklar	I-artist
+
+Zoag	B-movie_name
+ma	I-movie_name
+de	I-movie_name
+Vorhersage	I-movie_name
+füa	O
+Wisconsin	B-location
+
+Find	O
+a	O
+Fotografie	B-object_type
+namens	O
+Between	B-object_name
+the	I-object_name
+Days	I-object_name
+
+Buach	B-restaurant_name
+in	O
+The	B-restaurant_name
+Halal	I-restaurant_name
+Guys	I-restaurant_name
+am	O
+17.	B-datetime
+Oktoba	I-datetime
+
+Bitte	O
+sog	B-track
+ma	I-track
+de	I-track
+Vorhersage	B-condition_description
+füa	O
+Guinea-Bissau	B-location
+
+Mach	B-entity_name
+des	I-entity_name
+Liad	I-entity_name
+in	O
+mei	B-datetime
+the	O
+perfect	B-playlist
+italian	I-playlist
+dinner	I-playlist
+playlist	O
+
+Weda	B-datetime
+in	O
+Tioga	B-location
+Colorado	B-location
+
+I	O
+mechad	B-track
+de	O
+Musi	B-track
+vo	O
+Ghost	B-track
+in	I-track
+the	I-track
+Shell:	I-track
+Stand	I-track
+Alone	I-track
+Complex	I-track
+hearn	O
+
+Zoag	O
+ma	O
+Happiness	B-object_name
+Was	I-object_name
+Free	I-object_name
+.	O
+
+Sois	O
+in	B-location
+da	I-location
+Nähe	B-location
+vo	O
+meina	O
+aktuelln	O
+Position	O
+um	O
+0	B-datetime
+Uhr	I-datetime
+regna	I-datetime
+?	O
+
+Buach	B-restaurant_name
+an	I-restaurant_name
+Disch	I-restaurant_name
+in	O
+Fairview	B-location
+in	B-location
+da	I-location
+Nachbarschaft	I-location
+vo	O
+dera	B-location
+Gegend	I-location
+
+Wia	O
+is	O
+de	O
+Vorhersage	O
+füa	O
+15:04	B-datetime
+in	O
+Georgia	B-location
+füa	O
+bewölkts	O
+Weda	B-datetime
+in	O
+Valley	B-location
+View	I-location
+
+Konn	O
+i	O
+de	O
+Vorführungszeitn	O
+seng	O
+?	O
+
+Find	O
+des	O
+nächste	O
+Filmhaus	B-object_location_type
+des	O
+Operation:	B-movie_name
+Kingdom	I-movie_name
+zoagt	O
+
+Find	O
+an	O
+Trailer	B-object_type
+namens	O
+Storm	B-object_name
+Center	I-object_name
+.	O
+
+Mach	O
+des	O
+Album	B-music_item
+auf	O
+mei	B-reference
+dubstep	B-playlist
+dangles	I-playlist
+dirty	I-playlist
+playlist	O
+
+Wia	O
+san	O
+de	O
+Filmzeitn	B-object_name
+
+Spui	O
+a	O
+Liad	B-music_item
+vo	O
+Juanes	B-artist
+auf	O
+Last	B-service
+Fm	I-service
+
+Weis	O
+The	B-object_name
+Gate	I-object_name
+of	I-object_name
+Worlds	I-object_name
+0	B-rating_value
+Punkte	B-rating_unit
+vo	O
+6	B-best_rating
+zua	O
+
+Spui	B-artist
+bissl	I-artist
+David	B-artist
+Mallett	I-artist
+auf	O
+last	B-service
+fm	I-service
+
+Find	O
+ma	B-object_name
+da	I-object_name
+Filmzeitn	I-object_name
+
+Werds	O
+um	O
+4	B-datetime
+nammiddog	I-datetime
+windig	B-weather/attribute
+in	O
+NY	B-location
+?	O
+
+Buach	B-restaurant_name
+ma	I-restaurant_name
+a	I-restaurant_name
+Restaurant	I-restaurant_name
+füa	O
+neine	O
+in	O
+Statham	B-location
+
+Find	O
+a	O
+Videospui	B-object_type
+namens	O
+IBM	B-object_name
+Program	I-object_name
+temporary	I-object_name
+fix	I-object_name
+
+Find	O
+an	O
+Disch	B-entity_name
+füa	I-entity_name
+oan	O
+in	O
+am	O
+beliebten	O
+Churrascaria	B-location
+in	O
+drei	B-location
+Wochan	I-location
+vo	O
+jetzad	B-datetime
+
+Füa	B-object_name
+Mirrorshades	I-object_name
+I	I-object_name
+bewerts	O
+mit	O
+drei	B-rating_value
+Sterne	B-rating_unit
+
+Buach	O
+a	O
+Restaurant	B-restaurant_type
+in	O
+Colorado	B-location
+City	I-location
+Idaho	I-location
+des	O
+Agnolotti	B-served_dish
+serviert	O
+.	O
+
+Mach	B-entity_name
+bright	I-entity_name
+and	I-entity_name
+breezy	I-entity_name
+in	O
+mei	B-reference
+This	B-playlist
+Is	I-playlist
+Gucci	I-playlist
+Mane	I-playlist
+playlist	O
+
+Konnst	B-track
+du	I-track
+mia	I-track
+des	O
+Weda	B-artist
+füa	I-artist
+do	I-artist
+gem	I-artist
+
+Mach	B-artist
+Ashley	I-artist
+McIsaac	I-artist
+in	O
+mei	B-playlist
+r&b	I-playlist
+party	I-playlist
+classics	I-playlist
+playlist	O
+
+I	O
+dad	O
+gern	O
+de	O
+Saga	B-object_name
+12	I-object_name
+Soulful	I-object_name
+Nights	I-object_name
+of	I-object_name
+Christmas	I-object_name
+seng	O
+
+I	O
+brauch	O
+a	O
+Reservierung	O
+füa	O
+6	B-datetime
+aufnacht	I-datetime
+mit	O
+na	O
+Gruppn	O
+vo	O
+10	B-party_size_number
+in	O
+Sand	B-location
+Lake	I-location
+
+Nimm	O
+Groove	B-service
+Shark	I-service
+her	O
+um	O
+Musi	B-entity_name
+vo	I-entity_name
+de	I-entity_name
+Achtzga	I-entity_name
+zum	O
+spuin	O
+
+Find	O
+an	O
+Soundtrack	B-object_type
+namens	O
+The	B-object_name
+House	I-object_name
+of	I-object_name
+the	I-object_name
+Yellow	I-object_name
+Carpet	I-object_name
+
+Wos	O
+is	O
+des	O
+nächste	O
+Kino	B-object_location_type
+des	O
+Filme	B-movie_type
+zoagt	O
+de	O
+in	B-datetime
+neinzehn	I-datetime
+Sekundn	I-datetime
+startn	O
+?	O
+
+Mach	O
+Morten	B-artist
+Harket	I-artist
+zua	O
+this	B-playlist
+is	I-playlist
+puccini	I-playlist
+
+Mach	O
+Spotify	B-service
+auf	O
+und	O
+spui	O
+a	O
+Liad	B-album
+vo	I-album
+de	I-album
+Zwanzga	I-album
+vo	O
+Richard	B-artist
+Harvey	I-artist
+
+I	O
+mechad	O
+a	O
+Restaurant	B-restaurant_type
+buacha	B-party_size_description
+
+Spui	O
+des	O
+Album	B-music_item
+Vibrations	B-album
+vo	O
+Marion	B-artist
+Elise	I-artist
+Raven	I-artist
+
+Mach	B-entity_name
+den	I-entity_name
+Künstla	I-entity_name
+in	O
+mei	B-playlist
+Jazz	I-playlist
+playlist	O
+
+I	O
+mechad	O
+de	O
+Serie	B-object_type
+From	B-object_name
+Where	I-object_name
+to	I-object_name
+Eternity	I-object_name
+findn	O
+.	O
+
+Spui	O
+de	O
+Top-Zwanzig	B-sort
+songs	O
+vo	O
+The	B-artist
+Kleptones	I-artist
+auf	O
+Spotify	B-service
+
+Wia	O
+werds	O
+Weda	B-datetime
+in	B-datetime
+sechs	I-datetime
+Minutn	I-datetime
+nahe	B-location
+Moosic	B-location
+sei	O
+
+I	O
+mechad	O
+bissl	B-artist
+Fufzga	I-artist
+Musi	I-artist
+hearn	O
+.	O
+
+Zu	B-movie_name
+weichana	I-movie_name
+Zeit	I-movie_name
+lauft	O
+Utamaro	B-movie_name
+and	I-movie_name
+His	I-movie_name
+Five	I-movie_name
+Women	I-movie_name
+in	O
+Alamo	B-location
+Drafthouse	I-location
+Cinema	I-location
+
+Find	O
+de	O
+Fotografie	B-object_type
+vo	O
+Adventure	B-object_name
+Time:	I-object_name
+The	I-object_name
+Secret	I-object_name
+of	I-object_name
+the	I-object_name
+Nameless	I-object_name
+Kingdom	I-object_name
+
+Mach	O
+Do	B-entity_name
+You	I-entity_name
+Love	I-entity_name
+Me	I-entity_name
+auf	O
+mei	B-playlist
+acoustic	I-playlist
+soul	I-playlist
+playlist	O
+
+Spui	O
+ma	O
+den	O
+bestn	O
+Charles	B-artist
+Neidich	I-artist
+Song	B-music_item
+
+Wia	O
+werds	O
+am	O
+dreizehntn	B-datetime
+März	B-datetime
+2037	I-datetime
+in	O
+Wilderville	B-location
+,	O
+Montenegro	B-location
+sei	O
+
+Find	O
+de	O
+Filmzeitn	B-datetime
+für	O
+ArcLight	B-location
+Hollywood	I-location
+.	O
+
+Find	O
+a	O
+TV	B-object_type
+Serie	I-object_type
+namens	O
+Church	B-object_name
+of	I-object_name
+the	I-object_name
+Truly	I-object_name
+Warped	I-object_name
+.	O
+
+Wos	O
+is	O
+de	O
+Vorhersage	O
+füa	O
+in	O
+achzehm	O
+Minutn	O
+do	O
+füa	O
+keydane	O
+Temps	O
+
+Buach	O
+a	O
+Restaurant	B-restaurant_type
+um	O
+sechzehn	B-datetime
+Uhr	I-datetime
+in	O
+SC	B-location
+
+Stacy	B-party_size_description
+Watson	I-party_size_description
+und	I-party_size_description
+Adriana	I-party_size_description
+woin	O
+den	O
+nammeddog	O
+in	O
+de	O
+beste	B-sort
+Osteria	B-restaurant_type
+in	O
+Hallowell	B-location
+Minnesota	B-location
+geh	O
+
+Werds	O
+koid	B-condition_description
+in	O
+Western	B-location
+Sahara	I-location
+in	B-datetime
+13	B-datetime
+Stundn	I-datetime
+
+Mach	B-entity_name
+Armen	I-entity_name
+Movsessian	I-entity_name
+in	O
+de	B-playlist
+this	B-playlist
+is	I-playlist
+skepta	I-playlist
+playlist	O
+
+Bewert	O
+den	O
+aktuelln	O
+Aufsatz	B-object_name
+mit	O
+drei	B-rating_value
+vo	O
+6	B-best_rating
+Sterne	B-rating_unit
+
+Find	O
+a	O
+Reservierung	B-entity_name
+füa	O
+drei	B-party_size_number
+in	O
+am	O
+top-bewerteten	O
+Restaurant	B-restaurant_type
+
+Bewert	O
+den	O
+aktuelln	B-object_select
+Roman	B-object_type
+mit	O
+0	B-rating_value
+vo	O
+6	B-best_rating
+
+I	O
+dad	O
+gern	O
+de	O
+Showzeitn	B-datetime
+füa	O
+Silly	B-movie_name
+Movie	I-movie_name
+2.0	I-movie_name
+im	O
+Filmhaus	B-object_location_type
+seng	O
+
+Werds	O
+keyda	B-artist
+wern	O
+in	O
+Sinclair	B-location
+in	B-datetime
+8	I-datetime
+Stundn	I-datetime
+
+Mach	B-restaurant_name
+des	I-restaurant_name
+Liad	I-restaurant_name
+in	O
+mei	B-location
+in	O
+the	O
+arms	O
+of	O
+a	O
+woman	O
+
+Buach	B-restaurant_name
+füa	I-restaurant_name
+3	I-restaurant_name
+in	O
+U.S.	B-location
+Virgin	I-location
+Islands	I-location
+
+Werds	O
+keyda	O
+wern	O
+in	O
+La	B-location
+Mesa	I-location
+?	O
+
+Bewert	O
+den	O
+Aufsatz	B-object_name
+mit	O
+2	B-rating_value
+vo	O
+6	B-best_rating
+Sterne	B-rating_unit
+
+Gib	O
+My	B-object_name
+Sister,	I-object_name
+my	I-object_name
+Love	I-object_name
+drei	B-rating_value
+Sterne	B-rating_unit
+/	O
+6	B-best_rating
+
+Find	O
+de	O
+Filmzeitn	B-album
+füa	O
+Marcus	B-location
+Corporation	I-location
+.	O
+
+Weichane	O
+Filme	B-movie_type
+san	O
+in	B-location
+da	I-location
+Nachbarschaft	I-location
+geplant	O
+?	O
+
+Mach	O
+cross	B-entity_name
+bones	I-entity_name
+style	I-entity_name
+auf	O
+Guest	B-playlist
+List	I-playlist
+TaKe	I-playlist
+
+Mach	O
+a	O
+Reservierung	O
+füa	O
+a	O
+Taverne	B-restaurant_name
+de	I-restaurant_name
+Pizzen	I-restaurant_name
+saviert	B-location
+füa	O
+a	O
+Gruppn	O
+vo	O
+6	B-party_size_number
+
+Bewert	O
+The	B-object_name
+Art	I-object_name
+of	I-object_name
+Nijinsky	I-object_name
+mit	O
+5	B-rating_value
+Punktn	B-rating_unit
+
+Mach	B-artist
+Jacob	I-artist
+Hoggard	I-artist
+in	O
+mei	B-playlist
+get	I-playlist
+going	I-playlist
+playlist	O
+
+Gib	O
+ma	O
+a	O
+Listn	O
+vo	O
+Filmzeitn	B-object_name
+füa	O
+Filme	B-movie_type
+in	B-location
+da	I-location
+Gegend	I-location
+.	O
+
+Find	O
+The	B-object_name
+Ultimate	I-object_name
+Gift	I-object_name
+,	O
+a	O
+Fernsehsendung	B-object_type
+
+Wia	O
+isn	O
+s	O
+Weda	B-datetime
+in	O
+da	O
+Nähe	B-location
+vo	O
+Triumph	B-location
+
+Wann	O
+ko	O
+i	O
+A	B-movie_name
+Handful	I-movie_name
+of	I-movie_name
+Dust	I-movie_name
+in	O
+am	O
+Kino	B-object_location_type
+seng	O
+
+Bitte	O
+mach	O
+a	O
+Album	B-music_item
+vo	O
+Joseph	B-artist
+Meyer	I-artist
+auf	O
+mei	B-reference
+POP	B-playlist
+GOES	I-playlist
+THE	I-playlist
+80s	I-playlist
+Playlist	O
+
+Show	O
+vo	O
+From	B-object_name
+South	I-object_name
+Africa	I-object_name
+to	I-object_name
+South	I-object_name
+Carolina	I-object_name
+
+Buach	O
+a	O
+top-bewertete	O
+Osteria	B-entity_name
+in	I-entity_name
+sim	I-entity_name
+Wochan	I-entity_name
+vo	O
+jetzad	B-artist
+
+Weicha	B-movie_name
+Kino	I-movie_name
+zoagt	O
+Flower	B-movie_name
+and	I-movie_name
+Snake	I-movie_name
+um	O
+08:56:29	B-datetime
+?	O
+
+Suach	O
+a	O
+Restaurant	B-restaurant_type
+in	O
+FM	B-location
+des	O
+Quiche	B-datetime
+saviert	O
+
+Mach	O
+a	O
+Reservierung	O
+füa	O
+7	B-datetime
+Leid	I-datetime
+in	O
+The	B-restaurant_name
+French	I-restaurant_name
+Laundry	I-restaurant_name
+am	O
+8.	B-datetime
+Juni	I-datetime
+2029	I-datetime
+
+Spui	O
+viazga	B-artist
+Liada	I-artist
+
+Wann	O
+werd	O
+des	O
+Santikos	B-location
+Theatres	I-location
+animierte	O
+Filme	B-movie_name
+zoagn	O
+
+Spui	B-track
+Musi	I-track
+auf	O
+Itunes	B-service
+
+Zoag	O
+a	O
+Buach	B-object_name
+namens	O
+Straight	B-object_name
+No	I-object_name
+Chase	I-object_name
+
+Find	O
+de	O
+Filmzeitn	B-object_name
+füa	O
+Filme	B-movie_type
+in	B-object_name
+da	I-object_name
+Nähe	I-object_name
+
+Meredith,	B-party_size_description
+Betty	I-party_size_description
+und	I-party_size_description
+Erika	I-party_size_description
+woin	O
+den	O
+Winta	O
+in	O
+am	O
+Gastropub	B-restaurant_name
+essn	O
+des	O
+in	O
+da	O
+gleichn	O
+Gegend	O
+is	O
+wia	O
+Frans	B-location
+Ort	I-location
+is	O
+.	O
+
+Mach	B-artist
+des	I-artist
+Liad	I-artist
+in	O
+mei	B-playlist
+Para	B-playlist
+comer	I-playlist
+
+Spui	B-artist
+lupe	I-artist
+
+Bitte	O
+spui	O
+des	O
+radio	O
+gaga	O
+Liad	B-object_name
+
+Spui	O
+mei	O
+neiste	O
+Playlist	B-album
+
+Mach	B-entity_name
+des	I-entity_name
+Liad	I-entity_name
+aufn	O
+erstn	B-playlist
+Blotz	I-playlist
+
+Spui	O
+des	O
+davorige	O
+Liad	B-artist
+
+Spui	B-album
+Musik	B-album
+vo	O
+meim	B-artist
+liebstn	I-artist
+Pandora	B-service
+Künstlasender	O
+
+Mach	O
+den	O
+ausgweydn	B-playlist
+Song	B-music_item
+dazua	O
+
+Spui	O
+ma	O
+des	O
+neiste	O
+Liad	B-track
+vo	O
+Taylor	B-artist
+Swift	I-artist
+
+Spui	O
+Musik	O
+vo	O
+Korn	B-genre
+
+Start	O
+de	O
+Playlist	B-playlist
+und	I-playlist
+spui	I-playlist
+Musik	I-playlist
+
+Spui	B-album
+rai	I-album
+Musi	I-album
+
+Spui	O
+des	O
+letzde	B-artist
+Liad	I-artist
+
+Misch	O
+de	O
+Liadl	B-track
+vo	O
+Coldplay	B-artist
+
+Spui	O
+Liadl	B-object_name
+vo	I-object_name
+de	I-object_name
+r.	I-object_name
+&	I-object_name
+b.	I-object_name
+und	I-object_name
+soul	I-object_name
+Genres	I-object_name
+
+Bitte	B-entity_name
+mach	I-entity_name
+mei	I-entity_name
+Lieblings	B-playlist
+Rapmusik	I-playlist
+Playlist	O
+o	O
+
+Konnst	B-entity_name
+du	I-entity_name
+mei	I-entity_name
+Musik	B-playlist
+spuin	I-playlist
+
+Arrangier	O
+und	O
+spui	O
+alle	O
+Eminem	B-artist
+Liada	I-artist
+
+Mach	O
+media	B-entity_name
+auf	O
+und	O
+spui	O
+jingle	B-playlist
+bells	I-playlist
+
+Spui	O
+Billie	B-artist
+Jean	I-artist
+als	O
+nächstes	B-playlist
+
+Spui	B-movie_name
+de	I-movie_name
+c.	O
+d.	O
+Led	B-movie_name
+Zeppelin	I-movie_name
+houses	B-location
+of	O
+the	O
+holy	O
+
+Konnst	O
+du	O
+mei	O
+itunes	B-service
+aufmacha	O
+
+I	O
+mechad	O
+mei	O
+Rap	B-playlist
+Playlist	I-playlist
+hearn	O
+
+Bitte	O
+spui	O
+bissl	B-playlist
+Jazz	I-playlist
+
+I	O
+mechad	B-playlist
+de	B-playlist
+study	I-playlist
+playlist	O
+hearn	B-playlist
+
+Spui	B-track
+poker	I-track
+face	O
+vo	O
+Lady	B-artist
+Gaga	I-artist
+
+Spui	O
+de	O
+neistn	O
+Liadl	B-artist
+ausm	O
+Netz	O
+füa	O
+mi	O
+
+Spui	O
+de	O
+playlist	O
+
+Misch	B-entity_name
+und	I-entity_name
+spui	I-entity_name
+de	I-entity_name
+blue	I-entity_name
+Playlist	O
+
+Spui	B-playlist
+de	I-playlist
+postal	I-playlist
+service	I-playlist
+playlist	O
+
+Wiedahoi	B-object_name
+earth	I-object_name
+song	B-object_type
+
+Olly	B-artist
+spui	I-artist
+Musik	O
+vom	O
+Jazz	B-genre
+Genre	I-genre
+
+Ända	O
+des	O
+Genre	O
+vo	O
+Rock	B-playlist
+auf	O
+Klassik	B-playlist
+
+Spui	B-artist
+bissl	I-artist
+old	B-genre
+school	I-genre
+rap	I-genre
+
+Spui	B-track
+meine	I-track
+am	I-track
+meistn	O
+ogheardn	O
+Liada	B-service
+
+Spui	B-artist
+maroon	I-artist
+five	B-rating_value
+moves	O
+like	O
+jagger	B-genre
+
+Konnst	O
+du	B-track
+mei	I-track
+Musik	B-playlist
+Datei	I-playlist
+spuin	I-playlist
+
+Heid	B-artist
+fühl	I-artist
+i	O
+hard	B-genre
+rock	I-genre
+
+Nua	O
+christlicha	B-playlist
+Rock	I-playlist
+vo	O
+neunzehnhundatneunzig	B-datetime
+und	O
+aufwärts	B-playlist
+soi	O
+ausgweyd	O
+und	O
+gspuid	O
+wearn	O
+
+Spui	B-genre
+Rock	I-genre
+Musik	O
+füa	O
+mi	O
+
+Spui	O
+firework	B-album
+vo	O
+Katy	B-artist
+Perry	I-artist
+
+Wiedahoi	O
+den	O
+Alarm	O
+
+Stei	O
+an	O
+Wegga	B-location
+füa	O
+fünf	B-datetime
+Minutn	I-datetime
+vo	O
+jetzad	O
+
+I	O
+brauch	O
+an	O
+Wegga	B-location
+füa	O
+neine	O
+nammiddog	B-datetime
+
+Konnst	O
+du	O
+an	O
+Wegga	B-location
+füa	B-datetime
+hundaddreißge	B-datetime
+stein	B-location
+
+Mach	O
+an	O
+Wegga	B-artist
+o	O
+
+Stei	B-track
+mein	I-track
+Wegga	I-track
+füa	O
+a	O
+Zeit	O
+
+Plan	O
+an	O
+Alarm	O
+füa	O
+den	O
+Zahnarzttermin	O
+nächste	O
+Woch	O
+
+Stei	B-movie_name
+an	I-movie_name
+Wegga	I-movie_name
+füa	O
+simm	B-datetime
+dreißge	I-datetime
+in	B-datetime
+da	I-datetime
+fria	I-datetime
+
+I	O
+mechad	O
+an	O
+Wegga	O
+stein	O
+wenn	O
+i	O
+moang	O
+hoamfahr	O
+um	O
+mi	O
+dro	O
+zum	O
+erinnan	O
+dass	O
+i	O
+am	O
+Gschäft	O
+steh	O
+bleib	O
+und	O
+Essn	O
+hoi	O
+
+Stei	B-movie_name
+an	I-movie_name
+Wegga	I-movie_name
+füa	O
+sechs	B-datetime
+dreißge	I-datetime
+in	B-datetime
+da	I-datetime
+fria	I-datetime
+
+Stei	B-movie_name
+an	I-movie_name
+Wegga	I-movie_name
+füa	O
+fünf	B-datetime
+Uhr	I-datetime
+in	O
+da	O
+fria	O
+
+I	O
+dad	O
+gern	O
+an	O
+Wegga	O
+stein	O
+füa	O
+den	O
+Samsdog	B-datetime
+um	B-datetime
+zehne	I-datetime
+
+Stei	O
+an	O
+Alarm	O
+füa	O
+Samsdog	O
+füa	O
+Fuaßboitraining	O
+um	O
+achte	O
+in	O
+da	O
+fria	O
+
+Stei	B-movie_name
+an	I-movie_name
+Wegga	I-movie_name
+füa	O
+sechs	B-datetime
+dreißge	I-datetime
+in	B-datetime
+da	I-datetime
+fria	I-datetime
+
+Stei	B-location
+an	I-location
+Wegga	I-location
+füa	O
+zwoa	O
+nammiddog	B-datetime
+
+Stei	B-movie_name
+an	I-movie_name
+Wegga	I-movie_name
+füa	I-movie_name
+achte	I-movie_name
+in	O
+da	O
+fria	O
+
+I	O
+muas	O
+um	O
+achte	O
+in	O
+da	O
+fria	O
+moang	O
+aufsteh	O
+mach	O
+an	O
+Alarm	O
+dreißg	B-datetime
+Minutn	I-datetime
+davor	O
+
+Olly	O
+stei	O
+an	O
+Alarm	O
+füa	O
+a	O
+Erinnerung	O
+
+Mach	B-movie_name
+an	I-movie_name
+Wegga	I-movie_name
+füa	I-movie_name
+viere	O
+nammiddog	B-datetime
+
+Start	O
+an	O
+Wegga	B-artist
+
+Ända	O
+an	O
+Wegga	O
+sodass	O
+a	O
+um	O
+Mitternacht	B-datetime
+start	O
+
+Mach	O
+an	O
+Wegga	O
+füa	O
+drei	B-datetime
+nammiddog	I-datetime
+
+Stei	O
+an	O
+Alarm	O
+füa	O
+zehne	O
+in	O
+da	O
+fria	O
+moang	O
+und	O
+benenn	O
+n	O
+als	O
+Meeting	O
+
+Stei	O
+mein	O
+Wegga	B-track
+bitte	I-track
+
+Is	O
+mei	O
+Alarm	O
+füa	O
+simme	O
+in	O
+da	O
+fria	O
+gsteid	O
+
+Bitte	O
+mach	O
+an	O
+Wegga	B-artist
+füa	O
+achte	O
+in	O
+da	O
+fria	O
+o	O
+
+I	O
+muas	O
+moang	O
+um	O
+zehne	B-datetime
+in	O
+da	O
+fria	O
+aufsteh	O
+
+Stei	O
+an	O
+Wegga	B-location
+nua	O
+am	O
+Mondog	B-location
+um	O
+sechse	B-datetime
+in	O
+da	O
+fria	O
+
+Stei	B-movie_name
+an	I-movie_name
+Wegga	I-movie_name
+füa	B-datetime
+sechse	I-datetime
+in	O
+da	O
+fria	B-datetime
+
+Stei	O
+an	O
+Wegga	B-location
+füa	O
+neine	O
+nammiddog	B-datetime
+
+Erinner	B-entity_name
+mi	I-entity_name
+um	O
+sechs	B-datetime
+dreißge	I-datetime
+nammiddog	I-datetime
+
+Wegg	B-movie_name
+mi	I-movie_name
+auf	O
+
+I	O
+brauch	O
+an	O
+Wegga	B-location
+heid	I-location
+um	O
+drei	B-party_size_number
+
+Stei	B-movie_name
+mein	I-movie_name
+Wegga	I-movie_name
+füa	O
+sechse	B-datetime
+in	O
+da	O
+fria	O
+
+Mach	O
+d	B-datetime
+Uhr	I-datetime
+auf	O
+
+Alamier	B-location
+mi	I-location
+um	O
+achte	O
+in	O
+da	B-location
+fria	I-location
+
+Stei	O
+an	O
+Wegga	B-artist
+füa	O
+Donnasdog	B-location
+um	O
+simme	B-datetime
+nammiddog	I-datetime
+
+Stei	B-location
+an	I-location
+Wegga	I-location
+füa	I-location
+mi	I-location
+moang	I-location
+um	O
+simme	B-datetime
+nammiddog	I-datetime
+
+Stei	B-track
+ma	I-track
+an	I-track
+Wegga	I-track
+
+Stei	B-restaurant_name
+an	I-restaurant_name
+Wegga	I-restaurant_name
+um	O
+achte	B-datetime
+jedn	I-datetime
+Wochndog	I-datetime
+
+Schoid	O
+mein	B-track
+erstn	I-track
+Wegga	I-track
+aus	O
+
+Lösch	O
+den	O
+erstn	O
+Wegga	B-artist
+
+Siri	O
+lösch	O
+den	O
+Yoga	O
+Alarm	O
+
+Ända	B-track
+mein	I-track
+Wegga	I-track
+
+Lösch	O
+mein	O
+achte	O
+aufnacht	O
+Wegga	B-location
+und	O
+stein	O
+auf	O
+simme	O
+aufnacht	O
+
+Lösch	O
+an	B-track
+Wegga	I-track
+füa	I-track
+moang	I-track
+
+I	O
+mechad	O
+gar	O
+koane	B-artist
+Wegga	I-artist
+
+Lösch	B-entity_name
+de	I-entity_name
+Wegga	I-entity_name
+de	O
+füa	B-playlist
+moang	I-playlist
+gsteid	O
+han	O
+
+Lösch	B-entity_name
+an	I-entity_name
+Wegga	I-entity_name
+füan	O
+zehntn	B-datetime
+März	I-datetime
+zwoadausndsiebzehn	I-datetime
+
+Schoid	O
+an	O
+Wegga	B-artist
+aus	O
+
+Sog	O
+eana	O
+dass	O
+sie	O
+si	O
+dro	O
+erinnan	O
+soin	O
+de	O
+Dia	O
+imma	O
+obzumschliaßn	O
+und	O
+vorsichtig	O
+auf	O
+de	O
+Schlüssl	O
+aufzumbassn	O
+
+Bitte	O
+schoid	B-artist
+an	I-artist
+Wegga	I-artist
+aus	O
+
+Der	O
+Alarm	O
+muas	O
+permanent	O
+stumm	O
+gschoidn	O
+sei	O
+
+Snooze	O
+alle	O
+Wegga	O
+vo	O
+heid	O
+permanent	O
+
+Deaktivia	B-entity_name
+mein	I-entity_name
+drei	I-entity_name
+nammiddog	B-artist
+Wegga	I-artist
+
+Setz	B-album
+an	I-album
+Wegga	I-album
+zruck	I-album
+
+Olly	B-artist
+lösch	O
+alle	O
+Fuaßboitrainings	O
+Wegga	B-location
+
+Lösch	O
+an	O
+Wegga	B-location
+
+Olly	B-artist
+lösch	O
+mein	O
+Aufweggalarm	O
+
+Lösch	B-movie_name
+den	I-movie_name
+Wegga	I-movie_name
+der	O
+füa	B-datetime
+vierhundat	I-datetime
+in	O
+da	O
+fria	O
+gsteid	O
+is	O
+
+Ända	O
+de	O
+wöchentlichn	O
+Einstellungen	O
+füan	O
+Wegga	B-service
+
+Lösch	O
+an	O
+Wegga	B-location
+
+Vagiss	B-album
+an	O
+Wegga	B-artist
+
+Schoid	O
+alle	O
+Morgenwegga	B-entity_name
+nachm	O
+Freidog	B-service
+aus	O
+
+Lösch	O
+Finlee's	O
+Schlafenszeit	O
+Alarm	O
+
+I	O
+brauch	O
+den	O
+täglichn	O
+fünfe	O
+nammiddog	O
+Wegga	B-location
+nimma	I-location
+
+Stei	O
+mein	B-location
+Wegga	I-location
+ob	O
+
+Telefone	O
+
+Bitte	O
+lösch	O
+mein	B-reference
+Alarm	O
+der	O
+füan	O
+Mittwoch	O
+gsteid	O
+is	O
+und	O
+Kickball	O
+hoaßt	O
+
+Konnst	O
+du	O
+bitte	O
+mein	O
+Wegga	B-location
+löschen	O
+
+Bitte	O
+lösch	O
+den	O
+Alarm	O
+den	O
+i	O
+füa	O
+heid	O
+in	O
+da	O
+fria	O
+gsteid	O
+hob	O
+
+Lösch	O
+den	O
+geplanten	O
+Wegga	B-object_name
+
+I	O
+muas	O
+den	O
+Wegga	B-movie_name
+füa	O
+d	O
+Kircha	O
+um	O
+eife	O
+in	O
+da	O
+fria	O
+löschn	O
+
+zwoife	O
+voamiddog	O
+glöscht	O
+
+Deaktivier	O
+den	O
+Wegga	B-entity_name
+um	O
+zehne	B-datetime
+in	O
+da	B-playlist
+fria	I-playlist
+
+Lösch	B-track
+an	I-track
+Wegga	I-track
+um	O
+simm	B-datetime
+dreißge	I-datetime
+in	O
+da	O
+fria	B-datetime
+am	I-datetime
+Mondog	I-datetime
+
+Lösch	O
+meine	O
+frühen	O
+Wegga	B-artist
+
+Konnst	O
+du	B-entity_name
+bitte	I-entity_name
+des	I-entity_name
+Set	I-entity_name
+vo	I-entity_name
+Weggan	I-entity_name
+zwischen	O
+achte	B-playlist
+und	O
+neine	B-playlist
+löschen	O
+
+Deaktivier	O
+alle	B-entity_name
+Wegga	I-entity_name
+de	O
+füa	B-playlist
+heid	O
+gsteid	O
+han	O
+
+Lösch	B-track
+den	I-track
+Wegga	I-track
+
+Vazei	O
+ma	O
+vo	O
+de	O
+Wegga	B-object_name
+Zeitn	I-object_name
+
+Zoag	O
+ma	O
+alle	O
+plandn	O
+Wegga	B-location
+
+Zoag	O
+ma	O
+meine	O
+Wegga	B-playlist
+de	O
+i	O
+gsteid	O
+hob	O
+
+Weichane	B-artist
+Wegga	I-artist
+hob	O
+i	O
+füa	O
+moang	O
+gsteid	O
+
+Konnst	O
+du	B-track
+mir	I-track
+song	I-track
+weichane	I-track
+Wegga	B-artist
+i	O
+gsteid	O
+hob	O
+
+Gibts	O
+heid	B-datetime
+irgendweiche	O
+Wegga	B-location
+
+Schau	O
+obs	O
+irgendweiche	O
+Wegga	B-location
+nach	B-datetime
+fünfe	I-datetime
+nammiddog	I-datetime
+gibt	O
+
+Füa	B-track
+weicha	I-track
+Zeit	I-track
+is	O
+mei	O
+Aufwachwegga	B-location
+gsteid	O
+
+Weichane	B-movie_name
+Wegga	I-movie_name
+san	O
+füa	B-datetime
+mi	I-datetime
+gsteid	O
+woan	O
+
+Weichane	B-artist
+Wegga	I-artist
+han	O
+gsteid	O
+
+Hob	O
+i	O
+irgendweiche	O
+Wegga	B-location
+gsteid	O
+
+Zoag	B-track
+ma	I-track
+de	I-track
+Wegga	I-track
+de	O
+i	O
+gsteid	O
+hob	O
+
+I	O
+mechad	O
+olle	O
+gsteidn	O
+Wegga	B-artist
+seng	O
+
+Weichane	B-artist
+Wegga	I-artist
+hob	O
+i	O
+füan	B-location
+Donnasdog	I-location
+gsteid	O
+
+Füa	B-track
+weicha	I-track
+Zeit	I-track
+is	O
+mei	O
+Wegga	B-location
+gsteid	O
+
+Konnst	O
+du	O
+mia	O
+wos	O
+über	O
+den	O
+Wegga	O
+namens	O
+Bett	B-object_name
+song	B-music_item
+
+Hob	O
+i	O
+an	O
+Wegga	B-location
+gsteid	O
+
+Sog	O
+ma	O
+de	O
+Zeit	O
+vom	O
+Wegga	O
+den	O
+du	O
+gsteid	O
+host	O
+
+Los	B-track
+mi	I-track
+über	O
+de	O
+gsteidn	O
+Wegga	O
+heid	O
+wissn	O
+
+Meine	O
+gsteidn	O
+Wegga	B-location
+
+Weichane	B-artist
+Wegga	I-artist
+hob	O
+i	O
+grod	B-playlist
+gsteid	I-playlist
+
+Füa	B-playlist
+weicha	I-playlist
+Zeit	I-playlist
+is	O
+mei	O
+Wegga	B-artist
+moang	I-artist
+in	O
+da	B-playlist
+fria	I-playlist
+gsteid	O
+
+Is	O
+mei	O
+Arbeitswegga	B-playlist
+gsteid	O
+füa	O
+moang	O
+
+Wegga	B-object_name
+Status	I-object_name
+
+Prüf	O
+de	B-track
+Wegga	I-track
+de	O
+i	O
+hob	O
+
+Gibts	O
+irgendweiche	O
+Wegga	B-location
+
+Um	O
+weicha	B-datetime
+Zeit	I-datetime
+host	O
+du	O
+an	O
+Wegga	B-playlist
+füa	I-playlist
+mi	I-playlist
+gsteid	I-playlist
+
+Hob	O
+i	O
+irgendweiche	O
+Wegga	B-location
+füa	B-datetime
+sechse	I-datetime
+in	O
+da	O
+fria	B-location
+gsteid	O
+moang	O
+
+Weiche	B-movie_name
+Wegga	I-movie_name
+san	B-location
+grod	I-location
+gsteid	O
+
+Wia	O
+vui	O
+Wegga	B-location
+san	I-location
+grod	O
+gsteid	O
+
+I	O
+muas	O
+an	O
+Wegga	B-location
+stein	I-location
+wia	O
+vui	O
+hob	O
+i	O
+gsteid	O
+
+Gib	O
+ma	O
+de	O
+Weggazeitn	O
+füa	O
+de	O
+nächstn	B-datetime
+zwoa	I-datetime
+Dog	I-datetime
+
+Füa	B-restaurant_name
+weicha	I-restaurant_name
+Zeit	I-restaurant_name
+is	O
+a	O
+Wegga	B-location
+gsteid	O
+
+Hob	O
+i	O
+an	O
+Wegga	B-location
+gsteid	O
+füan	O
+Flug	B-location
+moang	O
+
+Bitte	O
+list	O
+de	O
+aktiven	B-sort
+Wegga	B-artist
+auf	O
+
+Weichane	B-artist
+Wegga	I-artist
+hob	O
+i	O
+im	O
+Handy	B-location
+gsteid	O
+
+Füa	B-entity_name
+weichane	I-entity_name
+Dog	I-entity_name
+san	I-entity_name
+meine	O
+Wegga	O
+gsteid	O
+
+Wia	O
+vui	O
+Wegga	B-artist
+hob	B-track
+i	I-track
+
+Bitte	O
+los	B-entity_name
+mi	I-entity_name
+de	I-entity_name
+Morgenweggazeit	I-entity_name
+füa	O
+Wochentage	B-datetime
+wissn	O
+
+Um	B-entity_name
+weicha	I-entity_name
+Zeit	I-entity_name
+werd	I-entity_name
+mi	I-entity_name
+mei	I-entity_name
+Wegga	I-entity_name
+aufwegga	I-entity_name
+
+sog	O
+da	O
+Mama	B-track
+dass	O
+i	O
+den	O
+Abend	B-datetime
+späda	O
+kimm	O
+
+Alexa	O
+sogs	O
+Weda	B-datetime
+in	O
+unsara	B-location
+Stod	I-location
+
+Werds	O
+Weda	B-datetime
+moang	O
+hoaß	B-weather/attribute
+oda	O
+koid	B-weather/attribute
+
+Wia	O
+isns	O
+Weda	B-object_name
+den	I-object_name
+Freidog	I-object_name
+
+Weda	B-object_name
+am	I-object_name
+Diensdog	I-object_name
+
+Wia	O
+isns	O
+Klima	O
+heid	O
+
+Is	O
+heid	O
+a	O
+Sonnencreme	B-restaurant_name
+Dog	I-restaurant_name
+
+Es	O
+is	O
+ned	O
+möglich	O
+
+Zoags	O
+Weda	B-datetime
+füa	O
+de	O
+Woch	O
+
+Is	O
+Weda	B-movie_name
+heid	O
+normal	O
+
+Schneits	O
+grod	B-weather/attribute
+
+Wia	O
+is	O
+des	O
+Mysore	B-location
+Klima	O
+heid	O
+
+Brauch	B-track
+i	I-track
+grod	O
+an	O
+Regnschirm	O
+
+Heid	O
+is	O
+schee	O
+
+Wia	O
+isns	O
+Weda	B-track
+wo	O
+i	O
+heid	B-weather/attribute
+bin	O
+
+Kimmt	O
+heid	O
+aufnacht	O
+a	O
+Schnee	O
+
+Soiad	B-track
+i	I-track
+grod	O
+mein	O
+Regnmantel	B-playlist
+mitnehma	O
+
+Wia	O
+isns	O
+Weda	B-movie_name
+in	O
+Toronto	B-location
+
+Werd	O
+i	O
+heid	B-datetime
+an	O
+Regnschirm	O
+rumdrong	O
+miasn	O
+
+Um	O
+weicha	O
+Zeit	O
+werds	O
+moang	O
+regna	O
+
+Schneits	O
+grod	B-weather/attribute
+
+Iss	O
+a	O
+guada	B-track
+Dog	I-track
+um	O
+ann	O
+Strand	B-location
+zum	O
+geh	O
+
+Wia	O
+is	O
+da	O
+Dog	O
+draußn	O
+
+Soi	O
+i	O
+eiplanen	O
+mein	O
+Weg	O
+ausm	O
+Haus	O
+freizumschaufen	O
+
+Zoag	B-track
+ma	I-track
+a	I-track
+Vorhersage	I-track
+
+Wia	O
+werds	O
+Weda	B-datetime
+in	O
+Mumbai	B-location
+moang	O
+
+Gib	O
+mas	O
+Weda	B-datetime
+vo	O
+de	O
+letzdn	B-datetime
+fünf	I-datetime
+Dog	I-datetime
+
+Weda	B-datetime
+in	O
+Leisure	B-location
+City	I-location
+
+Werd	O
+i	O
+heid	O
+nach	O
+Sonnenuntergang	O
+an	O
+Regnschirm	O
+braucha	O
+
+Bitte	O
+gib	O
+ma	O
+an	O
+Wedabericht	B-location
+füa	O
+de	O
+Woch	O
+
+Muas	B-movie_name
+i	O
+a	O
+Sonnenbrille	O
+mitnehma	O
+
+Wia	O
+feicht	B-datetime
+is	O
+d	O
+Umwelt	O
+heid	O
+
+Soi	O
+i	O
+heid	O
+a	O
+Jackn	B-location
+oziagn	B-location
+
+Wia	O
+iss	O
+Weda	B-datetime
+in	O
+Beijing	B-location
+
+Brauch	B-movie_name
+i	I-movie_name
+a	I-movie_name
+Jackn	I-movie_name
+den	O
+nammiddog	B-datetime
+
+Brauch	B-track
+i	I-track
+heid	O
+an	O
+Pulli	B-location
+
+Soi	O
+is	O
+Sonnendach	B-movie_name
+aufmacha	O
+
+Wia	O
+iss	O
+Weda	B-object_name
+de	I-object_name
+Woch	I-object_name
+
+Wia	O
+is	O
+Weda	B-object_name
+grod	I-object_name
+
+Regnds	B-weather/attribute
+grod	I-weather/attribute
+
