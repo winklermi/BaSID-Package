@@ -5,8 +5,8 @@ modelpath=$1
 modelname=${modelpath#*/logs/}
 modelname=${modelname%%/*}
 
-lang=$2
-set=$3
+set=$2
+lang=$3
 data="eval-data/$lang.$set.conll"
 
 # prepare the directory and file for the prediction

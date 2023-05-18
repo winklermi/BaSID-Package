@@ -903,7 +903,7 @@
 4	in	alarm/set_alarm	O
 5	oana	alarm/set_alarm	B-datetime
 6	Stund	alarm/set_alarm	I-datetime
-7	vo	alarm/set_alarm	i-datetime
+7	vo	alarm/set_alarm	I-datetime
 8	jetz	alarm/set_alarm	I-datetime
 9	.	alarm/set_alarm	O
 
@@ -987,7 +987,6 @@
 1	Werds	weather/find	O
 2	moang	weather/find	B-datetime
 3	schnein	weather/find	B-weather/attribute
-
 
 # id: 89
 # intent: alarm/cancel_alarm
@@ -1087,7 +1086,6 @@
 1	Zoag	alarm/show_alarms	O
 2	alle	alarm/show_alarms	B-reference
 3	Alarme	alarm/show_alarms	O
-
 
 # id: 99
 # intent: alarm/set_alarm
@@ -2785,7 +2783,7 @@
 2	suach	SearchCreativeWork	O
 3	ma	SearchCreativeWork	O
 4	des	SearchCreativeWork	O
-5	Computaspui	SearchCreativeWork	b-object_type
+5	Computaspui	SearchCreativeWork	B-object_type
 6	namens	SearchCreativeWork	O
 7	20	SearchCreativeWork	B-object_name
 8	Hours	SearchCreativeWork	I-object_name
@@ -3423,7 +3421,6 @@
 8	da	SearchScreeningEvent	I-location
 9	Nachbarschaft	SearchScreeningEvent	I-location
 10	hom	SearchScreeningEvent	O
-
 
 # id: 298
 # intent: RateBook
@@ -5471,7 +5468,6 @@
 8	Theaters	SearchScreeningEvent	I-location
 9	Filmzeitn	SearchScreeningEvent	B-object_type
 
-
 # id: 443
 # intent: SearchCreativeWork
 # text-en: Look for the television show Meet the Prince
@@ -6719,7 +6715,7 @@
 3	vo	PlayMusic	O
 4	meim	PlayMusic	B-reference
 5	Lieblingskünstla	PlayMusic	O
-	
+
 # id: 543
 # intent: PlayMusic
 # text-en: play kari jobe for me

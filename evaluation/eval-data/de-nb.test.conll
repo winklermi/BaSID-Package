@@ -1820,7 +1820,7 @@
 3	erinnerung	reminder/cancel_reminder	O
 4	fir	reminder/cancel_reminder	O
 5	moneyboy	reminder/cancel_reminder	B-reminder/todo
-6	horchn	I-reminder/todo
+6	horchn	reminder/cancel_reminder	I-reminder/todo
 
 # id: 166
 # intent: reminder/set_reminder
@@ -2226,7 +2226,7 @@
 5	drausn?	weather/find	B-location
 
 # id: 200
-# intent:	weather/find
+# intent: weather/find
 # text: Wia is a Weda in Deging 
 1	Wia	weather/find	O
 2	is	weather/find	O

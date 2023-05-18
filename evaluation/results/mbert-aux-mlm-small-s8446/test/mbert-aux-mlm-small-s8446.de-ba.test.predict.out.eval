@@ -1,0 +1,6 @@
+{
+    "intent-acc.": 0.51,
+    "slots-span_f1": 0.32087761398697295,
+    "masking-perplexity": 0.0,
+    "sum": 0.8308776139869729
+}

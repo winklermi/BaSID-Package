@@ -567,7 +567,7 @@
 2	werd	weather/find	O
 3	da	weather/find	O
 4	Hitzeindex	weather/find	B-weather/attribute
-5	heid	weather/find	b-datetime
+5	heid	weather/find	B-datetime
 6	sei	weather/find	O
 7	?	weather/find	O
 
@@ -1521,7 +1521,7 @@
 2	in	weather/find	O
 3	Bordentown	weather/find	B-location
 4	heid	weather/find	B-datetime
-5	Stürme	weather/find	b-weather/attribute
+5	Stürme	weather/find	B-weather/attribute
 6	gem	weather/find	O
 
 # id: 141
