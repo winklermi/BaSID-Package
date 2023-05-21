@@ -3190,8 +3190,8 @@
 # text: Spui des Jill Sobule Album
 1	Spui	PlayMusic	O
 2	des	PlayMusic	O
-3	Jill	PlayMusic	B-album
-4	Sobule	PlayMusic	I-album
+3	Jill	PlayMusic	B-artist
+4	Sobule	PlayMusic	I-artist
 5	Album	PlayMusic	B-music_item
 
 # id: 282

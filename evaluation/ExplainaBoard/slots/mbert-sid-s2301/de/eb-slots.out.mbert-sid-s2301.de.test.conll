@@ -1,0 +1,4291 @@
+Zeige	O
+alle	B-object_name
+Erinnerungen	I-object_name
+
+Benötige	O
+ich	O
+einen	O
+Pullover	B-weather/attribute
+?	O
+
+Eine	O
+Erinnerung	O
+für	O
+heute	B-datetime
+um	I-datetime
+4	I-datetime
+Uhr	I-datetime
+nachmittags	I-datetime
+hinzufügen	O
+
+lösche	O
+meine	B-reference
+Erinnerung	O
+
+Erinnere	O
+mich	O
+Gas	B-weather/attribute
+zu	O
+kaufen	O
+.	O
+
+Benötige	O
+ich	O
+am	B-datetime
+Mittwoch	I-datetime
+einen	O
+Regenschirm	B-weather/attribute
+?	O
+
+snooze	O
+meinen	O
+Wecker	O
+für	O
+fünf	B-datetime
+Minuten	I-datetime
+
+erstelle	O
+eine	O
+Geburtstagserinnerung	O
+für	O
+max	B-datetime
+
+Zeig	O
+mir	O
+alle	B-reference
+Erinnerungen	O
+
+Zeige	O
+alle	B-album
+Wecker	I-album
+.	O
+
+Regnet	O
+es	O
+heute	B-datetime
+?	O
+
+Stelle	O
+den	O
+Wecker	B-weather/attribute
+auf	O
+8:00	B-datetime
+Uhr	I-datetime
+ein	O
+
+Wie	O
+ist	O
+die	O
+Temperatur	B-weather/attribute
+heute	B-datetime
+?	O
+
+Zeige	O
+meine	B-object_name
+Erinnerung	I-object_name
+
+Alle	O
+Wecker	B-weather/attribute
+anzeigen	O
+
+Erinnere	O
+mich	O
+mit	O
+Ben	O
+über	O
+Georgia	B-location
+zu	O
+reden	O
+
+Erstelle	O
+einen	O
+Wecker	B-weather/attribute
+für	O
+5	B-datetime
+Uhr	I-datetime
+morgens	I-datetime
+
+ist	O
+es	O
+heute	B-datetime
+bewölkt	B-weather/attribute
+
+Wie	O
+viele	O
+Millimeter	O
+Regen	B-weather/attribute
+werden	O
+wir	O
+heute	B-datetime
+bekommen	O
+?	O
+
+Erinnere	O
+mich	O
+,	O
+morgen	O
+meine	O
+Schwester	O
+anzurufen	O
+
+schalte	O
+Wecker	B-served_dish
+aus	O
+
+Wird	O
+es	O
+diese	B-datetime
+Woche	I-datetime
+heiß	B-weather/attribute
+?	O
+
+Erstelle	O
+einen	O
+Wecker	B-weather/attribute
+für	O
+3	B-datetime
+Uhr	I-datetime
+nachmittags	I-datetime
+.	O
+
+wird	O
+es	O
+heute	B-datetime
+schneien	O
+
+entferne	O
+alle	B-album
+Wecker	I-album
+
+Zeig	O
+mir	O
+meine	B-reference
+Erinnerungen	O
+
+Wie	O
+viel	O
+Zeit	O
+bleibt	O
+beim	O
+Wecker	B-weather/attribute
+übrig	O
+
+Was	O
+sind	O
+meine	B-reference
+Erinnerungen	O
+?	O
+
+Erstelle	O
+einen	O
+täglichen	O
+Wecker	B-weather/attribute
+für	O
+8	B-datetime
+Uhr	I-datetime
+morgens	I-datetime
+
+kannst	O
+du	O
+mir	O
+die	O
+Wecker	B-weather/attribute
+anzeigen	O
+?	O
+
+Erwartet	O
+Disney	B-location
+World	I-location
+heute	B-datetime
+Stürme	B-weather/attribute
+?	O
+
+wird	O
+es	O
+heute	B-datetime
+schneien	O
+
+zeige	O
+alle	B-reference
+Wecker	O
+
+Ist	O
+es	O
+heute	B-datetime
+kalt	B-weather/attribute
+?	O
+
+Bitte	O
+lösche	O
+den	B-served_dish
+Wecker	I-served_dish
+für	O
+Donnerstagmorgen	B-datetime
+.	O
+
+Regnet	O
+es	O
+heute	B-datetime
+?	O
+
+schneit	O
+es	O
+in	O
+kanada	B-location
+
+Was	O
+wird	O
+die	O
+Höchsttemperatur	B-weather/attribute
+heute	B-datetime
+?	O
+
+Wird	O
+es	O
+heute	B-datetime
+Nacht	I-datetime
+genug	O
+schneien	O
+,	O
+um	O
+das	O
+Reisen	O
+gefährlich	O
+zu	O
+machen	O
+?	O
+
+Zeige	O
+alle	B-object_name
+Erinnerungen	I-object_name
+
+Lösche	O
+alle	B-reference
+Erinnerungen	O
+
+brauche	O
+ich	O
+morgen	B-datetime
+eine	O
+Jacke	B-weather/attribute
+?	O
+
+Wie	O
+viel	O
+Zeit	O
+bleibt	O
+beim	O
+Wecker	B-weather/attribute
+übrig	O
+
+Pausiere	O
+den	O
+Alarm	O
+
+Zeige	O
+alle	B-reference
+Wecker	O
+an	O
+
+Wie	O
+ist	O
+das	O
+Wetter	B-weather/attribute
+in	O
+Yellowstone	B-location
+?	O
+
+wie	O
+ist	O
+das	O
+Wetter	B-weather/attribute
+heute	B-datetime
+?	O
+
+Lösche	O
+meine	B-reference
+Erinnerung	O
+um	O
+morgen	O
+Patrick	O
+von	O
+der	O
+Schule	O
+abzuholen	O
+
+Erinnere	O
+mich	O
+morgen	B-datetime
+zu	O
+dieser	O
+Zeit	O
+einen	O
+Arzttermin	B-reminder/todo
+zu	O
+vereinbaren	O
+
+Erinnere	O
+mich	O
+,	O
+die	O
+Miete	O
+abzugeben	O
+
+wann	O
+wir	O
+es	O
+aufhören	O
+zu	O
+regnen	B-weather/attribute
+?	O
+
+Wecker	B-weather/attribute
+löschen	I-weather/attribute
+
+Erinnere	O
+mich	O
+Stephanie	O
+am	O
+Dienstag	B-datetime
+anzurufen	O
+
+zeige	O
+mir	O
+alle	B-album
+meine	I-album
+Weckzeiten	I-album
+
+Wie	O
+heiß	B-weather/attribute
+wird	O
+es	O
+heute	B-datetime
+?	O
+
+Setze	O
+einen	O
+Wecker	B-weather/attribute
+für	O
+17	B-datetime
+Uhr	I-datetime
+heute	I-datetime
+Abend	I-datetime
+
+erinnere	O
+mich	O
+daran	O
+,	O
+am	O
+21	B-datetime
+.	I-datetime
+August	I-datetime
+um	O
+15	O
+Uhr	O
+zum	O
+Arzt	O
+zu	O
+gehen	O
+
+storniere	O
+meine	O
+wiederholte	O
+Erinnerung	O
+,	O
+täglich	B-recurring_datetime
+um	I-recurring_datetime
+7	I-recurring_datetime
+Uhr	I-recurring_datetime
+Medikamente	O
+einzunehmen	O
+
+Wann	O
+zeigt	O
+die	O
+Wettervorhersage	O
+den	O
+nächsten	O
+Regen	B-weather/attribute
+an	O
+?	O
+
+Wann	O
+ist	O
+mein	O
+Wecker	B-weather/attribute
+für	O
+morgen	B-datetime
+früh	O
+eingestellt	O
+?	O
+
+wird	O
+es	O
+heute	B-datetime
+schneien	O
+
+Schalte	O
+meinen	O
+Wecker	B-weather/attribute
+aus	O
+.	O
+
+Lösche	O
+alle	B-track
+Wecker	I-track
+
+erinnere	O
+mich	O
+Lebensmittel	B-reminder/todo
+zu	O
+kaufen	B-reminder/todo
+
+Ich	O
+brauche	O
+einen	O
+Wecker	B-weather/attribute
+für	O
+9	B-datetime
+Uhr	I-datetime
+früh	I-datetime
+Frühstück	I-datetime
+
+Erstelle	O
+eine	O
+Erinnerung	B-object_name
+um	I-object_name
+the	I-object_name
+Colts	I-object_name
+zu	O
+schauen	O
+eine	B-datetime
+Stunde	I-datetime
+bevor	O
+das	O
+Spiel	O
+beginnt	O
+
+alle	O
+Wecker	B-weather/attribute
+löschen	I-weather/attribute
+
+Lösche	O
+meine	B-entity_name
+dritte	I-entity_name
+Erinnerung	I-entity_name
+von	O
+dieser	O
+Liste	O
+
+setze	O
+den	O
+Wecker	O
+auf	O
+6	B-datetime
+Uhr	I-datetime
+früh	I-datetime
+
+Setze	O
+diesen	O
+Wecker	B-weather/attribute
+zurück	O
+und	O
+starte	O
+um	B-datetime
+2	I-datetime
+Uhr	I-datetime
+nachmittags	I-datetime
+
+Wird	O
+es	O
+schneien	B-weather/attribute
+?	O
+
+Erinnere	O
+mich	O
+,	O
+die	O
+Miete	O
+zu	O
+zahlen	O
+.	O
+
+was	O
+ist	O
+das	O
+Tief	B-weather/attribute
+für	O
+morgen	B-datetime
+
+Wird	O
+es	O
+heute	B-datetime
+sonnig	B-weather/attribute
+?	O
+
+Wie	O
+viele	O
+Erinnerungen	O
+habe	O
+ich	O
+heute	B-datetime
+?	O
+
+Was	O
+sind	O
+meine	B-reference
+Erinnerungen	O
+für	O
+morgen	B-datetime
+?	O
+
+Lösche	O
+alle	B-object_name
+meine	I-object_name
+Erinnerungen	I-object_name
+.	O
+
+Erstelle	O
+einen	O
+Wecker	B-weather/attribute
+für	O
+morgen	B-datetime
+6	I-datetime
+Uhr	I-datetime
+morgens	I-datetime
+
+Stelle	O
+den	B-restaurant_name
+Wecker	I-restaurant_name
+für	O
+30	B-datetime
+Minuten	I-datetime
+
+Erstelle	O
+einen	O
+Wecker	B-weather/attribute
+für	O
+jetzt	B-datetime
+in	I-datetime
+einer	I-datetime
+Stunde	I-datetime
+.	O
+
+alle	O
+Wecker	B-weather/attribute
+löschen	I-weather/attribute
+
+Wetter	O
+Update	O
+Los	B-location
+Angeles	I-location
+
+alle	O
+Wecker	B-weather/attribute
+löschen	I-weather/attribute
+
+Wie	O
+viele	O
+Erinnerungen	O
+habe	O
+ich	O
+heute	B-datetime
+?	O
+
+Erinnere	O
+mich	O
+Küchenpapier	B-restaurant_name
+im	O
+Geschäft	O
+morgen	O
+zu	O
+kaufen	O
+
+zeige	O
+mir	O
+alle	B-reference
+meine	I-reference
+Erinnerungen	O
+
+setze	O
+den	O
+Wecker	O
+auf	O
+6	B-datetime
+Uhr	I-datetime
+früh	I-datetime
+
+wird	O
+es	O
+morgen	B-weather/attribute
+schneien	O
+
+lösche	O
+meinen	O
+Wecker	O
+von	O
+morgen	B-datetime
+früh	I-datetime
+
+Stelle	O
+den	O
+Wecker	B-weather/attribute
+nur	O
+auf	O
+Montags	B-datetime
+Mittag	I-datetime
+ein	O
+.	O
+
+Wie	O
+heiß	B-weather/attribute
+wird	O
+es	O
+heute	B-datetime
+?	O
+
+Erinnere	O
+mich	O
+,	O
+den	O
+Wecker	O
+für	O
+den	O
+Morgen	B-datetime
+einzustellen	O
+
+entferne	O
+alle	B-album
+Wecker	I-album
+
+zeige	O
+meine	B-reference
+Wecker	O
+
+Alarm	O
+verwerfen	O
+
+Wie	O
+ist	O
+die	O
+Temperatur	B-weather/attribute
+heute	B-datetime
+?	O
+
+Alarm	O
+verwerfen	O
+
+zeige	O
+alle	B-reference
+Wecker	O
+
+Stelle	O
+einen	O
+Wecker	B-weather/attribute
+für	O
+alle	B-recurring_datetime
+30	I-recurring_datetime
+Minuten	I-recurring_datetime
+ein	O
+
+Wie	O
+wird	O
+die	O
+Temperatur	B-weather/attribute
+heute	B-datetime
+?	O
+
+Wird	O
+es	O
+heute	B-datetime
+heiß	B-weather/attribute
+?	O
+
+Wird	O
+es	O
+morgen	B-weather/attribute
+regnen	I-weather/attribute
+?	O
+
+Lösche	O
+den	O
+nächsten	O
+Wecker	B-weather/attribute
+
+Erinnere	O
+mich	O
+heute	B-datetime
+zum	O
+Supermarkt	B-reminder/todo
+zu	O
+gehen	O
+
+lösche	O
+meine	B-reference
+Erinnerungen	O
+für	O
+nächste	B-datetime
+Woche	I-datetime
+
+Erinnere	O
+mich	O
+meinen	O
+Hund	O
+zu	O
+groomer	O
+zu	O
+bringen	O
+am	O
+Dienstag	B-datetime
+um	I-datetime
+3	I-datetime
+Uhr	I-datetime
+nachmittags	I-datetime
+
+Erinnere	O
+mich	O
+für	O
+Jen	B-reminder/todo
+die	I-reminder/todo
+Blumen	I-reminder/todo
+abzuholen	I-reminder/todo
+für	O
+unseren	B-datetime
+Jahrestag	I-datetime
+am	I-datetime
+28	I-datetime
+.	O
+
+wie	O
+ist	O
+das	O
+Wetter	B-weather/attribute
+heute	B-datetime
+?	O
+
+Erinnere	O
+mich	O
+einen	O
+Arzttermin	B-reminder/todo
+morgen	B-datetime
+zu	O
+vereinbaren	O
+.	O
+
+schalte	O
+alle	B-reference
+Wecker	B-weather/attribute
+aus	O
+
+Soll	O
+ich	O
+einen	O
+Regenmantel	B-weather/attribute
+mitbringen	O
+?	O
+
+Was	O
+ist	O
+die	O
+extreme	B-weather/attribute
+Wettervorhersage	O
+?	O
+
+Erinnere	O
+mich	O
+an	O
+den	O
+Arzttermin	B-reminder/todo
+nächste	B-datetime
+Woche	I-datetime
+
+Erstelle	O
+eine	O
+Erinnerung	O
+zum	O
+Geschäft	O
+zu	O
+geben	O
+um	B-datetime
+8	I-datetime
+Uhr	I-datetime
+morgens	I-datetime
+
+Erstelle	O
+Erinnerung	O
+,	O
+um	O
+die	O
+Sachen	B-object_name
+von	I-object_name
+der	I-object_name
+chemischen	I-object_name
+Reinigung	I-object_name
+abzuholen	O
+.	O
+
+wann	O
+wird	O
+es	O
+abkühlen	B-weather/attribute
+
+wird	O
+es	O
+diese	B-datetime
+Woche	I-datetime
+regnen	B-weather/attribute
+
+entferne	O
+alle	B-album
+Wecker	I-album
+
+Wecker	B-weather/attribute
+löschen	I-weather/attribute
+
+Zeig	O
+mir	O
+meine	O
+Wecker	O
+
+Für	O
+welche	O
+Zeit	O
+habe	O
+ich	O
+den	O
+Wecker	B-weather/attribute
+eingestellt	O
+?	O
+
+Wird	O
+es	O
+am	O
+Samstag	B-weather/attribute
+regnen	B-weather/attribute
+?	O
+
+wie	O
+warm	B-weather/attribute
+wird	O
+es	O
+heute	B-datetime
+?	O
+
+Setze	O
+alle	O
+Wecker	B-weather/attribute
+zurück	O
+
+Wetter	B-weather/attribute
+in	O
+Tahoe	B-location
+dieses	B-datetime
+Wochenende	I-datetime
+?	O
+
+Brauche	O
+ich	O
+heute	B-datetime
+einen	O
+Mantel	B-weather/attribute
+?	O
+
+wann	O
+wir	O
+es	O
+aufhören	O
+zu	O
+regnen	B-weather/attribute
+?	O
+
+Setze	O
+eine	O
+Erinnerung	O
+meine	O
+Schule	O
+am	O
+Montag	B-datetime
+um	I-datetime
+4	I-datetime
+Uhr	I-datetime
+nachmittags	I-datetime
+anzurufen	O
+
+Schalte	O
+meinen	O
+Wecker	B-weather/attribute
+aus	O
+.	O
+
+Wie	O
+kalt	B-weather/attribute
+wird	O
+es	O
+heute	B-datetime
+Nacht	I-datetime
+?	O
+
+Stelle	O
+den	O
+Wecker	B-weather/attribute
+auf	O
+7:00	B-datetime
+Uhr	I-datetime
+morgen	I-datetime
+.	O
+
+Lösche	O
+meine	B-track
+Erinnerung	I-track
+,	O
+Rob	O
+abzuholen	O
+
+Erstelle	O
+eine	O
+Erinnerung	O
+für	O
+morgen	B-datetime
+um	O
+Milch	O
+zu	O
+kaufen	O
+.	O
+
+setze	O
+den	O
+Wecker	O
+auf	O
+6	B-datetime
+Uhr	I-datetime
+abends	I-datetime
+
+plane	O
+täglich	B-recurring_datetime
+einen	O
+Alarm	O
+um	B-datetime
+7:30	I-datetime
+Uhr	I-datetime
+abends	I-datetime
+ein	O
+,	O
+bis	O
+er	O
+gelöscht	O
+wird	O
+
+erinnere	O
+mich	O
+daran	O
+,	O
+einen	O
+Alarm	O
+für	O
+Ups	O
+einzustellen	O
+
+lösche	O
+meine	B-reference
+Erinnerung	O
+
+Wird	O
+es	O
+heute	B-datetime
+schneien	B-weather/attribute
+?	O
+
+Zeige	O
+alle	B-reference
+Wecker	O
+an	O
+
+Zeige	O
+alle	B-object_name
+Erinnerungen	I-object_name
+
+wie	O
+viel	O
+Zeit	O
+bleibt	O
+auf	O
+meinem	O
+Wecker	O
+
+Wecker	B-weather/attribute
+für	O
+2	B-datetime
+Stunden	I-datetime
+stellen	O
+
+Erinnere	O
+mich	O
+,	O
+nach	O
+der	O
+Arbeit	O
+Brot	B-object_name
+zu	O
+holen	O
+
+Wird	O
+es	O
+heute	B-datetime
+regnen	B-weather/attribute
+?	O
+
+lese	O
+die	O
+heutige	B-datetime
+Wettervorhersage	O
+
+Für	O
+welche	O
+Zeit	O
+ist	O
+mein	O
+Wecker	B-weather/attribute
+gestellt	O
+?	O
+
+morgen	B-datetime
+um	I-datetime
+4	I-datetime
+Uhr	I-datetime
+,	O
+erinnere	O
+mich	O
+zum	O
+Einkaufszentrum	B-reminder/todo
+zu	O
+gehen	O
+
+Sollte	O
+ich	O
+heute	B-datetime
+einen	O
+Regenschirm	B-weather/attribute
+mitbringen	O
+?	O
+
+Zeige	O
+meine	B-object_name
+Erinnerung	I-object_name
+
+Zeige	O
+alle	B-object_name
+meine	I-object_name
+Erinnerungen	O
+
+Erstelle	O
+eine	O
+Erinnerung	O
+für	O
+Hundefutter	B-reminder/todo
+am	O
+Montag	B-datetime
+.	O
+
+Erstelle	O
+Erinnerung	O
+"	O
+Sub	B-reminder/todo
+yoga	I-reminder/todo
+class	I-reminder/todo
+Tuesday	B-datetime
+night	I-datetime
+at	O
+Bala	B-location
+"	O
+für	O
+morgen	O
+
+Lösche	O
+alle	B-reference
+Erinnerungen	O
+von	O
+heute	B-datetime
+
+Wie	O
+wird	O
+das	O
+Wetter	B-weather/attribute
+in	O
+New	B-location
+York	I-location
+diese	B-datetime
+Woche	I-datetime
+
+Erinnere	O
+mich	O
+an	O
+eine	O
+Doktorvisite	B-weather/attribute
+am	O
+Donnerstag	B-datetime
+um	I-datetime
+12	I-datetime
+Uhr	I-datetime
+mittag	I-datetime
+
+stelle	O
+einen	O
+Wecker	B-weather/attribute
+auf	O
+6:50	B-datetime
+Uhr	I-datetime
+abends	I-datetime
+ein	O
+
+Wird	O
+es	O
+heute	B-datetime
+schneien	B-weather/attribute
+?	O
+
+Welche	O
+Wecker	B-weather/attribute
+sind	O
+eingestellt	O
+?	O
+
+Stelle	O
+einen	O
+Erinnerungsalarm	O
+für	O
+den	O
+7	B-datetime
+.	I-datetime
+Oktober	I-datetime
+ein	O
+
+Wird	O
+es	O
+heute	B-datetime
+schneien	B-weather/attribute
+?	O
+
+Schlummeralarm	B-weather/attribute
+für	O
+15	B-datetime
+Minuten	I-datetime
+
+Wie	O
+viel	O
+Schnee	B-weather/attribute
+sagen	O
+sie	O
+voraus	O
+?	O
+
+ist	O
+es	O
+draußen	B-weather/attribute
+heiß	B-weather/attribute
+
+Wie	O
+wird	O
+die	O
+Temperatur	B-weather/attribute
+heute	B-datetime
+?	O
+
+wie	O
+wird	O
+das	O
+Wetter	B-weather/attribute
+morgen	B-datetime
+in	O
+Dallas	B-location
+
+Zeige	O
+mir	O
+alle	O
+meine	O
+Erinnerungen	O
+von	O
+heute	B-datetime
+
+Erstelle	O
+eine	O
+wöchentliche	O
+Erinnerung	O
+für	O
+Lebensmittel	O
+.	O
+
+Wetter	O
+
+Soll	O
+es	O
+heute	B-datetime
+den	O
+ganzen	O
+Tag	O
+über	O
+regnen	B-weather/attribute
+?	O
+
+wird	O
+es	O
+morgen	B-weather/attribute
+regnen	B-weather/attribute
+
+Erinnere	O
+mich	O
+die	O
+Arbeitsemails	B-reminder/todo
+heute	B-datetime
+Abend	I-datetime
+zu	O
+beantworten	O
+
+Wecker	B-weather/attribute
+löschen	I-weather/attribute
+
+Lösche	O
+meine	B-track
+Wecker	I-track
+
+Kann	O
+ich	O
+heute	B-datetime
+kurze	B-weather/attribute
+Hosen	B-weather/attribute
+tragen	O
+?	O
+
+Wird	O
+es	O
+morgen	B-weather/attribute
+regnen	I-weather/attribute
+?	O
+
+stelle	O
+Wecker	B-entity_name
+auf	O
+10	B-datetime
+Uhr	I-datetime
+früh	I-datetime
+
+Wird	O
+es	O
+am	O
+Wochenende	B-datetime
+regnen	B-weather/attribute
+?	O
+
+Zeige	O
+alle	B-object_name
+Erinnerungen	I-object_name
+
+Wecker	B-weather/attribute
+löschen	I-weather/attribute
+
+schalte	O
+alle	B-reference
+Wecker	B-weather/attribute
+aus	O
+
+zeige	O
+alle	O
+voreingestellten	O
+Wecker	O
+an	O
+
+Stelle	O
+einen	O
+Wecker	B-restaurant_name
+jede	B-recurring_datetime
+Minute	I-recurring_datetime
+für	I-recurring_datetime
+20	I-recurring_datetime
+Minuten	I-recurring_datetime
+.	Orecurring_datetime
+
+Was	O
+sind	O
+meine	B-reference
+Erinnerungen	O
+?	O
+
+lösche	O
+den	O
+Wecker	B-weather/attribute
+für	O
+morgen	B-datetime
+
+Benötige	O
+ich	O
+heute	B-datetime
+einen	O
+Regenschirm	B-weather/attribute
+?	O
+
+Soll	O
+es	O
+heute	B-datetime
+noch	O
+schneien	B-weather/attribute
+?	O
+
+Erinnere	O
+mich	O
+meine	O
+Mutter	O
+heute	B-datetime
+Abend	I-datetime
+anzurufen	O
+
+wird	O
+es	O
+heute	B-datetime
+regnen	B-weather/attribute
+?	O
+
+Wird	O
+es	O
+am	O
+Samstag	B-weather/attribute
+regnen	B-weather/attribute
+?	O
+
+Wirst	O
+du	O
+den	O
+Wecker	B-weather/attribute
+20	B-datetime
+Minuten	I-datetime
+lang	I-datetime
+jede	O
+Minute	O
+einstellen	O
+?	O
+
+Tropische	O
+Stürme	B-weather/attribute
+in	O
+der	O
+Karibik	B-location
+
+alle	O
+Wecker	B-weather/attribute
+löschen	I-weather/attribute
+
+Erstelle	O
+einen	O
+Wecker	B-served_dish
+für	O
+alle	B-recurring_datetime
+neun	I-recurring_datetime
+Minuten	I-recurring_datetime
+
+Lösche	O
+die	O
+letzten	O
+zwei	O
+Erinnerungen	O
+auf	O
+meiner	O
+Liste	O
+
+wie	O
+ist	O
+das	O
+Wetter	B-weather/attribute
+heute	B-datetime
+?	O
+
+schalte	O
+meinen	O
+Wecker	O
+ein	O
+
+Was	O
+ist	O
+die	O
+Luftfeuchtigkeit	B-weather/attribute
+heute	B-datetime
+?	O
+
+erinnere	O
+mich	O
+daran	O
+,	O
+einen	O
+Alarm	O
+für	O
+Ups	O
+einzustellen	O
+
+Wird	O
+es	O
+schneien	B-weather/attribute
+dieses	B-datetime
+Wochenende	I-datetime
+?	O
+
+Wie	O
+heiß	B-weather/attribute
+wird	O
+es	O
+heute	B-datetime
+?	O
+
+Auf	O
+welche	O
+Zeit	O
+is	O
+mein	O
+Wecker	O
+gestellt	O
+
+wie	O
+ist	O
+das	O
+Wetter	B-weather/attribute
+heute	B-datetime
+?	O
+
+Wird	O
+es	O
+morgen	B-weather/attribute
+regnen	I-weather/attribute
+?	O
+
+Lösche	O
+meinen	B-reference
+Alarm	O
+von	B-datetime
+5:15	I-datetime
+Uhr	I-datetime
+früh	I-datetime
+am	I-datetime
+Dienstag	I-datetime
+
+Erinnerung	O
+für	O
+das	O
+Spiel	O
+heute	B-datetime
+Abend	I-datetime
+löschen	O
+
+Wecker	B-weather/attribute
+für	O
+3	B-datetime
+Uhr	I-datetime
+morgens	I-datetime
+stellen	O
+
+lösche	O
+alle	B-served_dish
+Wecker	I-served_dish
+für	O
+Samstag	B-datetime
+
+Ich	O
+brauche	O
+eine	O
+Erinnerung	O
+um	O
+Lisa	O
+abzuholen	O
+
+Was	O
+wird	O
+das	O
+Hoch	B-weather/attribute
+heute	B-datetime
+sein	O
+?	O
+
+Wird	O
+es	O
+in	O
+Grindstone	B-location
+heute	B-datetime
+bewölkt	B-weather/attribute
+?	O
+
+Erinnere	O
+mich	O
+später	B-datetime
+
+wie	O
+ist	O
+das	O
+Wetter	B-weather/attribute
+in	O
+Frankreich	B-location
+heute	B-datetime
+
+Wird	O
+es	O
+für	O
+die	O
+Party	O
+am	O
+Samstag	B-datetime
+sonnig	B-weather/attribute
+?	O
+
+Wird	O
+es	O
+morgen	B-weather/attribute
+regnen	I-weather/attribute
+?	O
+
+Kann	O
+ich	O
+heute	B-datetime
+kurze	B-weather/attribute
+Hosen	B-weather/attribute
+tragen	O
+?	O
+
+Zeige	O
+meine	B-object_name
+Erinnerung	I-object_name
+
+was	O
+is	O
+die	O
+durchschnittliche	O
+Wettervorhersage	O
+für	O
+September	B-datetime
+
+Ist	O
+es	O
+heute	B-datetime
+kalt	B-weather/attribute
+?	O
+
+Lösche	O
+alle	B-reference
+Erinnerungen	O
+
+ist	O
+es	O
+heiß	B-weather/attribute
+?	O
+
+Erstelle	O
+einen	O
+Wecker	B-served_dish
+für	O
+Wochenenden	B-datetime
+um	O
+14	B-datetime
+Uhr	I-datetime
+am	I-datetime
+Nachmittag	I-datetime
+
+Stelle	O
+den	O
+Wecker	B-restaurant_name
+auf	O
+2:00	B-datetime
+Uhr	I-datetime
+
+Was	O
+ist	O
+die	O
+Luftfeuchtigkeit	B-weather/attribute
+heute	B-datetime
+?	O
+
+zeige	O
+mir	O
+alle	B-album
+meine	I-album
+Weckzeiten	I-album
+
+Zeige	O
+mir	O
+alle	O
+meine	O
+Erinnerungen	O
+
+alle	O
+Wecker	B-weather/attribute
+löschen	I-weather/attribute
+
+Gibt	O
+es	O
+eine	O
+Sturmwarnung	B-weather/attribute
+für	O
+meinen	B-location
+Standort	I-location
+?	O
+
+wie	O
+wird	O
+das	O
+Wetter	B-weather/attribute
+heute	B-datetime
+
+Lösche	O
+die	B-object_name
+letzte	I-object_name
+Erinnerung	I-object_name
+
+Was	O
+is	O
+die	O
+verbleibende	O
+Zeit	O
+bis	O
+zum	O
+Alarm	O
+
+Lösche	O
+alle	B-track
+meine	I-track
+Wecker	I-track
+für	O
+Sonntag	B-datetime
+.	O
+
+Wie	O
+heiß	B-weather/attribute
+wird	O
+es	O
+heute	B-datetime
+?	O
+
+Ich	O
+möchte	O
+,	O
+dass	O
+du	O
+für	O
+morgen	B-datetime
+früh	I-datetime
+um	I-datetime
+8:45	I-datetime
+Uhr	I-datetime
+einen	O
+neuen	O
+Alarm	O
+einstellst	O
+
+alle	O
+Wecker	B-weather/attribute
+löschen	I-weather/attribute
+
+Wird	O
+es	O
+heute	B-datetime
+schneien	B-weather/attribute
+?	O
+
+Erinnere	O
+mich	O
+Eis	B-weather/attribute
+zu	O
+kaufen	O
+
+Zeige	O
+alle	B-object_name
+Erinnerungen	I-object_name
+
+zeige	O
+alle	B-reference
+Wecker	O
+
+Wie	O
+ist	O
+das	O
+Wetter	B-weather/attribute
+in	O
+San	B-location
+Francisco	I-location
+?	O
+
+Lösche	O
+alle	B-reference
+Erinnerungen	O
+
+Lösche	O
+die	O
+Erinnerung	O
+für	O
+das	O
+Konzert	B-reminder/todo
+
+Lösche	O
+den	O
+Alarm	O
+für	O
+morgen	O
+früh	O
+
+wird	O
+es	O
+diese	B-datetime
+Woche	I-datetime
+regnen	B-weather/attribute
+
+Wie	O
+ist	O
+das	O
+Wetter	B-weather/attribute
+am	O
+Mittwoch	B-datetime
+zum	O
+Golfen	B-location
+?	O
+
+zeige	O
+alle	B-reference
+Wecker	O
+
+Schalte	O
+alle	B-track
+Wecker	I-track
+für	O
+morgen	O
+ab	O
+
+Stelle	O
+den	O
+Wecker	B-weather/attribute
+auf	O
+5	B-datetime
+Uhr	I-datetime
+heute	I-datetime
+Abend	I-datetime
+
+setze	O
+den	B-restaurant_name
+Wecker	I-restaurant_name
+für	O
+morgen	B-datetime
+um	B-datetime
+7	I-datetime
+
+Wird	O
+morgen	B-datetime
+die	O
+Sonne	B-weather/attribute
+scheinen	O
+?	O
+
+wie	O
+heiß	B-weather/attribute
+wird	O
+es	O
+heute	B-datetime
+
+Gib	O
+0	B-object_name
+Sterne	I-object_name
+an	I-object_name
+Halo:	I-object_name
+Ghosts	I-object_name
+of	I-object_name
+Onyx	I-object_name
+
+Spiele	O
+Musik	B-album
+von	O
+Joy	B-artist
+Nilo	I-artist
+.	O
+
+Finde	O
+das	O
+Videospiel	B-object_name
+20	B-object_name
+Hours	I-object_name
+in	I-object_name
+America	I-object_name
+.	O
+
+Spiele	O
+meine	O
+inventive-Wiedergabeliste	B-playlist
+
+Buche	O
+einen	O
+Platz	O
+für	O
+9	B-party_size_number
+in	O
+Thurmont	B-location
+
+Füge	O
+dieses	O
+Lied	B-music_item
+zu	O
+Dortys	B-playlist
+80er-Party-Playliste	I-playlist
+hinzu	O
+
+Spiele	O
+das	O
+neueste	B-sort
+Lied	B-music_item
+auf	O
+Last	B-service
+Fm	I-service
+von	O
+Eddie	B-artist
+Vinson	I-artist
+.	O
+
+Kontrolliere	O
+die	O
+Wettervorhersage	O
+für	O
+Nebraska	B-location
+.	O
+
+Gibt	O
+es	O
+jetzt	B-datetime
+einen	O
+Sturm	B-condition_description
+in	O
+NC	B-location
+?	O
+
+Ich	O
+möchte	O
+eine	O
+EP	B-music_item
+aus	O
+dem	O
+Jahr	O
+1998	B-datetime
+hören	O
+.	O
+
+Ich	O
+brauche	O
+die	O
+Uhrzeit	B-datetime
+von	O
+A	B-movie_name
+Yiddish	I-movie_name
+World	I-movie_name
+Remembered	I-movie_name
+im	O
+Dipsomkino	B-location
+
+Gibe	O
+dem	O
+aktuellen	B-object_select
+Lehrbuch	B-object_type
+1	B-rating_value
+aus	O
+6	B-best_rating
+Punkten	B-rating_unit
+
+Füge	O
+das	O
+Matt	B-artist
+Murphy	I-artist
+Lied	B-music_item
+zur	O
+Flow	B-playlist
+Español-Wiedergabeliste	I-playlist
+hinzu	O
+.	O
+
+Ich	O
+möchte	O
+am	O
+20	B-datetime
+.	I-datetime
+05	I-datetime
+.	I-datetime
+2025	B-datetime
+einen	O
+Sundanesischen	B-cuisine
+Gastropub	B-restaurant_type
+in	O
+der	O
+Nähe	B-location
+von	O
+Texas	B-location
+für	O
+3	B-party_size_number
+Personen	O
+buchen	O
+.	O
+
+Findest	O
+du	O
+die	O
+TV-Serie	B-object_part_of_series_type
+The	B-object_name
+Approach	I-object_name
+
+Gib	O
+dieser	B-object_select
+Chronik	B-object_part_of_series_type
+eine	O
+Bewertung	O
+von	O
+2	B-rating_value
+.	O
+
+Gib	O
+The	B-object_name
+American	I-object_name
+Scene	I-object_name
+2	B-rating_value
+von	O
+6	B-best_rating
+Sternen	B-rating_unit
+
+Füge	O
+emilie	B-artist
+autumn	I-artist
+zu	O
+meiner	B-reference
+Nação	B-playlist
+Reggae-Wiedergabeliste	I-playlist
+hinzu	O
+.	O
+
+Ich	O
+möchte	O
+ein	O
+jüdisches	B-cuisine
+Restaurant	B-restaurant_type
+in	O
+Gambia	B-location
+buchen	O
+.	O
+
+reserviere	O
+einen	O
+Tisch	B-served_dish
+im	O
+Fried	B-served_dish
+chicken	I-served_dish
+Restaurant	B-restaurant_type
+
+Füge	O
+das	O
+Lied	B-music_item
+we	O
+have	O
+a	O
+theme	B-music_item
+meiner	O
+House	B-playlist
+Afterwork-Wiedergabeliste	I-playlist
+hinzu	O
+
+Wie	O
+wird	O
+das	O
+Wetter	B-weather/attribute
+nicht	O
+unweit	B-location
+von	O
+hier	B-location
+am	O
+neunzehnten	B-datetime
+Oktober	I-datetime
+2026	I-datetime
+?	O
+
+Wetter	O
+in	O
+Walden	B-location
+Russland	B-location
+am	O
+12	B-datetime
+.	I-datetime
+12	I-datetime
+.	I-datetime
+2018	I-datetime
+
+Ich	O
+möchte	O
+ein	O
+Restaurant	B-restaurant_type
+für	O
+mich	B-party_size_description
+und	I-party_size_description
+meinen	I-party_size_description
+Schwiegervater	I-party_size_description
+in	O
+Buckner	B-location
+in	B-datetime
+einem	I-datetime
+Jahr	I-datetime
+buchen	O
+.	O
+
+Bewerte	O
+dieses	B-object_select
+Buch	B-object_type
+mit	O
+1	B-rating_value
+
+füge	O
+diesen	O
+Artisten	B-entity_name
+zu	O
+meiner	B-playlist
+spotlight	I-playlist
+on	I-playlist
+country	I-playlist
+2016-Wiedergabeliste	I-playlist
+hinzu	O
+
+Kannst	O
+du	O
+das	O
+Bil	B-object_name
+Epic	I-object_name
+Conditions	I-object_name
+finden	O
+?	O
+
+Spiele	O
+Rich	B-album
+Sex	I-album
+auf	O
+Iheart	B-service
+
+Spielt	O
+Bartok	B-restaurant_name
+der	I-restaurant_name
+Bezaubernde	I-restaurant_name
+um	O
+sieben	B-datetime
+Uhr	I-datetime
+früh	I-datetime
+?	O
+
+Spiele	O
+etwas	O
+auf	O
+Zvooq	B-service
+
+Lass	O
+mich	O
+Christ	B-playlist
+Night	I-playlist
+Songs	I-playlist
+hören	O
+
+spiele	O
+das	O
+Album	B-music_item
+von	O
+Jill	B-artist
+Sobule	I-artist
+
+Gib	O
+4	B-rating_value
+Sterne	B-rating_unit
+an	O
+The	B-object_name
+Broken	I-object_name
+Window	I-object_name
+
+Wie	O
+wird	O
+die	O
+Vorhersage	O
+für	O
+6	B-datetime
+Uhr	I-datetime
+morgens	I-datetime
+im	O
+Tatra-Nationalpark	B-location
+
+Bitte	O
+buche	O
+einen	O
+Tisch	B-served_dish
+in	O
+einem	O
+Bistro	B-restaurant_type
+das	O
+lorna	B-served_dish
+doone	I-served_dish
+serviert	O
+.	O
+
+Bewerte	O
+die	O
+Serie	B-object_part_of_series_type
+The	B-object_name
+Mystery	I-object_name
+of	I-object_name
+the	I-object_name
+Tolling	I-object_name
+Bell	I-object_name
+mit	O
+4	B-rating_value
+Sternen	B-rating_unit
+.	O
+
+Verwende	O
+Groove	B-service
+Shark	I-service
+um	O
+Musik	B-album
+abzuspielen	I-album
+
+Wann	O
+spielt	O
+Snowbound	B-movie_name
+im	O
+nahesten	B-location
+Kino	B-object_location_type
+.	O
+
+Bitte	O
+öffne	O
+Zvooq	B-service
+
+Buche	O
+einen	O
+Platz	O
+für	O
+1	B-party_size_number
+Person	O
+im	O
+Town	B-location
+of	O
+Ramsgate	B-location
+in	O
+Merit	O
+
+Wird	O
+I	B-movie_name
+Think	I-movie_name
+I	I-movie_name
+Do	I-movie_name
+um	B-datetime
+19	I-datetime
+Uhr	I-datetime
+spielexsn	B-location
+?	O
+
+wird	O
+Custer-Nationalpark	B-location
+um	O
+sieben	B-datetime
+Uhr	I-datetime
+abends	I-datetime
+kühler	B-condition_temperature
+sein	O
+
+Ich	O
+möchte	O
+etwas	O
+auf	O
+Youtube	B-service
+hören	O
+
+Suche	O
+nach	O
+dem	O
+Spiel	B-object_type
+Difficult	B-object_name
+Loves	I-object_name
+
+Wie	O
+ist	O
+die	O
+Wettervorhersage	O
+für	O
+den	O
+Bothe-Napa	B-location
+Valley	I-location
+State	I-location
+Park	I-location
+um	O
+den	O
+20	B-datetime
+.	I-datetime
+Februar	I-datetime
+?	O
+
+Zeige	O
+mir	O
+die	O
+Vorstellungszeiten	O
+des	O
+Films	B-movie_type
+The	B-movie_name
+Great	I-movie_name
+Gildersleeve	I-movie_name
+in	B-location
+der	I-location
+Nähe	I-location
+des	O
+Kinos	O
+
+Wie	O
+ist	O
+die	O
+Wettervorhersage	O
+für	O
+Gibsland	B-location
+
+Kann	O
+ich	O
+die	O
+Zeiten	O
+für	O
+Filme	B-movie_type
+in	B-location
+der	I-location
+Nachbarschaft	I-location
+bekommen	O
+
+Bewerte	O
+Soul	B-playlist
+Music	I-playlist
+mit	O
+0	B-rating_value
+.	O
+
+Reserviere	O
+für	O
+fünf	B-party_size_number
+Personen	O
+in	O
+einer	O
+Tatar	B-cuisine
+Taverne	B-restaurant_type
+in	O
+Sargents	B-location
+
+Spiele	O
+All	B-object_name
+Things	I-object_name
+Must	I-object_name
+Pass	I-object_name
+.	O
+
+Wird	O
+es	O
+in	B-datetime
+einer	I-datetime
+Stunde	I-datetime
+ab	I-datetime
+jetzt	I-datetime
+in	O
+Südkorea	B-location
+regnen	O
+?	O
+
+Buche	O
+einen	O
+Platz	O
+für	O
+4	B-party_size_number
+Personen	O
+in	O
+Oklahoma	B-location
+im	O
+South	B-restaurant_name
+Street	I-restaurant_name
+Diner	I-restaurant_name
+
+Spiele	O
+Musik	O
+von	O
+Netflix	B-service
+.	O
+
+Ich	O
+möchte	O
+Shattered	B-movie_name
+Image	I-movie_name
+sehen	O
+.	O
+
+Suche	O
+nach	O
+The	B-object_name
+Sound	I-object_name
+of	I-object_name
+One	I-object_name
+Hand	I-object_name
+Clapping	I-object_name
+
+Suchen	O
+nach	O
+dem	O
+Album	B-object_type
+Wolves	B-object_name
+Within	I-object_name
+
+spielt	O
+We	B-movie_name
+Are	I-movie_name
+Northern	I-movie_name
+Lights	I-movie_name
+in	O
+einem	O
+Kino	B-object_location_type
+
+Füge	O
+our	B-entity_name
+little	I-entity_name
+corner	I-entity_name
+of	I-entity_name
+the	I-entity_name
+world	I-entity_name
+music	I-entity_name
+von	I-entity_name
+den	I-entity_name
+Gilmore	I-entity_name
+girls	I-entity_name
+zu	O
+meiner	B-reference
+Wiedergabeliste	B-playlist
+The	I-playlist
+Funny	I-playlist
+Thing	I-playlist
+About	I-playlist
+Football	I-playlist
+Is	I-playlist
+hinzu	O
+.	O
+
+Wie	O
+ist	O
+die	O
+Vorhersage	O
+für	O
+wärmeres	B-condition_description
+Wetter	B-condition_description
+im	O
+Southford	B-location
+Falls	I-location
+State	I-location
+Park	I-location
+
+Bitte	O
+reserviere	O
+einen	O
+Tisch	B-served_dish
+in	O
+einer	O
+Pizzeria	B-restaurant_type
+mit	O
+Parkplatz	B-facility
+in	O
+Ghana	B-location
+.	O
+
+Ich	O
+möchte	O
+einen	O
+Soundtrack	B-music_item
+aus	O
+den	O
+siebziger	B-datetime
+Jahren	I-datetime
+hören	O
+.	O
+
+Wetter	B-condition_description
+in	B-datetime
+zwei	I-datetime
+Stunden	I-datetime
+in	O
+Usbekistan	B-location
+
+Bitte	O
+finde	O
+den	O
+Film	B-object_name
+Journal	I-object_name
+of	I-object_name
+the	I-object_name
+British	I-object_name
+Astronomical	I-object_name
+Association	I-object_name
+.	O
+
+Buche	O
+für	O
+8	B-party_size_number
+Personen	O
+in	O
+Wardville	B-location
+,	O
+Kansas	B-location
+
+Wie	O
+wird	O
+das	O
+Wetter	B-weather/attribute
+weit	B-location
+entfernt	B-location
+von	O
+hier	B-location
+?	O
+
+Fügen	O
+das	O
+neueste	B-sort
+Lied	B-music_item
+von	O
+Richard	B-artist
+McNamara	I-artist
+zur	O
+Just	B-playlist
+Smile-Wiedergabeliste	I-playlist
+hinzu	O
+
+Wie	O
+kalt	B-weather/attribute
+wird	O
+es	O
+hier	B-location
+in	B-datetime
+1	I-datetime
+Sekunde	I-datetime
+sein	O
+
+Auf	O
+der	O
+Suche	O
+nach	O
+einem	O
+Gemälde	B-object_type
+mit	O
+dem	O
+Titel	O
+With	B-object_name
+You	I-object_name
+
+Finde	O
+kreative	B-object_name
+Arbeiten	B-object_name
+Deadly	I-object_name
+Weapons	I-object_name
+
+Wie	O
+wird	O
+das	O
+Wetter	B-weather/attribute
+im	B-datetime
+November	I-datetime
+in	O
+Brookneal	B-location
+?	O
+
+Buche	O
+einen	O
+Tisch	O
+in	O
+der	O
+Taverne	B-restaurant_name
+für	O
+Nudeln	B-datetime
+
+Was	O
+ist	O
+die	O
+Prognose	O
+für	O
+Costa	B-location
+Rica	I-location
+
+Spielen	O
+The	B-object_name
+Two	I-object_name
+Gladiators	I-object_name
+
+welche	O
+Filme	B-movie_type
+spielen	O
+in	O
+den	O
+Star	B-playlist
+Kinos	I-playlist
+.	O
+
+Kannst	O
+du	O
+bitte	O
+die	O
+Harry	B-object_name
+Hood	I-object_name
+Saga	I-object_name
+finden	O
+?	O
+
+Füge	O
+dieses	O
+Lied	B-music_item
+meiner	O
+Sleepify-Wiedergabeliste	B-playlist
+hinzu	O
+
+Spielt	O
+Any	B-track
+Which	I-track
+Way	I-track
+You	I-track
+Can	I-track
+in	B-datetime
+15	I-datetime
+Sekunden	I-datetime
+
+Spiele	O
+Musik	B-album
+von	I-album
+E-type	I-album
+.	O
+
+Gib	O
+dem	O
+aktuellen	B-object_select
+Buch	B-object_type
+einen	B-rating_value
+Stern	B-rating_unit
+
+Spiele	O
+Another	B-track
+Passenger	I-track
+von	O
+Louis	B-artist
+Nelson	I-artist
+Delisle	I-artist
+.	O
+
+Wo	O
+finde	O
+ich	O
+die	O
+Filmvorstellungspläne	B-object_name
+
+Was	O
+ist	O
+die	O
+Wetterprognose	O
+für	O
+den	O
+26	B-datetime
+.	I-datetime
+September	I-datetime
+in	O
+Emerado	B-location
+Saint	B-location
+Pierre	I-location
+und	I-location
+Miquelon	I-location
+
+Lass	O
+uns	O
+in	B-datetime
+17	I-datetime
+Sekunden	I-datetime
+in	O
+der	O
+Nähe	B-location
+von	O
+Oakfield	B-location
+bei	O
+Ted	B-location
+Peters	I-location
+Famous	B-restaurant_name
+Smoked	I-restaurant_name
+Fish	I-restaurant_name
+essen	O
+
+Hol	O
+mir	O
+den	O
+Trailer	O
+von	O
+Good	B-object_name
+Morning	I-object_name
+Sunshine	I-object_name
+
+Ich	O
+möchte	O
+eine	O
+Brasserie	B-restaurant_type
+für	O
+3	B-party_size_number
+Personen	O
+auf	O
+den	O
+Niederländischen	B-location
+Antillen	I-location
+buchen	O
+.	O
+
+bewerte	O
+dieses	O
+aktuelle	B-object_select
+Album	B-object_type
+mit	O
+0	B-rating_value
+Sternen	B-rating_unit
+
+Buche	O
+einen	O
+Platz	O
+in	O
+Monaco	B-location
+für	O
+den	O
+Yankee	B-restaurant_name
+Doodle	I-restaurant_name
+Coffee	I-restaurant_name
+Shop	I-restaurant_name
+
+Füge	O
+den	O
+Künstler	B-music_item
+zur	O
+Wiedergabeliste	B-playlist
+der	I-playlist
+politischen	I-playlist
+Punks	I-playlist
+hinzu	O
+.	O
+
+Wird	O
+es	O
+in	B-datetime
+vier	I-datetime
+Monaten	I-datetime
+in	O
+Suwanee	B-location
+AK	B-location
+kälter	B-condition_temperature
+
+füge	O
+Muzika	B-playlist
+za	I-playlist
+decu	I-playlist
+meiner	B-reference
+Crash	B-playlist
+Course-Wiedergabeliste	I-playlist
+hinzu	O
+
+Kannst	O
+du	O
+die	O
+Molecular	B-object_name
+Oncology	I-object_name
+Saga	I-object_name
+nachschlagen	O
+?	O
+
+Ich	O
+möchte	O
+ein	O
+Restaurant	B-restaurant_type
+für	O
+sechs	B-party_size_number
+Personen	O
+in	O
+Wagstaff	B-location
+AK	B-location
+buchen	O
+.	O
+
+Spiele	O
+Symphoniemusik	B-album
+von	O
+David	B-artist
+Lindley	I-artist
+.	O
+
+Bitte	O
+finde	O
+die	O
+TV-Serie	B-object_part_of_series_type
+Now	B-object_name
+We	I-object_name
+Are	I-object_name
+Married	I-object_name
+.	O
+
+I	O
+möchte	O
+Outcast	B-object_name
+sehen	O
+.	O
+
+füge	O
+den	O
+aktuellen	O
+Song	B-music_item
+zu	O
+meiner	B-reference
+Das	B-playlist
+ist	I-playlist
+Tschaikowski-Wiedergabeliste	I-playlist
+hinzu	O
+
+Spiele	O
+This	B-album
+is	O
+Miles	B-artist
+Davis	I-artist
+on	O
+Lastfm	B-service
+.	O
+
+buche	O
+den	O
+besten	B-sort
+Tisch	B-restaurant_type
+in	O
+Tanzania	B-location
+für	O
+5	B-party_size_number
+People	O
+für	O
+ein	B-datetime
+Abendessen	I-datetime
+
+Lass	O
+uns	O
+good	B-sort
+Mohammad	B-artist
+Male	I-artist
+on	O
+Vimeo	B-service
+hören	O
+.	O
+
+Setze	O
+den	O
+Track	B-music_item
+von	O
+Vandemataram	B-artist
+Srinivas	I-artist
+auf	O
+HipHop	B-playlist
+Hot	I-playlist
+50	I-playlist
+.	O
+
+Hol	O
+mir	O
+das	O
+Lied	B-music_item
+von	O
+Secret	B-artist
+South	I-artist
+.	O
+
+Songs	O
+aus	B-album
+den	I-album
+Neunzigern	I-album
+auf	O
+Zvooq	B-service
+
+Was	O
+ist	O
+die	O
+Wetterprognose	O
+in	O
+Admire	B-location
+in	O
+TX	B-location
+ab	B-datetime
+siebzehn	I-datetime
+
+Spiele	O
+etwas	O
+auf	O
+Last	B-service
+Fm	I-service
+
+Ich	O
+möchte	O
+das	O
+Porträt	B-movie_name
+einer	I-movie_name
+Dame	I-movie_name
+im	O
+nächsten	B-location
+Kino	B-object_location_type
+sehen	O
+.	O
+
+Bitte	O
+finde	O
+Phineas	B-object_name
+Redux	I-object_name
+.	O
+
+Füge	O
+die	O
+40-cal	B-playlist
+Melodie	I-playlist
+zur	O
+Wäschewiedergabeliste	O
+hinzu	O
+.	O
+
+Öffne	O
+iTunes	B-service
+und	O
+spiele	O
+Ben	B-artist
+Burnley	I-artist
+Ready	B-album
+To	I-album
+Die	I-album
+
+Wie	O
+wird	O
+das	O
+Wetter	B-weather/attribute
+am	O
+5	B-datetime
+.	I-datetime
+Dezember	I-datetime
+am	O
+Denkmal	O
+von	O
+Lihula	B-location
+sein	O
+?	O
+
+Zeige	O
+die	O
+Vorstellungszeiten	O
+von	O
+Sexy	B-movie_name
+Dance	I-movie_name
+2	I-movie_name
+im	O
+nächsten	O
+Kino	B-object_location_type
+
+Suche	O
+nach	O
+einem	O
+Song	B-object_type
+mit	O
+dem	O
+Titel	O
+Live	B-object_name
+at	I-object_name
+the	I-object_name
+Kings	I-object_name
+Center	I-object_name
+
+Wie	O
+ist	O
+das	O
+Wetter	B-condition_description
+in	O
+Tyonek	B-location
+,	O
+New	B-location
+Jersey	I-location
+
+Ich	O
+möchte	O
+das	O
+Tupelo	B-restaurant_name
+Honey	I-restaurant_name
+Cafe	I-restaurant_name
+in	O
+New	B-location
+Jersey	I-location
+für	O
+fünf	B-party_size_number
+Personen	O
+buchen	O
+.	O
+
+Buche	O
+einen	O
+Platz	O
+für	O
+meine	B-party_size_description
+Nichten	I-party_size_description
+und	I-party_size_description
+mich	I-party_size_description
+in	O
+einem	O
+Teehaus	B-restaurant_type
+
+Wird	O
+es	O
+am	O
+16	B-datetime
+.	I-datetime
+Februar	I-datetime
+in	O
+den	O
+Niederlanden	B-location
+warm	B-condition_temperature
+?	O
+
+Ich	O
+möchte	O
+Jordan	B-artist
+Rudess	I-artist
+in	O
+die	O
+Divertido	B-playlist
+para	I-playlist
+niños-Wiedergabeliste	I-playlist
+aufnehmen	O
+.	O
+
+Bewerte	O
+In	B-object_name
+the	I-object_name
+Company	I-object_name
+of	I-object_name
+Cheerful	I-object_name
+Ladies	I-object_name
+mit	I-object_name
+Null	I-object_name
+von	O
+6	B-best_rating
+
+Buche	O
+mir	O
+eine	O
+Reservierung	O
+für	O
+das	O
+beste	B-sort
+Bistro	B-restaurant_type
+
+bewerte	O
+das	O
+aktuelle	B-object_select
+Lehrbuch	B-object_type
+mit	O
+1	B-rating_value
+von	O
+6	B-best_rating
+Punkten	B-rating_unit
+
+Wie	O
+sind	O
+die	O
+Filmvorstellungszeiten	B-datetime
+?	O
+
+Wie	O
+wird	O
+das	O
+Wetter	B-weather/attribute
+in	O
+Ohio	B-location
+?	O
+
+Füge	O
+diesen	O
+Künstler	B-music_item
+zu	O
+Showstopper	B-playlist
+Being	I-playlist
+Mary	I-playlist
+Jane	I-playlist
+hinzu	O
+
+Buche	O
+eine	O
+Reservierung	O
+für	O
+meine	B-party_size_description
+Babys	I-party_size_description
+und	I-party_size_description
+mich	I-party_size_description
+
+Wie	O
+wird	O
+das	O
+Wetter	B-condition_description
+am	O
+21	B-datetime
+.	I-datetime
+August	I-datetime
+2035	I-datetime
+im	O
+Sarygamyş	B-location
+Sanctuary	I-location
+sein	O
+?	O
+
+Bewerte	O
+Ruth	B-object_name
+mit	O
+fünf	B-rating_value
+von	O
+6	B-best_rating
+Punkten	B-rating_unit
+.	O
+
+Erinnerungen	B-object_name
+an	I-object_name
+die	I-object_name
+Anti-Japanische	I-object_name
+Guerilla-Chronik	I-object_name
+verdienen	O
+null	B-rating_value
+von	O
+6	B-best_rating
+Punkten	B-rating_unit
+für	O
+eine	O
+Bewertung	O
+.	O
+
+Zeig	O
+mir	O
+die	O
+Filmvorstellungszeiten	O
+von	O
+Southern	B-location
+Theatres	I-location
+
+Finde	O
+die	O
+Filmvorstellungszeiten	B-object_name
+in	B-location
+der	I-location
+Nähe	I-location
+
+Füge	O
+dieses	O
+Album	B-playlist
+der	I-playlist
+spanischen	I-playlist
+Beat	I-playlist
+Wiedergabeliste	I-playlist
+hinzu	O
+
+Buche	O
+eine	O
+Reservierung	O
+für	O
+6	B-party_size_number
+Personen	O
+für	O
+eine	O
+kreolische	B-cuisine
+Taverne	B-restaurant_type
+in	O
+Montenegro	B-location
+
+Gib	O
+der	O
+Catedral-Serie	B-object_name
+vier	B-rating_value
+Sterne	B-rating_unit
+.	O
+
+Füge	O
+The	B-entity_name
+Famous	I-entity_name
+Flower	I-entity_name
+of	I-entity_name
+Serving-Men	I-entity_name
+zu	O
+meiner	B-reference
+abendlichen	B-playlist
+akustischen	I-playlist
+Wiedergabeliste	I-playlist
+hinzu	O
+.	O
+
+Zeigen	O
+Sie	O
+mir	O
+die	O
+Vorstellungszeiten	O
+nur	O
+für	O
+Animationsfilme	B-movie_type
+bei	O
+ArcLight	B-location
+Hollywood	I-location
+
+Bitte	O
+suche	O
+nach	O
+dem	O
+Gemälde	B-object_type
+mit	O
+dem	O
+Titel	O
+This	B-object_name
+Is	I-object_name
+the	I-object_name
+Night	I-object_name
+.	O
+
+Wie	O
+hoch	B-weather/attribute
+wird	O
+die	O
+Luftfeuchtigkeit	B-condition_description
+am	O
+aktuellen	B-location
+Standort	I-location
+um	O
+15:19:29	B-datetime
+Uhr	I-datetime
+sein	O
+?	O
+
+Ich	O
+möchte	O
+JLA	B-object_name
+Adventures:	I-object_name
+Trapped	I-object_name
+In	I-object_name
+Time	I-object_name
+sehen	O
+
+Füge	O
+ein	O
+Derek	B-artist
+Watkins	I-artist
+Lied	B-music_item
+zu	O
+This	B-playlist
+Is	I-playlist
+Johnny	I-playlist
+Cash	I-playlist
+hinzu	O
+
+Finde	O
+eine	O
+kreative	O
+Arbeit	O
+namens	O
+Fire	B-object_name
+in	I-object_name
+the	I-object_name
+Hole	I-object_name
+
+Buche	O
+einen	O
+Tisch	B-restaurant_type
+in	O
+der	O
+Nähe	B-location
+von	O
+Pats	B-location
+College	I-location
+
+Ist	O
+Patrick	B-movie_name
+Still	I-movie_name
+Lives	I-movie_name
+in	O
+den	O
+AMC	B-location
+Theatern	I-location
+zu	O
+sehen	O
+?	O
+
+Ich	O
+möchte	O
+einen	O
+Joint	B-restaurant_type
+in	O
+einem	O
+Spa	B-restaurant_type
+buchen	O
+.	O
+
+Ich	O
+brauche	O
+irgendwo	B-datetime
+in	O
+Quarryville	B-location
+in	B-datetime
+14	I-datetime
+Stunden	I-datetime
+einen	O
+Tisch	B-restaurant_type
+
+spiele	O
+etwas	O
+von	O
+Gary	B-artist
+Lee	I-artist
+Conner	I-artist
+
+zeige	O
+das	O
+nächste	O
+Kino	B-object_location_type
+,	O
+das	O
+Boykott	O
+zeigt	O
+
+Bitte	O
+spiele	O
+meine	O
+ekstatische	B-playlist
+Wiedergabeliste	I-playlist
+.	O
+
+Bitte	O
+suche	O
+nach	O
+dem	O
+Lied	B-object_type
+The	B-object_name
+Mad	I-object_name
+Magician	I-object_name
+.	O
+
+Überprüfe	O
+die	O
+Vorstellungszeiten	O
+für	O
+Bow	B-location
+Tie	I-location
+Cinemas	I-location
+.	O
+
+Buche	O
+mir	O
+eine	O
+Reservierung	O
+für	O
+eine	O
+Gruppe	O
+von	O
+3	B-party_size_number
+Personen	O
+in	O
+einem	O
+Pub	B-restaurant_type
+auf	O
+den	O
+Nördlichen	B-location
+Marianen	I-location
+
+Ich	O
+müsste	O
+die	O
+Werke	O
+von	O
+Rahim	B-artist
+Shah	I-artist
+zu	O
+meiner	B-reference
+Infinite	B-playlist
+Indie	I-playlist
+Folk	I-playlist
+Playliste	I-playlist
+hinzufügen	O
+
+Füge	O
+Jerry	B-artist
+Callist	I-artist
+,	I-artist
+Jr	I-artist
+zu	O
+meiner	B-reference
+Te	B-playlist
+quiero	I-playlist
+Playliste	I-playlist
+hinzu	O
+.	O
+
+Wie	O
+viel	O
+kälter	B-condition_temperature
+wird	O
+es	O
+im	O
+näheren	O
+Umkreis	B-location
+von	O
+Utah	B-location
+um	O
+ca	O
+.	B-datetime
+3	I-datetime
+Uhr	I-datetime
+morgens	I-datetime
+?	O
+
+Füge	O
+das	O
+Album	B-music_item
+zur	O
+Hipster	B-playlist
+Soul	I-playlist
+Playliste	I-playlist
+.	O
+
+Ich	O
+möchte	O
+in	O
+einem	O
+Spezialitätenmarkt	B-restaurant_type
+,	O
+der	O
+osteuropäisches	B-served_dish
+Essen	I-served_dish
+serviert	O
+,	O
+in	B-datetime
+13	I-datetime
+Stunden	I-datetime
+essen	O
+
+Spiele	O
+einen	O
+60er	B-playlist
+Soundtrack	I-playlist
+
+Gib	O
+dem	O
+Album	B-object_type
+einen	B-rating_value
+Stern	B-rating_unit
+
+Spiele	O
+die	O
+besten	B-sort
+Songs	O
+von	O
+Bryan	B-artist
+Maclean	I-artist
+.	O
+
+Was	O
+is	O
+die	O
+Wettervorhersage	O
+für	O
+Nicodemus	B-location
+und	O
+Umgebung	B-location
+?	O
+
+Ich	O
+suche	O
+nach	O
+einem	O
+Spiel	B-object_type
+das	O
+Phinally	B-object_name
+Phamous	I-object_name
+heisst	O
+
+Gib	O
+Juneteenth	B-object_name
+eine	O
+Bewertung	O
+von	O
+2	B-rating_value
+.	O
+
+Gib	O
+Thialto	B-object_name
+the	I-object_name
+Marvellous	I-object_name
+null	I-object_name
+Sterne	I-object_name
+
+Ich	O
+möchte	O
+Soundtrack	B-album
+Musik	I-album
+von	I-album
+Helena	B-artist
+Iren	I-artist
+Michaelsen	I-artist
+auf	O
+Youtube	B-service
+hören	O
+
+Bestelle	O
+eine	O
+Tisch	B-restaurant_type
+am	O
+20	B-datetime
+.	I-datetime
+01	I-datetime
+.	I-datetime
+2013	B-datetime
+für	O
+5	B-party_size_number
+Personen	O
+im	O
+MH	B-location
+
+Kinoprogramm	O
+in	B-location
+der	I-location
+Nähe	I-location
+für	O
+animierte	O
+Filme	B-movie_type
+
+Füge	O
+Jack	B-artist
+White	I-artist
+zu	O
+meiner	B-reference
+Playliste	B-playlist
+This	I-playlist
+is	I-playlist
+Shakira	I-playlist
+
+Ich	O
+möchte	O
+in	O
+einem	O
+Restaurant	B-restaurant_type
+für	O
+5	B-party_size_number
+Personen	O
+in	O
+Sri	B-location
+Lanka	I-location
+reservieren	O
+
+Bitte	O
+such	O
+nach	O
+der	O
+TV	B-object_type
+Show	I-object_type
+Episodi	B-object_name
+di	I-object_name
+The	I-object_name
+Blacklist	I-object_name
+
+Wie	O
+ist	O
+die	O
+Vorhersage	O
+für	O
+kältere	B-condition_temperature
+Temperaturen	B-weather/attribute
+am	O
+Anfang	O
+des	O
+Law	B-datetime
+Day	I-datetime
+hier	B-location
+
+Ich	O
+möchte	O
+in	O
+einem	O
+Restaurant	B-restaurant_type
+reservieren	O
+für	O
+10	B-party_size_number
+Personen	O
+.	O
+
+Spiele	O
+etwas	O
+von	O
+Duke	B-artist
+Ellington	I-artist
+aus	O
+den	O
+70ern	B-datetime
+
+Bewerte	O
+Cotton	B-object_name
+Comes	I-object_name
+to	I-object_name
+Harlem	I-object_name
+mit	O
+einer	O
+2	B-rating_value
+
+Füge	O
+einen	O
+Song	B-music_item
+zu	O
+meiner	B-reference
+Playliste	B-playlist
+Madden	I-playlist
+NFL	I-playlist
+16	I-playlist
+
+Füge	O
+Toyan	B-artist
+zu	O
+meiner	B-reference
+Epic	B-playlist
+Games	I-playlist
+Playliste	I-playlist
+.	O
+
+Spiele	O
+ein	O
+paar	O
+neue	O
+Les	B-artist
+Vandyke	I-artist
+auf	O
+Slacker	B-service
+
+Bewerte	O
+Three	B-object_name
+Junes	I-object_name
+mit	O
+1	B-rating_value
+von	O
+6	B-best_rating
+
+Reserviere	O
+für	O
+9	B-party_size_number
+Personen	O
+bei	O
+einer	O
+Bäckerei	B-restaurant_type
+in	O
+Nunez	B-location
+
+Bewerte	O
+diesen	B-object_select
+Roman	B-object_type
+mit	O
+2	B-rating_value
+von	O
+6	B-best_rating
+.	O
+
+Spiele	O
+The	B-track
+Happy	I-track
+Blues	I-track
+von	O
+Ronnie	B-artist
+Wood	I-artist
+.	O
+
+Spiele	O
+eine	B-album
+Symphonie	I-album
+von	O
+2013	B-datetime
+.	O
+
+Spiele	O
+Subconscious	B-album
+Lobotomy	I-album
+von	O
+Jennifer	B-artist
+Paull	I-artist
+.	O
+
+Gib	O
+The	B-object_name
+Crystal	I-object_name
+Snare	I-object_name
+5	B-rating_value
+Sterne	B-rating_unit
+
+Give	O
+diesem	B-object_select
+Textbuch	B-object_type
+null	B-rating_value
+Sterne	B-rating_unit
+
+Gib	O
+der	O
+aktuellen	B-object_select
+Serie	B-object_part_of_series_type
+4	B-rating_value
+Punkte	B-rating_unit
+
+Ich	O
+möchte	O
+eine	O
+Tisch	B-restaurant_type
+im	O
+James	B-restaurant_name
+D	I-restaurant_name
+.	I-restaurant_name
+Conrey	I-restaurant_name
+House	I-restaurant_name
+in	O
+Urbank	B-location
+Kalifornien	B-location
+
+Spielt	O
+Barbar:	B-object_name
+King	I-object_name
+of	I-object_name
+the	I-object_name
+Elephants	I-object_name
+
+Füge	O
+einen	O
+Song	B-music_item
+zu	O
+This	B-playlist
+is	I-playlist
+racionais	I-playlist
+mc's	I-playlist
+
+Gib	O
+diesem	B-object_select
+Essay	B-object_type
+null	B-rating_value
+von	O
+6	B-best_rating
+Sternen	B-rating_unit
+
+Lass	O
+uns	O
+etwas	O
+von	O
+Andrew	B-artist
+Hewitt	I-artist
+hören	O
+.	O
+
+Finde	O
+animierte	O
+Filme	B-movie_type
+in	B-location
+der	I-location
+Nähe	I-location
+
+Gib	O
+The	O
+current	B-object_select
+chronicle	B-object_part_of_series_type
+5	B-rating_value
+von	O
+6	B-best_rating
+Punkten	B-rating_unit
+
+Ich	O
+brauche	O
+einen	O
+Tisch	B-restaurant_type
+für	O
+4	B-party_size_number
+in	O
+Saint	B-location
+Helena	I-location
+im	O
+Settha	B-restaurant_name
+Palace	I-restaurant_name
+Hotel	I-restaurant_name
+
+Wie	O
+wird	O
+das	O
+Wetter	B-weather/attribute
+in	O
+Virginia	B-location
+am	O
+St	B-datetime
+.	B-datetime
+Patrick's	I-datetime
+day	I-datetime
+sein	O
+?	O
+
+Ich	O
+brauche	O
+das	O
+Programm	O
+vom	O
+Speakseasy	B-object_name
+Theater	I-object_name
+
+Suche	O
+nach	O
+der	O
+TV	B-object_type
+Show	I-object_type
+Meet	B-object_name
+the	I-object_name
+Prince	I-object_name
+
+Bitte	O
+besorge	O
+mir	O
+den	O
+Song	B-object_type
+Compulsive	B-object_name
+Disclosure	I-object_name
+.	O
+
+Spiele	O
+Trance	B-playlist
+Life	I-playlist
+auf	O
+Zvooq	B-service
+.	O
+
+Bitte	O
+suche	O
+das	O
+Werk	B-object_name
+Serious	B-object_name
+Awesomeness	I-object_name
+!	O
+.	O
+
+Ich	O
+möchte	O
+I	B-movie_name
+Dream	I-movie_name
+of	I-movie_name
+Jeanie	I-movie_name
+in	O
+einem	O
+Kino	B-object_location_type
+sehen	O
+
+Spiele	O
+Paul	B-artist
+McCartney	I-artist
+
+Gib	O
+diesem	B-object_select
+Roman	B-object_type
+3	B-rating_value
+Sterne	B-rating_unit
+
+Würdest	O
+du	O
+das	O
+Buch	B-object_type
+Paris	B-object_name
+-	I-object_name
+When	I-object_name
+It	I-object_name
+Sizzles	I-object_name
+suchen	O
+?	O
+
+Spiele	O
+etwas	O
+von	O
+Filipp	B-artist
+Kirkorrow	I-artist
+aus	O
+den	O
+70ern	B-datetime
+
+Ich	O
+möchte	O
+in	O
+einem	O
+Bougatsa	B-cuisine
+Restaurant	B-restaurant_type
+nächstes	B-datetime
+Jahr	I-datetime
+in	O
+der	O
+Nähe	B-location
+von	O
+Penn	B-location
+für	O
+3	B-party_size_number
+Personen	O
+reservieren	O
+.	O
+
+Wird	O
+es	O
+regnerisch	B-datetime
+in	O
+Tenino	B-location
+?	O
+
+Bitte	O
+suche	O
+nach	O
+Three	B-object_name
+Essays	I-object_name
+über	I-object_name
+die	I-object_name
+Theory	I-object_name
+of	I-object_name
+Sexuality	I-object_name
+Show	I-object_name
+
+Ich	O
+möchte	O
+in	O
+Ramona	B-location
+essen	O
+
+Füge	O
+den	O
+Boy	B-entity_name
+George	I-entity_name
+Song	I-entity_name
+zur	O
+Emo	B-playlist
+Forever	I-playlist
+Playliste	I-playlist
+
+Ich	O
+möchte	O
+in	O
+einem	O
+Steakhaus	B-restaurant_type
+in	O
+Vimy	B-location
+Ridge	I-location
+reservieren	O
+.	O
+
+Läuft	O
+Without	B-movie_name
+Witness	I-movie_name
+für	O
+22	B-datetime
+Stunden	I-datetime
+
+Reserviere	O
+einen	O
+Platz	O
+für	O
+9	B-party_size_number
+
+Füge	O
+diesen	O
+Song	B-music_item
+zu	O
+meiner	B-reference
+Hands	B-playlist
+Up	I-playlist
+Playliste	I-playlist
+
+Spiele	O
+etwas	O
+aus	O
+der	O
+90s	B-playlist
+Pop	I-playlist
+Rock	I-playlist
+Essentials	I-playlist
+
+Würdest	O
+du	O
+mir	O
+den	O
+Blue	B-location
+Spring	I-location
+Trailer	I-location
+suchen	O
+?	O
+
+Gib	O
+36	B-object_name
+Children	I-object_name
+2	B-rating_value
+von	O
+6	B-best_rating
+Sternen	B-rating_unit
+
+Sag	O
+mir	O
+animierte	O
+Filme	B-movie_type
+im	O
+MJR	B-location
+Theatres	I-location
+
+Füge	O
+den	O
+Künstler	B-music_item
+Mike	B-artist
+zu	O
+meiner	B-reference
+Sexy	B-playlist
+as	I-playlist
+Folk	I-playlist
+Playliste	I-playlist
+.	O
+
+Füge	O
+Highway	B-entity_name
+Patrolman	I-entity_name
+zu	O
+meiner	B-reference
+Playliste	B-playlist
+This	I-playlist
+is	I-playlist
+Al	I-playlist
+Green	I-playlist
+
+Suche	O
+mir	O
+den	O
+Roman	B-object_type
+mit	O
+dem	O
+Titel	O
+To	B-object_name
+Lose	I-object_name
+My	I-object_name
+Life	I-object_name
+.	I-object_name
+.	I-object_name
+.	I-object_name
+
+Gib	O
+dem	O
+Album	B-object_type
+eine	O
+5	B-rating_value
+
+Spielt	O
+Rare	B-movie_name
+Birds	I-movie_name
+im	O
+nächstgelegenen	O
+Kino	B-object_location_type
+zu	O
+Mittag	B-datetime
+.	O
+
+Bewerte	O
+The	B-object_name
+8-Week	I-object_name
+Cholesterol	I-object_name
+Cure	I-object_name
+mit	O
+3	B-rating_value
+von	O
+6	B-best_rating
+.	O
+
+Füge	O
+Martin	B-artist
+Barre	I-artist
+zu	O
+meiner	B-reference
+Punk	B-playlist
+unplugged	I-playlist
+Playliste	I-playlist
+.	O
+
+Bewerte	O
+diesen	B-object_select
+Roman	B-object_type
+mit	O
+null	B-rating_value
+von	O
+6	B-best_rating
+
+Zu	O
+welchen	O
+Zeiten	O
+spielt	O
+The	B-movie_name
+Young	I-movie_name
+Swordsman	I-movie_name
+in	O
+meinem	O
+Kino	B-object_location_type
+?	O
+
+Was	O
+spielt	O
+gerade	O
+in	O
+den	O
+Kinos	B-movie_type
+in	O
+meiner	B-location
+Umgebung	I-location
+
+Ich	O
+möchte	O
+im	O
+Oregon	B-restaurant_name
+Electric	I-restaurant_name
+Station	I-restaurant_name
+in	O
+North	B-location
+City	I-location
+reservieren	O
+.	O
+
+Wie	O
+wird	O
+das	O
+Wetter	B-weather/attribute
+hier	B-location
+um	O
+2	B-datetime
+Uhr	I-datetime
+nachmittags	I-datetime
+
+Suche	O
+das	O
+Kinoprogramm	B-object_type
+für	O
+The	B-location
+Wanda	I-location
+Group	I-location
+.	O
+
+Wie	O
+ist	O
+die	O
+Wettervorhersage	O
+für	O
+Waurika	B-location
+in	O
+Samoa	B-location
+
+Zeige	O
+das	O
+Kinoprogramm	O
+in	B-location
+der	I-location
+Umgebung	I-location
+
+Spiele	O
+etwas	O
+Blues	B-genre
+Britanico	I-genre
+.	O
+
+Spielt	O
+No	B-movie_name
+Times	I-movie_name
+to	I-movie_name
+Be	I-movie_name
+Young	I-movie_name
+im	O
+AMC	B-location
+Theaters	I-location
+
+Bitte	O
+suche	O
+Monty	B-object_name
+Python	I-object_name
+Live	I-object_name
+at	I-object_name
+the	I-object_name
+Hollywood	I-object_name
+Bowl	I-object_name
+.	O
+
+Was	O
+ist	O
+die	O
+Wettervorhersage	O
+hier	B-location
+bezüglich	O
+Eissturm	B-weather/attribute
+um	B-datetime
+5	I-datetime
+Uhr	I-datetime
+nachmittags	I-datetime
+?	O
+
+Füge	B-artist
+Ireland	I-artist
+in	O
+the	O
+junior	B-playlist
+eurovision	I-playlist
+song	B-music_item
+contest	O
+2015	B-datetime
+zu	O
+meiner	B-reference
+Jazzy	B-playlist
+Dinner	I-playlist
+Playliste	I-playlist
+
+Füge	O
+einen	O
+Song	B-music_item
+zu	O
+Indie	B-playlist
+Hipster	I-playlist
+
+Suche	O
+die	O
+National	B-object_name
+Anthem	I-object_name
+of	I-object_name
+the	I-object_name
+Ancient	I-object_name
+Britons	I-object_name
+TV	B-object_type
+Show	I-object_type
+
+Zur	O
+Travelling	B-playlist
+Playliste	I-playlist
+,	O
+bitte	O
+füge	O
+diesen	O
+David	B-artist
+Gahan	I-artist
+Song	B-music_item
+hinzu	O
+.	O
+
+Ich	O
+möchte	O
+Them	B-album
+vom	O
+Künstler	B-artist
+Murcof	I-artist
+hören	O
+
+Bewerte	O
+The	B-object_name
+Gift:	I-object_name
+Imagination	I-object_name
+and	I-object_name
+the	I-object_name
+Erotic	I-object_name
+Life	I-object_name
+of	I-object_name
+Property	I-object_name
+mit	O
+5	B-rating_value
+Sternen	O
+
+Suche	O
+eine	O
+TV	B-object_type
+Show	I-object_type
+die	O
+Baby	B-object_name
+Blue	I-object_name
+heisst	O
+
+Suche	O
+nach	O
+dem	O
+Buch	B-object_type
+The	B-object_name
+Girl	I-object_name
+Who	I-object_name
+Was	I-object_name
+Plugged	I-object_name
+In	I-object_name
+
+Phyllis	B-party_size_description
+Ward	I-party_size_description
+und	I-party_size_description
+Veronica	I-party_size_description
+brauchen	O
+einen	O
+Tisch	B-restaurant_type
+in	O
+einem	O
+Restaurant	B-restaurant_type
+in	B-datetime
+152	I-datetime
+Tagen	I-datetime
+
+Reserviere	O
+in	O
+einem	O
+beliebten	B-sort
+Restaurant	B-restaurant_type
+für	O
+5	B-party_size_number
+Personen	O
+
+Reserviere	O
+für	O
+The	B-restaurant_name
+Dome	I-restaurant_name
+,	I-restaurant_name
+Edinburgh	I-restaurant_name
+in	O
+der	O
+Nähe	B-location
+von	O
+Brooklawn	B-location
+
+Füge	O
+dieses	O
+Album	B-music_item
+zu	O
+Old	B-playlist
+School	I-playlist
+Death	I-playlist
+Metal	I-playlist
+
+Suche	O
+nach	O
+der	O
+TV	B-object_type
+Serie	I-object_type
+Jersey	B-object_name
+Boys	I-object_name
+
+Reserviere	O
+für	O
+9	B-party_size_number
+Personen	O
+im	O
+besten	B-sort
+Pub	B-restaurant_type
+in	O
+der	O
+Nähe	B-location
+von	O
+Tangier	B-location
+in	B-datetime
+6	I-datetime
+Monaten	I-datetime
+
+Zeige	O
+mir	O
+die	O
+Filme	B-movie_type
+in	O
+den	O
+Harkins	B-location
+Theatres	I-location
+.	O
+
+Reserviere	O
+für	O
+eine	O
+Gruppe	O
+im	O
+Their	B-location
+campus	I-location
+in	B-location
+der	O
+selben	B-location
+Umgebung	I-location
+für	O
+churrascaria	B-restaurant_type
+

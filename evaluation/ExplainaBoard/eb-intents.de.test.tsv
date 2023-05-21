@@ -1,0 +1,500 @@
+Zeige alle Erinnerungen	reminder/show_reminders
+Benötige ich einen Pullover?	weather/find
+Eine Erinnerung für heute um 4 Uhr nachmittags hinzufügen	reminder/set_reminder
+lösche meine Erinnerung	reminder/cancel_reminder
+Erinnere mich Gas zu kaufen.	reminder/set_reminder
+Benötige ich am Mittwoch einen Regenschirm?	weather/find
+snooze meinen Wecker für fünf Minuten	alarm/snooze_alarm
+erstelle eine Geburtstagserinnerung für max	reminder/set_reminder
+Zeig mir alle Erinnerungen	reminder/show_reminders
+Zeige alle Wecker.	alarm/show_alarms
+Regnet es heute?	weather/find
+Stelle den Wecker auf 8:00 Uhr ein	alarm/set_alarm
+Wie ist die Temperatur heute?	weather/find
+Zeige meine Erinnerung	reminder/show_reminders
+Alle Wecker anzeigen	alarm/show_alarms
+Erinnere mich mit Ben über Georgia zu reden	reminder/set_reminder
+Erstelle einen Wecker für 5 Uhr morgens	alarm/set_alarm
+ist es heute bewölkt	weather/find
+Wie viele Millimeter Regen werden wir heute bekommen?	weather/find
+Erinnere mich, morgen meine Schwester anzurufen	reminder/set_reminder
+schalte Wecker aus	alarm/cancel_alarm
+Wird es diese Woche heiß?	weather/find
+Erstelle einen Wecker für 3 Uhr nachmittags.	alarm/set_alarm
+wird es heute schneien	weather/find
+entferne alle Wecker	alarm/cancel_alarm
+Zeig mir meine Erinnerungen	reminder/show_reminders
+Wie viel Zeit bleibt beim Wecker übrig	alarm/time_left_on_alarm
+Was sind meine Erinnerungen?	reminder/show_reminders
+Erstelle einen täglichen Wecker für 8 Uhr morgens	alarm/set_alarm
+kannst du mir die Wecker anzeigen?	alarm/show_alarms
+Erwartet Disney World heute Stürme?	weather/find
+wird es heute schneien	weather/find
+zeige alle Wecker	alarm/show_alarms
+Ist es heute kalt?	weather/find
+Bitte lösche den Wecker für Donnerstagmorgen.	alarm/cancel_alarm
+Regnet es heute?	weather/find
+schneit es in kanada	weather/find
+Was wird die Höchsttemperatur heute?	weather/find
+Wird es heute Nacht genug schneien, um das Reisen gefährlich zu machen?	weather/find
+Zeige alle Erinnerungen	reminder/show_reminders
+Lösche alle Erinnerungen	reminder/cancel_reminder
+brauche ich morgen eine Jacke?	weather/find
+Wie viel Zeit bleibt beim Wecker übrig	alarm/time_left_on_alarm
+Pausiere den Alarm	alarm/snooze_alarm
+Zeige alle Wecker an	alarm/show_alarms
+Wie ist das Wetter in Yellowstone?	weather/find
+wie ist das Wetter heute?	weather/find
+Lösche meine Erinnerung um morgen Patrick von der Schule abzuholen	reminder/cancel_reminder
+Erinnere mich morgen zu dieser Zeit einen Arzttermin zu vereinbaren	reminder/set_reminder
+Erinnere mich, die Miete abzugeben	reminder/set_reminder
+wann wir es aufhören zu regnen?	weather/find
+Wecker löschen	alarm/cancel_alarm
+Erinnere mich Stephanie am Dienstag anzurufen	reminder/set_reminder
+zeige mir alle meine Weckzeiten	alarm/show_alarms
+Wie heiß wird es heute?	weather/find
+Setze einen Wecker für 17 Uhr heute Abend	alarm/set_alarm
+erinnere mich daran, am 21. August um 15 Uhr zum Arzt zu gehen	reminder/set_reminder
+storniere meine wiederholte Erinnerung, täglich um 7 Uhr Medikamente einzunehmen	reminder/cancel_reminder
+Wann zeigt die Wettervorhersage den nächsten Regen an?	weather/find
+Wann ist mein Wecker für morgen früh eingestellt?	alarm/show_alarms
+wird es heute schneien	weather/find
+Schalte meinen Wecker aus.	alarm/cancel_alarm
+Lösche alle Wecker	alarm/cancel_alarm
+erinnere mich Lebensmittel zu kaufen	reminder/set_reminder
+Ich brauche einen Wecker für 9 Uhr früh Frühstück	alarm/set_alarm
+Erstelle eine Erinnerung um the Colts zu schauen eine Stunde bevor das Spiel beginnt	reminder/set_reminder
+alle Wecker löschen	alarm/cancel_alarm
+Lösche meine dritte Erinnerung von dieser Liste	reminder/cancel_reminder
+setze den Wecker auf 6 Uhr früh	alarm/set_alarm
+Setze diesen Wecker zurück und starte um 2 Uhr nachmittags	alarm/cancel_alarm
+Wird es schneien?	weather/find
+Erinnere mich, die Miete zu zahlen.	reminder/set_reminder
+was ist das Tief für morgen	weather/find
+Wird es heute sonnig?	weather/find
+Wie viele Erinnerungen habe ich heute?	reminder/show_reminders
+Was sind meine Erinnerungen für morgen?	reminder/show_reminders
+Lösche alle meine Erinnerungen.	reminder/cancel_reminder
+Erstelle einen Wecker für morgen 6 Uhr morgens	alarm/set_alarm
+Stelle den Wecker für 30 Minuten	alarm/set_alarm
+Erstelle einen Wecker für jetzt in einer Stunde.	alarm/set_alarm
+alle Wecker löschen	alarm/cancel_alarm
+Wetter Update Los Angeles	weather/find
+alle Wecker löschen	alarm/cancel_alarm
+Wie viele Erinnerungen habe ich heute?	reminder/show_reminders
+Erinnere mich Küchenpapier im Geschäft morgen zu kaufen	reminder/set_reminder
+zeige mir alle meine Erinnerungen	reminder/show_reminders
+setze den Wecker auf 6 Uhr früh	alarm/set_alarm
+wird es morgen schneien	weather/find
+lösche meinen Wecker von morgen früh	alarm/cancel_alarm
+Stelle den Wecker nur auf Montags Mittag ein.	alarm/set_alarm
+Wie heiß wird es heute?	weather/find
+Erinnere mich, den Wecker für den Morgen einzustellen	reminder/set_reminder
+entferne alle Wecker	alarm/cancel_alarm
+zeige meine Wecker	alarm/show_alarms
+Alarm verwerfen	alarm/cancel_alarm
+Wie ist die Temperatur heute?	weather/find
+Alarm verwerfen	alarm/cancel_alarm
+zeige alle Wecker	alarm/show_alarms
+Stelle einen Wecker für alle 30 Minuten ein	alarm/set_alarm
+Wie wird die Temperatur heute?	weather/find
+Wird es heute heiß?	weather/find
+Wird es morgen regnen?	weather/find
+Lösche den nächsten Wecker	alarm/cancel_alarm
+Erinnere mich heute zum Supermarkt zu gehen	reminder/set_reminder
+lösche meine Erinnerungen für nächste Woche	reminder/cancel_reminder
+Erinnere mich meinen Hund zu groomer zu bringen am Dienstag um 3 Uhr nachmittags	reminder/set_reminder
+Erinnere mich für Jen die Blumen abzuholen für unseren Jahrestag am 28.	reminder/set_reminder
+wie ist das Wetter heute?	weather/find
+Erinnere mich einen Arzttermin morgen zu vereinbaren.	reminder/set_reminder
+schalte alle Wecker aus	alarm/cancel_alarm
+Soll ich einen Regenmantel mitbringen?	weather/find
+Was ist die extreme Wettervorhersage?	weather/find
+Erinnere mich an den Arzttermin nächste Woche	reminder/set_reminder
+Erstelle eine Erinnerung zum Geschäft zu geben um 8 Uhr morgens	reminder/set_reminder
+Erstelle Erinnerung, um die Sachen von der chemischen Reinigung abzuholen.	reminder/set_reminder
+wann wird es abkühlen	weather/find
+wird es diese Woche regnen	weather/find
+entferne alle Wecker	alarm/cancel_alarm
+Wecker löschen	alarm/cancel_alarm
+Zeig mir meine Wecker	alarm/show_alarms
+Für welche Zeit habe ich den Wecker eingestellt?	alarm/show_alarms
+Wird es am Samstag regnen?	weather/find
+wie warm wird es heute?	weather/find
+Setze alle Wecker zurück	alarm/cancel_alarm
+Wetter in Tahoe dieses Wochenende?	weather/find
+Brauche ich heute einen Mantel?	weather/find
+wann wir es aufhören zu regnen?	weather/find
+Setze eine Erinnerung meine Schule am Montag um 4 Uhr nachmittags anzurufen	reminder/set_reminder
+Schalte meinen Wecker aus.	alarm/cancel_alarm
+Wie kalt wird es heute Nacht?	weather/find
+Stelle den Wecker auf 7:00 Uhr morgen.	alarm/set_alarm
+Lösche meine Erinnerung, Rob abzuholen	reminder/cancel_reminder
+Erstelle eine Erinnerung für morgen um Milch zu kaufen.	reminder/set_reminder
+setze den Wecker auf 6 Uhr abends	alarm/set_alarm
+plane täglich einen Alarm um 7:30 Uhr abends ein, bis er gelöscht wird	alarm/set_alarm
+erinnere mich daran, einen Alarm für Ups einzustellen	reminder/set_reminder
+lösche meine Erinnerung	reminder/cancel_reminder
+Wird es heute schneien?	weather/find
+Zeige alle Wecker an	alarm/show_alarms
+Zeige alle Erinnerungen	reminder/show_reminders
+wie viel Zeit bleibt auf meinem Wecker	alarm/time_left_on_alarm
+Wecker für 2 Stunden stellen	alarm/set_alarm
+Erinnere mich, nach der Arbeit Brot zu holen	reminder/set_reminder
+Wird es heute regnen?	weather/find
+lese die heutige Wettervorhersage	weather/find
+Für welche Zeit ist mein Wecker gestellt?	alarm/show_alarms
+morgen um 4 Uhr, erinnere mich zum Einkaufszentrum zu gehen	reminder/set_reminder
+Sollte ich heute einen Regenschirm mitbringen?	weather/find
+Zeige meine Erinnerung	reminder/show_reminders
+Zeige alle meine Erinnerungen	reminder/show_reminders
+Erstelle eine Erinnerung für Hundefutter am Montag.	reminder/set_reminder
+Erstelle Erinnerung "Sub yoga class Tuesday night at Bala" für morgen	reminder/set_reminder
+Lösche alle Erinnerungen von heute	reminder/cancel_reminder
+Wie wird das Wetter in New York diese Woche	weather/find
+Erinnere mich an eine Doktorvisite am Donnerstag um 12 Uhr mittag	reminder/set_reminder
+stelle einen Wecker auf 6:50 Uhr abends ein	alarm/set_alarm
+Wird es heute schneien?	weather/find
+Welche Wecker sind eingestellt?	alarm/show_alarms
+Stelle einen Erinnerungsalarm für den 7. Oktober ein	reminder/set_reminder
+Wird es heute schneien?	weather/find
+Schlummeralarm für 15 Minuten	alarm/snooze_alarm
+Wie viel Schnee sagen sie voraus?	weather/find
+ist es draußen heiß	weather/find
+Wie wird die Temperatur heute?	weather/find
+wie wird das Wetter morgen in Dallas	weather/find
+Zeige mir alle meine Erinnerungen von heute	reminder/show_reminders
+Erstelle eine wöchentliche Erinnerung für Lebensmittel.	reminder/set_reminder
+Wetter	weather/find
+Soll es heute den ganzen Tag über regnen?	weather/find
+wird es morgen regnen	weather/find
+Erinnere mich die Arbeitsemails heute Abend zu beantworten	reminder/set_reminder
+Wecker löschen	alarm/cancel_alarm
+Lösche meine Wecker	alarm/cancel_alarm
+Kann ich heute kurze Hosen tragen?	weather/find
+Wird es morgen regnen?	weather/find
+stelle Wecker auf 10 Uhr früh	alarm/set_alarm
+Wird es am Wochenende regnen?	weather/find
+Zeige alle Erinnerungen	reminder/show_reminders
+Wecker löschen	alarm/cancel_alarm
+schalte alle Wecker aus	alarm/cancel_alarm
+zeige alle voreingestellten Wecker an	alarm/show_alarms
+Stelle einen Wecker jede Minute für 20 Minuten.	alarm/set_alarm
+Was sind meine Erinnerungen?	reminder/show_reminders
+lösche den Wecker für morgen	alarm/cancel_alarm
+Benötige ich heute einen Regenschirm?	weather/find
+Soll es heute noch schneien?	weather/find
+Erinnere mich meine Mutter heute Abend anzurufen	reminder/set_reminder
+wird es heute regnen?	weather/find
+Wird es am Samstag regnen?	weather/find
+Wirst du den Wecker 20 Minuten lang jede Minute einstellen?	alarm/set_alarm
+Tropische Stürme in der Karibik	weather/find
+alle Wecker löschen	alarm/cancel_alarm
+Erstelle einen Wecker für alle neun Minuten	alarm/set_alarm
+Lösche die letzten zwei Erinnerungen auf meiner Liste	reminder/cancel_reminder
+wie ist das Wetter heute?	weather/find
+schalte meinen Wecker ein	alarm/set_alarm
+Was ist die Luftfeuchtigkeit heute?	weather/find
+erinnere mich daran, einen Alarm für Ups einzustellen	reminder/set_reminder
+Wird es schneien dieses Wochenende?	weather/find
+Wie heiß wird es heute?	weather/find
+Auf welche Zeit is mein Wecker gestellt	alarm/show_alarms
+wie ist das Wetter heute?	weather/find
+Wird es morgen regnen?	weather/find
+Lösche meinen Alarm von 5:15 Uhr früh am Dienstag	alarm/cancel_alarm
+Erinnerung für das Spiel heute Abend löschen	reminder/cancel_reminder
+Wecker für 3 Uhr morgens stellen	alarm/set_alarm
+lösche alle Wecker für Samstag	alarm/cancel_alarm
+Ich brauche eine Erinnerung um Lisa abzuholen	reminder/set_reminder
+Was wird das Hoch heute sein?	weather/find
+Wird es in Grindstone heute bewölkt?	weather/find
+Erinnere mich später	reminder/set_reminder
+wie ist das Wetter in Frankreich heute	weather/find
+Wird es für die Party am Samstag sonnig?	weather/find
+Wird es morgen regnen?	weather/find
+Kann ich heute kurze Hosen tragen?	weather/find
+Zeige meine Erinnerung	reminder/show_reminders
+was is die durchschnittliche Wettervorhersage für September	weather/find
+Ist es heute kalt?	weather/find
+Lösche alle Erinnerungen	reminder/cancel_reminder
+ist es heiß?	weather/find
+Erstelle einen Wecker für Wochenenden um 14 Uhr am Nachmittag	alarm/set_alarm
+Stelle den Wecker auf 2:00 Uhr	alarm/set_alarm
+Was ist die Luftfeuchtigkeit heute?	weather/find
+zeige mir alle meine Weckzeiten	alarm/show_alarms
+Zeige mir alle meine Erinnerungen	reminder/show_reminders
+alle Wecker löschen	alarm/cancel_alarm
+Gibt es eine Sturmwarnung für meinen Standort?	weather/find
+wie wird das Wetter heute	weather/find
+Lösche die letzte Erinnerung	reminder/cancel_reminder
+Was is die verbleibende Zeit bis zum Alarm	alarm/time_left_on_alarm
+Lösche alle meine Wecker für Sonntag.	alarm/cancel_alarm
+Wie heiß wird es heute?	weather/find
+Ich möchte, dass du für morgen früh um 8:45 Uhr einen neuen Alarm einstellst	alarm/set_alarm
+alle Wecker löschen	alarm/cancel_alarm
+Wird es heute schneien?	weather/find
+Erinnere mich Eis zu kaufen	reminder/set_reminder
+Zeige alle Erinnerungen	reminder/show_reminders
+zeige alle Wecker	alarm/show_alarms
+Wie ist das Wetter in San Francisco?	weather/find
+Lösche alle Erinnerungen	reminder/cancel_reminder
+Lösche die Erinnerung für das Konzert	reminder/cancel_reminder
+Lösche den Alarm für morgen früh	alarm/cancel_alarm
+wird es diese Woche regnen	weather/find
+Wie ist das Wetter am Mittwoch zum Golfen?	weather/find
+zeige alle Wecker	alarm/show_alarms
+Schalte alle Wecker für morgen ab	alarm/cancel_alarm
+Stelle den Wecker auf 5 Uhr heute Abend	alarm/set_alarm
+setze den Wecker für morgen um 7	alarm/set_alarm
+Wird morgen die Sonne scheinen?	weather/find
+wie heiß wird es heute	weather/find
+Gib 0 Sterne an Halo: Ghosts of Onyx	RateBook
+Spiele Musik von Joy Nilo .	PlayMusic
+Finde das Videospiel 20 Hours in America .	SearchCreativeWork
+Spiele meine inventive-Wiedergabeliste	PlayMusic
+Buche einen Platz für 9 in Thurmont	BookRestaurant
+Füge dieses Lied zu Dortys 80er-Party-Playliste hinzu	AddToPlaylist
+Spiele das neueste Lied auf Last Fm von Eddie Vinson .	PlayMusic
+Kontrolliere die Wettervorhersage für Nebraska .	weather/find
+Gibt es jetzt einen Sturm in NC ?	weather/find
+Ich möchte eine EP aus dem Jahr 1998 hören .	PlayMusic
+Ich brauche die Uhrzeit von A Yiddish World Remembered im Dipsomkino	SearchScreeningEvent
+Gibe dem aktuellen Lehrbuch 1 aus 6 Punkten	RateBook
+Füge das Matt Murphy Lied zur Flow Español-Wiedergabeliste hinzu.	AddToPlaylist
+Ich möchte am 20.05.2025 einen Sundanesischen Gastropub in der Nähe von Texas für 3 Personen buchen .	BookRestaurant
+Findest du die TV-Serie The Approach	SearchCreativeWork
+Gib dieser Chronik eine Bewertung von 2.	RateBook
+Gib The American Scene 2 von 6 Sternen	RateBook
+Füge emilie autumn zu meiner Nação Reggae-Wiedergabeliste hinzu.	AddToPlaylist
+Ich möchte ein jüdisches Restaurant in Gambia buchen .	BookRestaurant
+reserviere einen Tisch im Fried chicken Restaurant	BookRestaurant
+Füge das Lied we have a theme meiner House Afterwork-Wiedergabeliste hinzu	AddToPlaylist
+Wie wird das Wetter nicht unweit von hier am neunzehnten Oktober 2026?	weather/find
+Wetter in Walden Russland am 12.12.2018	weather/find
+Ich möchte ein Restaurant für mich und meinen Schwiegervater in Buckner in einem Jahr buchen .	BookRestaurant
+Bewerte dieses Buch mit 1	RateBook
+füge diesen Artisten zu meiner spotlight on country 2016-Wiedergabeliste hinzu	AddToPlaylist
+Kannst du das Bil Epic Conditions finden ?	SearchCreativeWork
+Spiele Rich Sex auf Iheart	PlayMusic
+Spielt Bartok der Bezaubernde um sieben Uhr früh?	SearchScreeningEvent
+Spiele etwas auf Zvooq	PlayMusic
+Lass mich Christ Night Songs hören	PlayMusic
+spiele das Album von Jill Sobule	PlayMusic
+Gib 4 Sterne an The Broken Window	RateBook
+Wie wird die Vorhersage für 6 Uhr morgens im Tatra-Nationalpark	weather/find
+Bitte buche einen Tisch in einem Bistro das lorna doone serviert .	BookRestaurant
+Bewerte die Serie The Mystery of the Tolling Bell mit 4 Sternen .	RateBook
+Verwende Groove Shark um Musik abzuspielen	PlayMusic
+Wann spielt Snowbound im nahesten Kino .	SearchScreeningEvent
+Bitte öffne Zvooq	PlayMusic
+Buche einen Platz für 1 Person im Town of Ramsgate in Merit	BookRestaurant
+Wird I Think I Do um 19 Uhr spielexsn ?	SearchScreeningEvent
+wird Custer-Nationalpark um sieben Uhr abends kühler sein	weather/find
+Ich möchte etwas auf Youtube hören	PlayMusic
+Suche nach dem Spiel Difficult Loves	SearchCreativeWork
+Wie ist die Wettervorhersage für den Bothe-Napa Valley State Park um den 20. Februar ?	weather/find
+Zeige mir die Vorstellungszeiten des Films The Great Gildersleeve in der Nähe des Kinos	SearchScreeningEvent
+Wie ist die Wettervorhersage für Gibsland	weather/find
+Kann ich die Zeiten für Filme in der Nachbarschaft bekommen	SearchScreeningEvent
+Bewerte Soul Music mit 0.	RateBook
+Reserviere für fünf Personen in einer Tatar Taverne in Sargents	BookRestaurant
+Spiele All Things Must Pass .	PlayMusic
+Wird es in einer Stunde ab jetzt in Südkorea regnen?	weather/find
+Buche einen Platz für 4 Personen in Oklahoma im South Street Diner	BookRestaurant
+Spiele Musik von Netflix .	PlayMusic
+Ich möchte Shattered Image sehen.	SearchScreeningEvent
+Suche nach The Sound of One Hand Clapping	SearchCreativeWork
+Suchen nach dem Album Wolves Within	SearchCreativeWork
+spielt We Are Northern Lights in einem Kino	SearchScreeningEvent
+Füge our little corner of the world music von den Gilmore girls zu meiner Wiedergabeliste The Funny Thing About Football Is hinzu.	AddToPlaylist
+Wie ist die Vorhersage für wärmeres Wetter im Southford Falls State Park	weather/find
+Bitte reserviere einen Tisch in einer Pizzeria mit Parkplatz in Ghana .	BookRestaurant
+Ich möchte einen Soundtrack aus den siebziger Jahren hören.	PlayMusic
+Wetter in zwei Stunden in Usbekistan	weather/find
+Bitte finde den Film Journal of the British Astronomical Association.	SearchCreativeWork
+Buche für 8 Personen in Wardville , Kansas	BookRestaurant
+Wie wird das Wetter weit entfernt von hier ?	weather/find
+Fügen das neueste Lied von Richard McNamara zur Just Smile-Wiedergabeliste hinzu	AddToPlaylist
+Wie kalt wird es hier in 1 Sekunde sein	weather/find
+Auf der Suche nach einem Gemälde mit dem Titel With You	SearchCreativeWork
+Finde kreative Arbeiten Deadly Weapons	SearchCreativeWork
+Wie wird das Wetter im November in Brookneal ?	weather/find
+Buche einen Tisch in der Taverne für Nudeln	BookRestaurant
+Was ist die Prognose für Costa Rica	weather/find
+Spielen The Two Gladiators	SearchScreeningEvent
+welche Filme spielen in den Star Kinos .	SearchScreeningEvent
+Kannst du bitte die Harry Hood Saga finden ?	SearchCreativeWork
+Füge dieses Lied meiner Sleepify-Wiedergabeliste hinzu	AddToPlaylist
+Spielt Any Which Way You Can in 15 Sekunden	SearchScreeningEvent
+Spiele Musik von E-type .	PlayMusic
+Gib dem aktuellen Buch einen Stern	RateBook
+Spiele Another Passenger von Louis Nelson Delisle .	PlayMusic
+Wo finde ich die Filmvorstellungspläne	SearchScreeningEvent
+Was ist die Wetterprognose für den 26. September in Emerado Saint Pierre und Miquelon	weather/find
+Lass uns in 17 Sekunden in der Nähe von Oakfield bei Ted Peters Famous Smoked Fish essen	BookRestaurant
+Hol mir den Trailer von Good Morning Sunshine	SearchCreativeWork
+Ich möchte eine Brasserie für 3 Personen auf den Niederländischen Antillen buchen .	BookRestaurant
+bewerte dieses aktuelle Album mit 0 Sternen	RateBook
+Buche einen Platz in Monaco für den Yankee Doodle Coffee Shop	BookRestaurant
+Füge den Künstler zur Wiedergabeliste der politischen Punks hinzu.	AddToPlaylist
+Wird es in vier Monaten in Suwanee AK kälter	weather/find
+füge Muzika za decu meiner Crash Course-Wiedergabeliste hinzu	AddToPlaylist
+Kannst du die Molecular Oncology Saga nachschlagen ?	SearchCreativeWork
+Ich möchte ein Restaurant für sechs Personen in Wagstaff AK buchen.	BookRestaurant
+Spiele Symphoniemusik von David Lindley .	PlayMusic
+Bitte finde die TV-Serie Now We Are Married .	SearchCreativeWork
+I möchte Outcast sehen .	SearchScreeningEvent
+füge den aktuellen Song zu meiner Das ist Tschaikowski-Wiedergabeliste hinzu	AddToPlaylist
+Spiele This is Miles Davis on Lastfm .	PlayMusic
+buche den besten Tisch in Tanzania für 5 People für ein Abendessen	BookRestaurant
+Lass uns good Mohammad Male on Vimeo hören .	PlayMusic
+Setze den Track von Vandemataram Srinivas auf HipHop Hot 50 .	AddToPlaylist
+Hol mir das Lied von Secret South .	SearchCreativeWork
+Songs aus den Neunzigern auf Zvooq	PlayMusic
+Was ist die Wetterprognose in Admire in TX ab siebzehn	weather/find
+Spiele etwas auf Last Fm	PlayMusic
+Ich möchte das Porträt einer Dame im nächsten Kino sehen .	SearchScreeningEvent
+Bitte finde Phineas Redux .	SearchCreativeWork
+Füge die 40-cal Melodie zur Wäschewiedergabeliste hinzu .	AddToPlaylist
+Öffne iTunes und spiele Ben Burnley Ready To Die	PlayMusic
+Wie wird das Wetter am 5. Dezember am Denkmal von Lihula sein?	weather/find
+Zeige die Vorstellungszeiten von Sexy Dance 2 im nächsten Kino	SearchScreeningEvent
+Suche nach einem Song mit dem Titel Live at the Kings Center	SearchCreativeWork
+Wie ist das Wetter in Tyonek , New Jersey	weather/find
+Ich möchte das Tupelo Honey Cafe in New Jersey für fünf Personen buchen.	BookRestaurant
+Buche einen Platz für meine Nichten und mich in einem Teehaus	BookRestaurant
+Wird es am 16. Februar in den Niederlanden warm?	weather/find
+Ich möchte Jordan Rudess in die Divertido para niños-Wiedergabeliste aufnehmen.	AddToPlaylist
+Bewerte In the Company of Cheerful Ladies mit Null von 6	RateBook
+Buche mir eine Reservierung für das beste Bistro	BookRestaurant
+bewerte das aktuelle Lehrbuch mit 1 von 6 Punkten	RateBook
+Wie sind die Filmvorstellungszeiten?	SearchScreeningEvent
+Wie wird das Wetter in Ohio?	weather/find
+Füge diesen Künstler zu Showstopper Being Mary Jane hinzu	AddToPlaylist
+Buche eine Reservierung für meine Babys und mich	BookRestaurant
+Wie wird das Wetter am 21. August 2035 im Sarygamyş Sanctuary sein?	weather/find
+Bewerte Ruth mit fünf von 6 Punkten .	RateBook
+Erinnerungen an die Anti-Japanische Guerilla-Chronik verdienen null von 6 Punkten für eine Bewertung.	RateBook
+Zeig mir die Filmvorstellungszeiten von Southern Theatres	SearchScreeningEvent
+Finde die Filmvorstellungszeiten in der Nähe	SearchScreeningEvent
+Füge dieses Album der spanischen Beat Wiedergabeliste hinzu	AddToPlaylist
+Buche eine Reservierung für 6 Personen für eine kreolische Taverne in Montenegro	BookRestaurant
+Gib der Catedral-Serie vier Sterne .	RateBook
+Füge The Famous Flower of Serving-Men zu meiner abendlichen akustischen Wiedergabeliste hinzu.	AddToPlaylist
+Zeigen Sie mir die Vorstellungszeiten nur für Animationsfilme bei ArcLight Hollywood	SearchScreeningEvent
+Bitte suche nach dem Gemälde mit dem Titel This Is the Night .	SearchCreativeWork
+Wie hoch wird die Luftfeuchtigkeit am aktuellen Standort um 15:19:29 Uhr sein ?	weather/find
+Ich möchte JLA Adventures: Trapped In Time sehen	SearchScreeningEvent
+Füge ein Derek Watkins Lied zu This Is Johnny Cash hinzu	AddToPlaylist
+Finde eine kreative Arbeit namens Fire in the Hole	SearchCreativeWork
+Buche einen Tisch in der Nähe von Pats College	BookRestaurant
+Ist Patrick Still Lives in den AMC Theatern zu sehen?	SearchScreeningEvent
+Ich möchte einen Joint in einem Spa buchen .	BookRestaurant
+Ich brauche irgendwo in Quarryville in 14 Stunden einen Tisch	BookRestaurant
+spiele etwas von Gary Lee Conner	PlayMusic
+zeige das nächste Kino, das Boykott zeigt	SearchScreeningEvent
+Bitte spiele meine ekstatische Wiedergabeliste.	PlayMusic
+Bitte suche nach dem Lied The Mad Magician .	SearchCreativeWork
+Überprüfe die Vorstellungszeiten für Bow Tie Cinemas .	SearchScreeningEvent
+Buche mir eine Reservierung für eine Gruppe von 3 Personen in einem Pub auf den Nördlichen Marianen	BookRestaurant
+Ich müsste die Werke von Rahim Shah zu meiner Infinite Indie Folk Playliste hinzufügen	AddToPlaylist
+Füge Jerry Callist, Jr zu meiner Te quiero Playliste hinzu.	AddToPlaylist
+Wie viel kälter wird es im näheren Umkreis von Utah um ca. 3 Uhr morgens ?	weather/find
+Füge das Album zur Hipster Soul Playliste.	AddToPlaylist
+Ich möchte in einem Spezialitätenmarkt, der osteuropäisches Essen serviert, in 13 Stunden essen	BookRestaurant
+Spiele einen 60er Soundtrack	PlayMusic
+Gib dem Album einen Stern	RateBook
+Spiele die besten Songs von Bryan Maclean .	PlayMusic
+Was is die Wettervorhersage für Nicodemus und Umgebung?	weather/find
+Ich suche nach einem Spiel das Phinally Phamous heisst	SearchCreativeWork
+Gib Juneteenth eine Bewertung von 2 .	RateBook
+Gib Thialto the Marvellous null Sterne	RateBook
+Ich möchte Soundtrack Musik von Helena Iren Michaelsen auf Youtube hören	PlayMusic
+Bestelle eine Tisch am 20.01.2013 für 5 Personen im MH	BookRestaurant
+Kinoprogramm in der Nähe für animierte Filme	SearchScreeningEvent
+Füge Jack White zu meiner Playliste This is Shakira	AddToPlaylist
+Ich möchte in einem Restaurant für 5 Personen in Sri Lanka reservieren	BookRestaurant
+Bitte such nach der TV Show Episodi di The Blacklist	SearchCreativeWork
+Wie ist die Vorhersage für kältere Temperaturen am Anfang des Law Day hier	weather/find
+Ich möchte in einem Restaurant reservieren für 10 Personen.	BookRestaurant
+Spiele etwas von Duke Ellington aus den 70ern	PlayMusic
+Bewerte Cotton Comes to Harlem mit einer 2	RateBook
+Füge einen Song zu meiner Playliste Madden NFL 16	AddToPlaylist
+Füge Toyan zu meiner Epic Games Playliste.	AddToPlaylist
+Spiele ein paar neue Les Vandyke auf Slacker	PlayMusic
+Bewerte Three Junes mit 1 von 6	RateBook
+Reserviere für 9 Personen bei einer Bäckerei in Nunez	BookRestaurant
+Bewerte diesen Roman mit 2 von 6 .	RateBook
+Spiele The Happy Blues von Ronnie Wood .	PlayMusic
+Spiele eine Symphonie von 2013 .	PlayMusic
+Spiele Subconscious Lobotomy von Jennifer Paull .	PlayMusic
+Gib The Crystal Snare 5 Sterne	RateBook
+Give diesem Textbuch null Sterne	RateBook
+Gib der aktuellen Serie 4 Punkte	RateBook
+Ich möchte eine Tisch im James D. Conrey House in Urbank Kalifornien	BookRestaurant
+Spielt Barbar: King of the Elephants	SearchScreeningEvent
+Füge einen Song zu This is racionais mc's	AddToPlaylist
+Gib diesem Essay null von 6 Sternen	RateBook
+Lass uns etwas von Andrew Hewitt hören .	PlayMusic
+Finde animierte Filme in der Nähe	SearchScreeningEvent
+Gib The current chronicle 5 von 6 Punkten	RateBook
+Ich brauche einen Tisch für 4 in Saint Helena im Settha Palace Hotel	BookRestaurant
+Wie wird das Wetter in Virginia am St. Patrick's day sein ?	weather/find
+Ich brauche das Programm vom Speakseasy Theater	SearchScreeningEvent
+Suche nach der TV Show Meet the Prince	SearchCreativeWork
+Bitte besorge mir den Song Compulsive Disclosure .	SearchCreativeWork
+Spiele Trance Life auf Zvooq .	PlayMusic
+Bitte suche das Werk Serious Awesomeness !.	SearchCreativeWork
+Ich möchte I Dream of Jeanie in einem Kino sehen	SearchScreeningEvent
+Spiele Paul McCartney	PlayMusic
+Gib diesem Roman 3 Sterne	RateBook
+Würdest du das Buch Paris - When It Sizzles suchen ?	SearchCreativeWork
+Spiele etwas von Filipp Kirkorrow aus den 70ern	PlayMusic
+Ich möchte in einem Bougatsa Restaurant nächstes Jahr in der Nähe von Penn für 3 Personen reservieren.	BookRestaurant
+Wird es regnerisch in Tenino ?	weather/find
+Bitte suche nach Three Essays über die Theory of Sexuality Show	SearchCreativeWork
+Ich möchte in Ramona essen	BookRestaurant
+Füge den Boy George Song zur Emo Forever Playliste	AddToPlaylist
+Ich möchte in einem Steakhaus in Vimy Ridge reservieren .	BookRestaurant
+Läuft Without Witness für 22 Stunden	SearchScreeningEvent
+Reserviere einen Platz für 9	BookRestaurant
+Füge diesen Song zu meiner Hands Up Playliste	AddToPlaylist
+Spiele etwas aus der 90s Pop Rock Essentials	PlayMusic
+Würdest du mir den Blue Spring Trailer suchen ?	SearchCreativeWork
+Gib 36 Children 2 von 6 Sternen	RateBook
+Sag mir animierte Filme im MJR Theatres	SearchScreeningEvent
+Füge den Künstler Mike zu meiner Sexy as Folk Playliste.	AddToPlaylist
+Füge Highway Patrolman zu meiner Playliste This is Al Green	AddToPlaylist
+Suche mir den Roman mit dem Titel To Lose My Life ...	SearchCreativeWork
+Gib dem Album eine 5	RateBook
+Spielt Rare Birds im nächstgelegenen Kino zu Mittag .	SearchScreeningEvent
+Bewerte The 8-Week Cholesterol Cure mit 3 von 6 .	RateBook
+Füge Martin Barre zu meiner Punk unplugged Playliste.	AddToPlaylist
+Bewerte diesen Roman mit null von 6	RateBook
+Zu welchen Zeiten spielt The Young Swordsman in meinem Kino ?	SearchScreeningEvent
+Was spielt gerade in den Kinos in meiner Umgebung	SearchScreeningEvent
+Ich möchte im Oregon Electric Station in North City reservieren .	BookRestaurant
+Wie wird das Wetter hier um 2 Uhr nachmittags	weather/find
+Suche das Kinoprogramm für The Wanda Group .	SearchScreeningEvent
+Wie ist die Wettervorhersage für Waurika in Samoa	weather/find
+Zeige das Kinoprogramm in der Umgebung	SearchScreeningEvent
+Spiele etwas Blues Britanico .	PlayMusic
+Spielt No Times to Be Young im AMC Theaters	SearchScreeningEvent
+Bitte suche Monty Python Live at the Hollywood Bowl .	SearchCreativeWork
+Was ist die Wettervorhersage hier bezüglich Eissturm um 5 Uhr nachmittags?	weather/find
+Füge Ireland in the junior eurovision song contest 2015 zu meiner Jazzy Dinner Playliste	AddToPlaylist
+Füge einen Song zu Indie Hipster	AddToPlaylist
+Suche die National Anthem of the Ancient Britons TV Show	SearchCreativeWork
+Zur Travelling Playliste, bitte füge diesen David Gahan Song hinzu .	AddToPlaylist
+Ich möchte Them vom Künstler Murcof hören	PlayMusic
+Bewerte The Gift: Imagination and the Erotic Life of Property mit 5 Sternen	RateBook
+Suche eine TV Show die Baby Blue heisst	SearchCreativeWork
+Suche nach dem Buch The Girl Who Was Plugged In	SearchCreativeWork
+Phyllis Ward und Veronica brauchen einen Tisch in einem Restaurant in 152 Tagen	BookRestaurant
+Reserviere in einem beliebten Restaurant für 5 Personen	BookRestaurant
+Reserviere für The Dome, Edinburgh in der Nähe von Brooklawn	BookRestaurant
+Füge dieses Album zu Old School Death Metal	AddToPlaylist
+Suche nach der TV Serie Jersey Boys	SearchCreativeWork
+Reserviere für 9 Personen im besten Pub in der Nähe von Tangier in 6 Monaten	BookRestaurant
+Zeige mir die Filme in den Harkins Theatres .	SearchScreeningEvent
+Reserviere für eine Gruppe im Their campus in der selben Umgebung für churrascaria	BookRestaurant

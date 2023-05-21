@@ -1,0 +1,1652 @@
+Dua	B-entity_name
+ma	I-entity_name
+des	I-entity_name
+Liad	I-entity_name
+in	O
+die	O
+Playlist	B-playlist
+
+Mach	B-entity_name
+des	I-entity_name
+Liad	I-entity_name
+in	O
+mei	B-reference
+Party-Playlist	B-playlist
+.	O
+
+Spui	B-track
+Ma	I-track
+des	I-track
+liad	I-track
+vom	O
+Elvis	B-track
+Return	I-track
+to	I-track
+sender	I-track
+
+Dua	B-entity_name
+bloody	I-entity_name
+valentine	I-entity_name
+vo	I-entity_name
+Maschine	I-entity_name
+Gun	I-entity_name
+Kelly	I-entity_name
+zua	O
+meina	B-reference
+Playlist	B-playlist
+.	O
+
+Dua	B-entity_name
+Cover	I-entity_name
+me	I-entity_name
+in	I-entity_name
+Sunshine	I-entity_name
+vo	I-entity_name
+Pink	I-entity_name
+in	O
+mei	B-reference
+Gute	B-playlist
+Laune	I-playlist
+Playlist	I-playlist
+
+machst	O
+moi	B-reference
+Dance	B-entity_name
+Now	I-entity_name
+vo	I-entity_name
+JID	I-entity_name
+in	O
+de	O
+Hiphop	B-playlist
+Playlist	I-playlist
+?	O
+
+bitte	O
+des	O
+liadl	B-track
+a	I-track
+nu	I-track
+dazua	I-track
+doa	I-track
+
+giab	O
+bitte	O
+stupid	B-entity_name
+horse	I-entity_name
+von	I-entity_name
+100	I-entity_name
+gecs	I-entity_name
+zua	O
+meina	B-reference
+Party-Listn	B-playlist
+
+füg	O
+des	O
+Lied	B-music_item
+zu	O
+meiner	B-reference
+Playlist	O
+dazu	O
+
+speicha	O
+moi	B-entity_name
+Lost	I-entity_name
+von	I-entity_name
+Linkin	I-entity_name
+Park	I-entity_name
+in	O
+mei	B-reference
+Playlist	B-playlist
+!	O
+
+Füg	O
+Lost	B-entity_name
+von	I-entity_name
+Linkin	I-entity_name
+Park	I-entity_name
+zu	O
+meina	B-reference
+Playlist	B-playlist
+dazua	I-playlist
+
+Dads	B-track
+ma	I-track
+I	I-track
+sing	O
+a	O
+Liad	B-track
+fia	I-track
+di	I-track
+vom	O
+Andreas	B-artist
+Gabalier	I-artist
+ind	O
+Playlist	B-album
+einedoa	I-album
+
+dua	O
+Dreh	B-entity_name
+den	I-entity_name
+Swag	I-entity_name
+auf	I-entity_name
+von	O
+Moneyboy	B-artist
+in	O
+mei	O
+Spotify-Playlist	B-playlist
+.	O
+
+I	O
+mächad	B-reminder/todo
+gean	I-reminder/todo
+an	I-reminder/todo
+disch	I-reminder/todo
+resavieren	I-reminder/todo
+
+I	O
+dad	O
+gern	O
+an	O
+Disch	B-restaurant_name
+in	O
+Rimbach	B-location
+für	O
+4	B-party_size_number
+Leid	B-location
+reservieren	O
+.	O
+
+I	O
+mechad	O
+gern	O
+an	O
+disch	B-restaurant_name
+reservieren	O
+für	O
+4	B-entity_name
+leid	I-entity_name
+auf	O
+19.00	B-datetime
+
+Reservier	O
+mia	O
+an	O
+Disch	O
+für	O
+4	B-movie_name
+Leid	I-movie_name
+in	O
+da	B-restaurant_name
+Pizzeria	I-restaurant_name
+Antonio	I-restaurant_name
+.	O
+
+I	O
+dad	O
+gern	O
+an	O
+Disch	B-object_name
+für	I-object_name
+6	I-object_name
+Leid	I-object_name
+um	I-object_name
+Simme	I-object_name
+beim	O
+Sale	B-restaurant_name
+e	I-restaurant_name
+Pepe	I-restaurant_name
+in	I-restaurant_name
+Hirten	I-restaurant_name
+reservieren	I-restaurant_name
+.	O
+
+reservierst	O
+ma	O
+bitte	O
+an	O
+Disch	B-restaurant_name
+im	I-restaurant_name
+Zeitlos	I-restaurant_name
+fürn	O
+Brunch	B-datetime
+?	O
+Um	B-datetime
+11	B-datetime
+für	O
+4	B-party_size_number
+Personen	O
+,	O
+wenns	O
+gehd	O
+.	O
+
+ruaf	O
+bitte	O
+beim	O
+mings	B-reminder/todo
+in	I-reminder/todo
+oidäding	I-reminder/todo
+a	I-reminder/todo
+und	I-reminder/todo
+buach	I-reminder/todo
+an	I-reminder/todo
+diesch	I-reminder/todo
+für	O
+fünf	B-datetime
+leid	I-datetime
+aufara	I-datetime
+sechse	I-datetime
+sowos	I-datetime
+
+I	O
+darat	O
+gearn	B-entity_name
+an	I-entity_name
+Disch	O
+im	O
+Steirawirt	B-location
+in	O
+Riad	B-location
+für	O
+3	B-datetime
+Leid	I-datetime
+resavieren	O
+
+reservier	O
+ma	O
+an	O
+Disch	B-location
+für	O
+vier	B-datetime
+Leid	Orecurring_datetime
+
+reservier	O
+ma	B-album
+moi	I-album
+an	I-album
+Tiesch	I-album
+im	O
+Restaurant	B-restaurant_name
+im	O
+Rimback	B-location
+für	O
+4	B-party_size_number
+Leid	B-location
+.	O
+
+Reservier	O
+ma	O
+bitte	O
+an	O
+Disch	B-movie_name
+im	I-movie_name
+Zeitsprung	I-movie_name
+fia	I-movie_name
+zwoa	I-movie_name
+Leid	I-movie_name
+auf	O
+viere	B-datetime
+
+kaunst	O
+ma	O
+du	O
+an	O
+tisch	O
+um	B-entity_name
+zwa	I-entity_name
+bei	O
+da	B-restaurant_name
+edith	I-restaurant_name
+reserviern	I-restaurant_name
+.	O
+
+Spui	B-track
+Ma	I-track
+lost	I-track
+von	I-track
+linkin	I-track
+park	I-track
+
+Spui	O
+ma	O
+Rockmusik	B-playlist
+.	O
+
+Spui	O
+Reggae	B-playlist
+musi	O
+
+Spui	O
+bloody	B-track
+valentine	I-track
+vo	I-track
+Machine	I-track
+Gun	I-track
+Kelly	I-track
+auf	O
+Spotify	B-service
+.	O
+
+Spui	O
+Bologna	B-object_name
+vo	I-object_name
+Wanda	I-object_name
+.	O
+
+spui	O
+HipHop	B-playlist
+Radio	I-playlist
+auf	O
+Spotify	B-service
+.	O
+
+Dua	O
+bitte	O
+mei	O
+meistgspuids	B-reminder/todo
+liadl	I-reminder/todo
+her	O
+
+Spü	O
+ma	B-track
+bitte	I-track
+irgendwos	O
+von	O
+SOPHIE	B-artist
+
+spui	O
+Bayern	B-object_name
+3	I-object_name
+
+spui	O
+ma	B-album
+moi	I-album
+Rockmusik	I-album
+.	O
+
+Spui	O
+Radio	B-object_name
+Bayern	I-object_name
+3	I-object_name
+
+spui	O
+ebs	B-artist
+vom	I-artist
+Gabalier	I-artist
+
+spü	O
+moi	B-track
+rummelplatz	I-track
+von	I-track
+moneyboy	B-artist
+
+I	O
+Mechad	B-object_name
+des	O
+buch	B-object_type
+auf	O
+4	B-rating_value
+Sterne	B-rating_unit
+bewerta	O
+
+Gib	O
+dem	O
+Buach	B-object_name
+Harry	I-object_name
+Potter	I-object_name
+5	B-rating_value
+Sterne	B-rating_unit
+.	O
+
+Gib	O
+dem	O
+biache	B-object_name
+vom	I-object_name
+Herr	I-object_name
+der	I-object_name
+Ringe	I-object_name
+5	B-rating_value
+sterndl	O
+
+Bewert	O
+amoi	B-object_name
+des	I-object_name
+Buach	I-object_name
+Harry	I-object_name
+Potter	I-object_name
+mit	O
+5	B-rating_value
+Sterne	B-rating_unit
+.	O
+
+Gib	O
+dem	O
+Buach	B-object_name
+Playlist	I-object_name
+vo	I-object_name
+Sebastian	I-object_name
+Fitzek	I-object_name
+5	B-rating_value
+Sterne	B-rating_unit
+.	O
+
+gib	O
+Iphigenie	B-object_name
+auf	I-object_name
+Taurus	I-object_name
+oan	I-object_name
+Stern	I-object_name
+,	O
+des	O
+war	O
+richtig	O
+schlecht	O
+.	O
+
+Gib	O
+dem	O
+dumma	B-artist
+buach	I-artist
+de	O
+minimale	B-playlist
+Anzahl	I-playlist
+an	I-playlist
+sterne	I-playlist
+
+Gib	O
+Harry	B-object_name
+Potter	I-object_name
+0	B-rating_value
+Sterne	B-rating_unit
+
+Gib	O
+dem	O
+Buach	B-object_name
+a	O
+Bewertung	O
+vo	O
+5	B-rating_value
+Sterne	B-rating_unit
+
+i	O
+mog	O
+a	O
+Buach	B-object_name
+bewerten	O
+.	O
+Gib	O
+dem	B-object_name
+Buach	I-object_name
+...	I-object_name
+5	B-rating_value
+Sterndal	O
+.	O
+
+Mach	O
+a	O
+Bewertung	O
+von	O
+5	B-rating_value
+Sterne	B-rating_unit
+für	O
+des	O
+Buach	B-object_name
+
+dua	B-object_name
+des	I-object_name
+Buach	I-object_name
+Harry	I-object_name
+Potter	I-object_name
+mit	I-object_name
+oam	I-object_name
+Stern	I-object_name
+bewerten	O
+
+bewert	O
+amoi	B-object_name
+des	I-object_name
+buach	I-object_name
+Harry	B-object_name
+Potter	I-object_name
+mit	I-object_name
+anem	I-object_name
+Stern	I-object_name
+
+reservier	O
+an	O
+Disch	B-restaurant_name
+für	O
+4	B-restaurant_name
+Leid	I-restaurant_name
+im	I-restaurant_name
+Noah	I-restaurant_name
+in	O
+Garching	B-location
+.	O
+
+Such	O
+nach	O
+Game	B-object_name
+of	I-object_name
+Thrones	I-object_name
+
+Such	O
+nach	O
+Game	B-object_name
+of	I-object_name
+Thrones	I-object_name
+.	O
+
+Suach	O
+nach	O
+boogie	B-artist
+musi	B-entity_name
+
+Suach	O
+nach	B-datetime
+Wednesday	I-datetime
+.	O
+
+Suach	O
+nach	O
+dem	O
+neia	B-album
+Album	B-music_item
+von	O
+Madeline	B-artist
+Juno	I-artist
+.	O
+
+schau	O
+moi	O
+nach	O
+dem	O
+neia	B-object_name
+Kendrick	I-object_name
+Lamar	I-object_name
+Album	I-object_name
+
+suach	O
+den	O
+neia	B-object_name
+Patrick	I-object_name
+Dempsey	I-object_name
+film	B-music_item
+
+suach	B-track
+des	I-track
+Spui	I-track
+.	O
+
+suach	O
+moi	B-datetime
+nach	O
+Stranger	B-movie_name
+Things	I-movie_name
+.	O
+
+Suach	B-object_name
+nach	I-object_name
+de	I-object_name
+Simpsons	I-object_name
+
+schau	O
+wia	B-object_name
+des	I-object_name
+neie	I-object_name
+Album	I-object_name
+vom	I-object_name
+Gabalier	I-object_name
+hoaßt	I-object_name
+
+suach	O
+moi	B-object_name
+noch	I-object_name
+moneyboy	I-object_name
+
+Wann	O
+Kimtn	B-object_name
+der	I-object_name
+Film	I-object_name
+A	I-object_name
+?	O
+
+Wo	O
+und	O
+wann	O
+kimmt	B-movie_name
+Avatar	I-movie_name
+im	O
+Kino	B-object_location_type
+?	O
+
+Wann	O
+lafft	O
+da	B-movie_name
+neie	I-movie_name
+eberhofer	I-movie_name
+Krimi	I-movie_name
+im	O
+kino	B-object_location_type
+
+Wo	O
+und	O
+wann	O
+werd	O
+Avatar	B-movie_name
+in	O
+Kino	O
+kemma	O
+?	O
+
+Wann	O
+und	O
+wo	O
+laffd	O
+Indiana	B-movie_name
+Jones	I-movie_name
+?	O
+
+wann	O
+kimmd	O
+Minions	B-movie_name
+im	O
+Cineplex	B-location
+
+wo	O
+und	O
+wann	O
+kann	O
+i	O
+des	O
+Theater	B-location
+aschaun	O
+
+Waun	O
+lauftn	O
+da	O
+Avatar	B-movie_name
+im	O
+Kino	B-object_location_type
+?	O
+
+wann	O
+kimmt	B-movie_name
+Avatar	I-movie_name
+in	I-movie_name
+Burghausen	I-movie_name
+im	O
+Kino	B-object_location_type
+?	O
+
+was	O
+laft	B-movie_name
+grod	I-movie_name
+im	O
+Theater	B-location
+?	O
+
+Wann	O
+laft	O
+Avatar	B-movie_name
+im	O
+Kino	B-object_location_type
+
+wo	O
+und	O
+um	O
+wia	O
+vui	O
+Uhr	O
+ko	O
+I	B-movie_name
+Titanic	I-movie_name
+im	I-movie_name
+Kino	I-movie_name
+oschaun	O
+?	O
+
+wo	O
+und	O
+waun	O
+spüd	O
+The	B-object_name
+whale	I-object_name
+in	I-object_name
+minga	I-object_name
+
+Lösch	O
+mein	O
+Wecka	O
+um	B-datetime
+7	I-datetime
+.	O
+
+Lösch	O
+mein	O
+wegga	O
+um	B-datetime
+6.00	I-datetime
+
+Lösch	O
+ma	O
+mein	O
+wecka	O
+
+Lösch	O
+den	O
+Wecker	O
+um	O
+Simme	O
+.	O
+
+Lösch	O
+mein	O
+Wegga	O
+um	B-datetime
+6	I-datetime
+.	O
+
+weck	O
+mi	O
+moing	B-track
+doch	I-track
+ned	I-track
+
+lösch	O
+mein	O
+wegga	O
+wieder	O
+
+Lösch	O
+bitta	O
+mein	O
+Wecka	O
+morgn	O
+um	B-datetime
+8	I-datetime
+
+Lösch	O
+mein	O
+Wecker	O
+.	O
+
+lösch	O
+amoi	B-datetime
+den	O
+bläden	O
+Wecka	O
+!	O
+
+Lösch	O
+den	O
+Wecka	O
+um	O
+Simme	O
+
+Lösch	O
+mein	O
+Wecka	B-reminder/todo
+fia	I-reminder/todo
+sime	I-reminder/todo
+
+dua	O
+mein	B-reference
+wecker	O
+um	O
+zwöfi	B-reminder/todo
+ausi	I-reminder/todo
+
+I	O
+mog	O
+mein	O
+Wecker	O
+ändern	O
+
+Änder	O
+mein	O
+Wecka	B-artist
+von	B-datetime
+7	I-datetime
+auf	I-datetime
+8	I-datetime
+.	O
+
+Änder	O
+mein	O
+wegga	O
+vo	O
+6	B-datetime
+auf	I-datetime
+7	I-datetime
+
+Änder	O
+den	O
+Wecker	O
+um	O
+Simme	O
+auf	O
+achte	B-datetime
+.	O
+
+Änder	O
+mein	O
+Wegga	O
+vo	O
+5	B-datetime
+auf	I-datetime
+6	I-datetime
+.	O
+
+weck	O
+mi	B-entity_name
+moing	I-entity_name
+doch	I-entity_name
+liaba	I-entity_name
+um	O
+9	B-datetime
+
+Stei	O
+mein	O
+wegga	B-entity_name
+von	B-datetime
+10e	I-datetime
+doch	O
+liaba	B-entity_name
+auf	I-entity_name
+viadl	I-entity_name
+noch	O
+
+Änder	O
+bitte	O
+mein	O
+Wecka	O
+morgen	B-datetime
+um	O
+achte	B-reminder/todo
+auf	I-reminder/todo
+neine	I-reminder/todo
+
+stoi	O
+mein	B-reference
+Wecker	B-entity_name
+vo	I-entity_name
+Simme	I-entity_name
+auf	O
+Achte	B-datetime
+
+stei	O
+den	O
+Wecka	B-entity_name
+nei	I-entity_name
+auf	I-entity_name
+achte	I-entity_name
+in	I-entity_name
+der	I-entity_name
+Fria	I-entity_name
+.	O
+
+Stei	B-track
+den	I-track
+Wecka	I-track
+von	O
+Simme	B-datetime
+auf	O
+Achte	B-datetime
+
+Stoi	O
+mein	O
+Wecka	B-entity_name
+vo	I-entity_name
+Sime	I-entity_name
+auf	O
+Achte	B-datetime
+
+ända	O
+mein	B-reference
+wecka	B-entity_name
+,	I-entity_name
+der	I-entity_name
+um	I-entity_name
+ochti	I-entity_name
+is	I-entity_name
+,	O
+auf	O
+siemi	B-datetime
+
+I	O
+mog	O
+an	O
+wecka	B-weather/attribute
+stein	I-weather/attribute
+
+Stei	O
+ma	O
+an	O
+Wecka	B-location
+auf	O
+8	B-datetime
+Uhr	I-datetime
+.	O
+
+Stell	O
+mein	O
+wegga	O
+auf	O
+6.00	B-datetime
+
+Stei	O
+ma	O
+an	O
+Wecker	O
+auf	O
+achte	B-datetime
+.	O
+
+Stoi	O
+ma	O
+an	O
+Wegga	O
+auf	O
+7	B-datetime
+Uhr	I-datetime
+.	O
+
+weck	O
+mi	B-object_name
+moing	I-object_name
+um	I-object_name
+hoibe	I-object_name
+acht	I-object_name
+
+mach	O
+an	O
+wegga	O
+für	O
+8e	B-datetime
+
+Stöh	O
+man	O
+an	O
+Wecka	B-location
+morgn	B-datetime
+um	O
+siebane	B-location
+
+Stoi	O
+ma	O
+an	O
+Wecker	B-location
+um	B-datetime
+7e	I-datetime
+
+stei	O
+ma	O
+den	O
+Wecka	B-movie_name
+auf	O
+achte	B-datetime
+in	O
+der	O
+Fria	B-location
+.	O
+
+Stei	O
+an	O
+Wecker	O
+auf	O
+Achte	B-datetime
+
+Stoi	O
+ma	B-object_name
+an	I-object_name
+Wecka	I-object_name
+auf	I-object_name
+Sime	I-object_name
+
+stö	O
+ma	B-entity_name
+an	I-entity_name
+wecka	I-entity_name
+auf	I-entity_name
+neini	B-playlist
+
+Zoag	B-track
+Ma	I-track
+meine	I-track
+wecka	I-track
+
+Zoag	O
+ma	O
+meine	O
+wecka	B-weather/attribute
+.	O
+
+Wann	O
+is	O
+mei	B-object_name
+wegga	I-object_name
+gsdäidt	I-object_name
+?	O
+
+Zoag	B-track
+ma	I-track
+olle	I-track
+aktiven	I-track
+Wecka	I-track
+.	O
+
+Zoag	O
+ma	O
+meine	O
+Wegga	B-reminder/todo
+.	O
+
+wos	O
+für	O
+Wecker	B-object_name
+hob	I-object_name
+i?	O
+
+zoag	B-track
+ma	I-track
+olle	I-track
+meine	I-track
+wegga	I-track
+
+Zag	B-track
+ma	I-track
+amoi	I-track
+olle	I-track
+meine	I-track
+Wecka	I-track
+
+woichane	B-artist
+Wecker	I-artist
+hob	B-track
+i	I-track
+gstoid	I-track
+?	O
+
+auf	O
+wia	O
+fui	O
+Uhr	B-datetime
+isn	O
+der	O
+Wecka	O
+steid	O
+?	O
+
+Wann	O
+san	B-reminder/todo
+meine	I-reminder/todo
+Wecker	I-reminder/todo
+gstellt	O
+
+Zoag	O
+meine	O
+Wecka	B-artist
+
+wechan	B-track
+wecka	I-track
+hob	I-track
+i	I-track
+drinnen	I-track
+
+Dua	B-track
+den	I-track
+wecka	I-track
+auf	O
+schlumman	B-playlist
+
+Snooze	O
+an	O
+Wecka	O
+.	O
+
+Schdäi	O
+an	O
+wegga	B-object_name
+weider	I-object_name
+
+Snooze	O
+den	O
+Wecka	O
+.	O
+
+loss	O
+an	O
+Wegga	B-reminder/todo
+schlummern	I-reminder/todo
+.	O
+
+lass	O
+mi	O
+schlaffa	O
+
+druck	O
+auf	O
+schlummern	B-object_name
+
+Snooze	O
+mein	O
+Wecker	O
+.	O
+
+lass	O
+den	O
+Wecka	B-object_name
+no	I-object_name
+a	I-object_name
+bissl	I-object_name
+schlummern	O
+.	O
+
+Snooze	O
+den	O
+Wecker	O
+
+Snooze	O
+an	O
+Wecka	O
+
+snooza	O
+mein	O
+wecka	B-entity_name
+oba	I-entity_name
+zackig	I-entity_name
+
+Wia	B-artist
+Long	I-artist
+no	B-track
+bis	I-track
+dea	I-track
+wecka	I-track
+klingelt	I-track
+
+Wia	B-track
+lang	I-track
+no	I-track
+bis	I-track
+da	I-track
+Wecka	I-track
+klingelt	I-track
+?	O
+
+Wann	O
+leid	O
+mei	B-datetime
+wegga	O
+?	O
+
+Wia	O
+lang	O
+is	O
+no	B-movie_name
+bis	I-movie_name
+da	I-movie_name
+Wecka	I-movie_name
+klingelt	I-movie_name
+?	O
+
+Wia	B-track
+lang	I-track
+hob	I-track
+i	I-track
+no	I-track
+bis	I-track
+mei	I-track
+Wegga	I-track
+leit	I-track
+?	O
+
+wann	O
+klingelt	O
+da	B-movie_name
+Wecker	I-movie_name
+
+wie	O
+lang	O
+nu	B-datetime
+bis	O
+da	O
+wegga	O
+losgeht	O
+
+Waun	O
+is	O
+denn	O
+mei	O
+Wecka	B-location
+
+Wie	O
+lang	O
+dauerts	O
+no	O
+bis	O
+mei	O
+Wecker	O
+klingelt	O
+
+wie	O
+fui	O
+Uhr	O
+is	O
+?	O
+Wie	O
+lang	O
+no	O
+bis	O
+der	O
+bläde	O
+Wecka	O
+klingelt	O
+?	O
+
+Wann	O
+klinglt	O
+da	B-movie_name
+Wecka	I-movie_name
+
+Wia	O
+lang	O
+dauerts	O
+no	B-datetime
+bis	I-datetime
+mei	I-datetime
+Wecka	I-datetime
+klingelt	O
+?	O
+
+wie	O
+lang	O
+kaun	O
+i	O
+nu	B-datetime
+im	O
+bett	O
+liegn	O
+
+Lösch	O
+de	O
+Erinnerung	O
+.	O
+
+Lösch	O
+mei	B-reference
+letzte	I-reference
+Erinnerung	O
+
+Lösch	O
+de	O
+Erinnerung	O
+.	O
+
+Lösch	O
+mei	B-reference
+Erinnerung	O
+.	O
+
+lösch	O
+die	O
+letzte	B-reference
+Erinnerung	O
+,	O
+die	O
+i	O
+erstellt	O
+hob	O
+
+lösch	O
+de	O
+erinnerung	O
+
+Lösch	O
+mei	B-reference
+Erinnerung	O
+
+mach	O
+amoi	O
+die	O
+Erinnerung	O
+raus	O
+.	O
+
+Erinnerung	O
+löschen	O
+
+Lösch	O
+de	O
+Erinnerung	O
+
+lösch	O
+mei	B-reference
+erinnerung	O
+fir	O
+moneyboy	B-reminder/todo
+horchn	I-reminder/todo
+
+I	O
+mechad	O
+gean	O
+a	O
+Erinnerung	O
+setza	O
+
+Mach	O
+a	O
+Erinnerung	O
+,	O
+dass	O
+i	O
+an	O
+Papa	B-reminder/todo
+in	B-datetime
+10	I-datetime
+Minuten	I-datetime
+oruafa	B-reminder/todo
+muas	I-reminder/todo
+.	O
+
+Erinner	O
+mi	O
+in	B-datetime
+10	I-datetime
+Minuten	I-datetime
+das	O
+i	O
+telefoniern	B-reminder/todo
+muass	I-reminder/todo
+
+Erinner	O
+mi	O
+in	B-datetime
+10	I-datetime
+Minudn	I-datetime
+,	O
+dass	O
+i	B-reminder/todo
+eikaffa	I-reminder/todo
+geh	I-reminder/todo
+wuid	I-reminder/todo
+.	O
+
+Erstoi	O
+ma	O
+a	O
+Erinnerung	O
+,	O
+dass	O
+i	O
+um	B-datetime
+5	I-datetime
+an	O
+Tobi	B-reminder/todo
+obhoin	I-reminder/todo
+muas	I-reminder/todo
+.	O
+
+erinner	O
+mi	O
+dro	O
+,	O
+dass	O
+i	B-reminder/todo
+am	I-reminder/todo
+Niklas	I-reminder/todo
+am	O
+8	B-datetime
+.	I-datetime
+April	I-datetime
+zum	O
+Geburtstag	O
+gratulier	O
+
+mach	O
+a	O
+erinnerung	O
+für	O
+mein	O
+Auflauf	B-reminder/todo
+in	B-datetime
+25	I-datetime
+min	I-datetime
+
+Stoi	O
+a	O
+Erinnerung	O
+,	O
+dass	O
+i	B-reminder/todo
+zur	I-reminder/todo
+Bank	I-reminder/todo
+muas	I-reminder/todo
+
+mach	O
+a	O
+neie	B-reference
+Erinnerung	O
+in	O
+mein	B-reference
+Kalender	O
+,	O
+dass	O
+i	B-reminder/todo
+morgen	I-reminder/todo
+erst	I-reminder/todo
+um	I-reminder/todo
+zehne	I-reminder/todo
+ind	I-reminder/todo
+Uni	I-reminder/todo
+nei	I-reminder/todo
+muas	I-reminder/todo
+.	O
+
+Erinnerungen	O
+heid	O
+um	O
+hoibe	B-reminder/todo
+Simme	I-reminder/todo
+für	I-reminder/todo
+Muich	I-reminder/todo
+und	I-reminder/todo
+Butta	I-reminder/todo
+eikaufa	I-reminder/todo
+
+setz	O
+a	O
+Erinnerung	O
+,	O
+dass	O
+i	O
+in	B-datetime
+15	I-datetime
+Minuten	I-datetime
+meine	B-reminder/todo
+Medikamente	I-reminder/todo
+nehma	I-reminder/todo
+muas	I-reminder/todo
+
+moch	O
+ma	O
+erinnerung	O
+,	O
+dassi	O
+mein	O
+vota	B-reminder/todo
+um	I-reminder/todo
+zwa	I-reminder/todo
+aurufn	I-reminder/todo
+muas	I-reminder/todo
+
+Zoag	O
+ma	O
+eine	O
+Erinnerungen	O
+
+Weiche	O
+Erinnerungen	O
+hob	O
+i	O
+?	O
+
+Wäiche	O
+Erinnerungen	O
+san	O
+gspeichert	O
+?	O
+
+Zoag	B-artist
+ma	I-artist
+olle	I-artist
+Erinnerungen	O
+.	O
+
+Zoag	O
+ma	O
+meine	B-reference
+Erinnerungen	O
+.	O
+
+Wos	O
+für	O
+Erinnerungen	O
+hob	O
+i	O
+
+zoag	B-artist
+ma	I-artist
+olle	I-artist
+meine	B-reference
+erinnerungen	O
+
+Woichane	O
+Erinnerungen	O
+hob	O
+i	O
+?	O
+
+weiche	O
+Erinnerungen	O
+san	B-reminder/todo
+für	I-reminder/todo
+heid	I-reminder/todo
+geplant	I-reminder/todo
+?	O
+
+Zoag	O
+ma	O
+meine	B-reference
+Erinnerungen	O
+
+Zoag	O
+ma	O
+meine	B-reference
+Erinnerungen	O
+
+wöchi	B-track
+erinnungen	I-track
+hobi	I-track
+grod	I-track
+
+Wia	B-object_name
+isn	I-object_name
+des	I-object_name
+wedda	I-object_name
+
+Wia	O
+is	O
+des	B-movie_name
+Weda	I-movie_name
+grod	I-movie_name
+in	O
+Minga	B-location
+?	O
+
+Wos	O
+is	O
+grod	B-reminder/todo
+für	I-reminder/todo
+a	I-reminder/todo
+weda	I-reminder/todo
+in	O
+äding	B-location
+?	O
+
+Wia	O
+is	O
+as	O
+Weda	B-reminder/todo
+heid	I-reminder/todo
+in	O
+Minga	B-location
+?	O
+
+Wia	B-location
+is	O
+as	O
+Weda	B-movie_name
+grod	I-movie_name
+in	O
+Burghausen	B-location
+?	O
+
+wia	O
+is	O
+'	O
+Weda	B-weather/attribute
+?	O
+
+wie	O
+wirds	O
+weda	B-location
+moang	I-location
+in	O
+rotholz	B-location
+
+Wia	O
+isn	O
+grod	B-reminder/todo
+des	I-reminder/todo
+Wetta	I-reminder/todo
+in	O
+Rosnheim	B-location
+?	O
+
+Wie	O
+is	O
+as	O
+Wedda	B-location
+auf	O
+Malle	B-location
+?	O
+
+wie	O
+isn	O
+des	O
+Weda	B-location
+drausn?	O
+
+Wia	O
+is	O
+a	O
+Weda	B-restaurant_name
+in	O
+Deging	B-location
+
+Wia	B-track
+vui	I-track
+Grod	I-track
+werds	I-track
+heid	I-track
+wern	I-track
+?	O
+
+wecha	B-artist
+weda	I-artist
+hods	O
+grod	B-track
+in	I-track
+minga	I-track
+
