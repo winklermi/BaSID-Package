@@ -156,21 +156,21 @@
 # id: 13
 # intent: BookRestaurant
 # text: reservier am Sonndog um Zwoa an Disch für 6 Leid beim Steber in Massing.
-1	reservier	BookRestaurant	O
-2	am	BookRestaurant	O
-3	Sonndog	BookRestaurant	B-datetime
-4	um	BookRestaurant	O
-5	Zwoa	BookRestaurant	B-datetime
-6	an	BookRestaurant	O
-7	Disch	BookRestaurant	O
-8	für	BookRestaurant	O
-9	6	BookRestaurant	B-party_size_description
-10	Leid	BookRestaurant	O
-11	beim	BookRestaurant	O
-12	Steber	BookRestaurant	B-restaurant_name
-13	in	BookRestaurant	O
-14	Massing	BookRestaurant	B-location
-15	.	BookRestaurant	O
+1	reservier	BookRestaurant
+2	am	BookRestaurant
+3	Sonndog	BookRestaurant
+4	um	BookRestaurant	
+5	Zwoa	BookRestaurant
+6	an	BookRestaurant
+7	Disch	BookRestaurant
+8	für	BookRestaurant
+9	6	BookRestaurant
+10	Leid	BookRestaurant
+11	beim	BookRestaurant
+12	Steber	BookRestaurant
+13	in	BookRestaurant
+14	Massing	BookRestaurant
+15	.	BookRestaurant
 
 # id: 14
 # intent: BookRestaurant
@@ -1292,4 +1292,4 @@
 5	in	weather/find	O
 6	Oidäding	weather/find	B-location
 7	moang	weather/find	B-datetime
-8	?	weather/find	O
+8	?
